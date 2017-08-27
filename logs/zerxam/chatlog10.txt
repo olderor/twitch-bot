@@ -1,0 +1,1702 @@
+2017-02-14 21:38:43.136710 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :всем споки
+2017-02-14 21:38:43.137106 jordanball678: всем споки
+2017-02-14 21:38:59.699535 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :споки
+2017-02-14 21:38:59.699789 olderor: споки
+2017-02-14 21:39:02.957850 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :HeyGuys
+2017-02-14 21:39:02.958113 zerxam: HeyGuys
+2017-02-14 21:39:08.992056 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :ResidentSleeper
+2017-02-14 21:39:08.992329 zerxam: ResidentSleeper
+2017-02-14 21:39:15.091375 ping-pong
+2017-02-14 21:39:27.533328 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :BibleThump
+2017-02-14 21:39:27.533626 jordanball678: BibleThump
+2017-02-14 21:43:21.357394 ping-pong
+2017-02-15 15:20:34.237811 
+2017-02-15 15:20:34.238881 
+2017-02-15 15:20:34.238964 
+2017-02-15 15:20:34.239059 Starting bot
+2017-02-15 15:20:34.239146 
+2017-02-15 15:20:34.239227 
+2017-02-15 15:20:34.389824 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 15:20:34.710385 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 15:20:34.710594 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 15:20:34.710699 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 15:20:34.710791 :tmi.twitch.tv 004 olderor :-
+2017-02-15 15:20:34.710872 :tmi.twitch.tv 375 olderor :-
+2017-02-15 15:20:34.710950 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 15:20:34.711020 :tmi.twitch.tv 376 olderor :>
+2017-02-15 15:20:34.731222 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 15:20:34.731704 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 15:20:34.731818 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 15:20:54.546978 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!uptime
+2017-02-15 15:20:54.547170 olderor: !uptime
+2017-02-15 15:20:55.499938 bot: PRIVMSG #zerxam :/me _bot zerxam is live for 1 hour, 18 minutes, 11 seconds{N}
+2017-02-15 15:21:03.911706 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!pyramid +bot
+2017-02-15 15:21:03.911963 zerxam: !pyramid +bot
+2017-02-15 15:21:03.912114 bot: PRIVMSG #zerxam :/me _bot +bot{N}
+2017-02-15 15:21:03.912368 bot: PRIVMSG #zerxam :/me _bot +bot +bot{N}
+2017-02-15 15:21:03.912483 bot: PRIVMSG #zerxam :/me _bot +bot +bot +bot{N}
+2017-02-15 15:21:03.912575 bot: PRIVMSG #zerxam :/me _bot +bot +bot{N}
+2017-02-15 15:21:03.912650 bot: PRIVMSG #zerxam :/me _bot +bot{N}
+2017-02-15 15:23:11.729558 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :через час где-то вернусь
+2017-02-15 15:23:11.729836 olderor: через час где-то вернусь
+2017-02-15 15:23:14.231202 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :тащи давай
+2017-02-15 15:23:14.231360 olderor: тащи давай
+2017-02-15 15:24:43.661312 ping-pong
+2017-02-15 15:29:11.841863 ping-pong
+2017-02-15 15:29:43.931117 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-02-15 15:33:52.665401 ping-pong
+2017-02-15 15:38:10.760391 ping-pong
+2017-02-15 15:41:12.352552 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :где пашган
+2017-02-15 15:41:12.352757 aragonro1: где пашган
+2017-02-15 15:41:17.591129 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :вчера был
+2017-02-15 15:41:17.591328 aragonro1: вчера был
+2017-02-15 15:43:05.307217 ping-pong
+2017-02-15 15:43:21.380318 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :долбит нормально
+2017-02-15 15:43:21.380566 aragonro1: долбит нормально
+2017-02-15 15:46:25.009349 bot: PRIVMSG #zerxam :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-15 15:47:31.343465 ping-pong
+2017-02-15 15:51:40.767460 ping-pong
+2017-02-15 15:56:30.186607 ping-pong
+2017-02-15 15:56:52.729566 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :нехорошо бмить
+2017-02-15 15:56:52.729778 gotthit: нехорошо бмить
+2017-02-15 16:01:30.064327 ping-pong
+2017-02-15 16:03:06.036147 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148{N}
+2017-02-15 16:06:08.333864 ping-pong
+2017-02-15 16:10:15.278027 ping-pong
+2017-02-15 16:14:26.620434 ping-pong
+2017-02-15 16:19:18.239373 ping-pong
+2017-02-15 16:19:47.007479 bot: PRIVMSG #zerxam :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-15 16:24:14.049811 ping-pong
+2017-02-15 16:27:13.250876 
+2017-02-15 16:27:13.251119 
+2017-02-15 16:27:13.251211 
+2017-02-15 16:27:13.251300 Starting bot
+2017-02-15 16:27:13.251425 
+2017-02-15 16:27:13.251501 
+2017-02-15 16:27:13.402254 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 16:27:13.804222 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 16:27:13.804661 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 16:27:13.804855 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 16:27:13.805015 :tmi.twitch.tv 004 olderor :-
+2017-02-15 16:27:13.805189 :tmi.twitch.tv 375 olderor :-
+2017-02-15 16:27:13.805327 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 16:27:13.805494 :tmi.twitch.tv 376 olderor :>
+2017-02-15 16:27:13.868700 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 16:27:13.869230 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 16:27:13.869469 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 16:27:28.328386 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!vk
+2017-02-15 16:27:28.329080 olderor: !vk
+2017-02-15 16:27:28.329248 bot: PRIVMSG #zerxam :/me _bot группа в вк: https://vk.com/zerxamtv + zerxam в вк: https://vk.com/id228197148{N}
+2017-02-15 16:27:35.874493 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :PogChamp
+2017-02-15 16:27:35.874736 olderor: PogChamp
+2017-02-15 16:29:00.217797 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ты опять без микро? 4Head
+2017-02-15 16:29:00.218134 olderor: ты опять без микро? 4Head
+2017-02-15 16:30:45.479016 
+2017-02-15 16:30:45.479135 
+2017-02-15 16:30:45.479222 
+2017-02-15 16:30:45.479292 Starting bot
+2017-02-15 16:30:45.479384 
+2017-02-15 16:30:45.479456 
+2017-02-15 16:30:45.637104 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 16:30:46.029014 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 16:30:46.029220 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 16:30:46.029300 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 16:30:46.029368 :tmi.twitch.tv 004 olderor :-
+2017-02-15 16:30:46.029430 :tmi.twitch.tv 375 olderor :-
+2017-02-15 16:30:46.029508 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 16:30:46.029591 :tmi.twitch.tv 376 olderor :>
+2017-02-15 16:30:46.077182 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 16:30:46.077345 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 16:30:46.077437 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 16:31:20.313338 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :пусть на стрим идет лул
+2017-02-15 16:31:20.313592 olderor: пусть на стрим идет лул
+2017-02-15 16:31:44.599546 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :сейчас бы самого себя не пиарить
+2017-02-15 16:31:44.599768 olderor: сейчас бы самого себя не пиарить
+2017-02-15 16:33:27.390153 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :сделай либо тише музыку, либо себя громче сделай
+2017-02-15 16:33:27.390366 gotthit: сделай либо тише музыку, либо себя громче сделай
+2017-02-15 16:33:52.875312 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :а то тебя почти не слышно (
+2017-02-15 16:33:52.875728 gotthit: а то тебя почти не слышно (
+2017-02-15 16:35:12.963115 ping-pong
+2017-02-15 16:36:28.587476 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :да
+2017-02-15 16:36:28.587724 gotthit: да
+2017-02-15 16:36:31.921449 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :теперь норм
+2017-02-15 16:36:31.921675 gotthit: теперь норм
+2017-02-15 16:39:41.311732 ping-pong
+2017-02-15 16:39:55.271447 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChampzerxam в вк: https://vk.com/id228197148{N}
+2017-02-15 16:42:16.457685 
+2017-02-15 16:42:16.457784 
+2017-02-15 16:42:16.457861 
+2017-02-15 16:42:16.457914 Starting bot
+2017-02-15 16:42:16.457996 
+2017-02-15 16:42:16.458065 
+2017-02-15 16:42:16.670325 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 16:42:17.054857 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 16:42:17.055148 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 16:42:17.055249 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 16:42:17.055337 :tmi.twitch.tv 004 olderor :-
+2017-02-15 16:42:17.055432 :tmi.twitch.tv 375 olderor :-
+2017-02-15 16:42:17.055518 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 16:42:17.055601 :tmi.twitch.tv 376 olderor :>
+2017-02-15 16:42:17.088411 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 16:42:17.088865 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 16:42:17.089092 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 16:42:23.518504 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :тише немного
+2017-02-15 16:42:23.518714 gotthit: тише немного
+2017-02-15 16:43:09.104661 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :тише узыку
+2017-02-15 16:43:09.104914 gotthit: тише узыку
+2017-02-15 16:43:36.009622 
+2017-02-15 16:43:36.009777 
+2017-02-15 16:43:36.009863 
+2017-02-15 16:43:36.009939 Starting bot
+2017-02-15 16:43:36.010015 
+2017-02-15 16:43:36.010094 
+2017-02-15 16:43:36.172765 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 16:43:36.557725 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 16:43:36.557964 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 16:43:36.558069 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 16:43:36.558173 :tmi.twitch.tv 004 olderor :-
+2017-02-15 16:43:36.558260 :tmi.twitch.tv 375 olderor :-
+2017-02-15 16:43:36.558349 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 16:43:36.558458 :tmi.twitch.tv 376 olderor :>
+2017-02-15 16:43:36.593986 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 16:43:36.594181 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 16:43:36.594298 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 16:43:57.586515 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!группа
+2017-02-15 16:43:57.586806 olderor: !группа
+2017-02-15 16:43:57.586930 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv{N}
+2017-02-15 16:44:22.137671 
+2017-02-15 16:44:22.137781 
+2017-02-15 16:44:22.137852 
+2017-02-15 16:44:22.137909 Starting bot
+2017-02-15 16:44:22.137966 
+2017-02-15 16:44:22.138016 
+2017-02-15 16:44:22.294905 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 16:44:22.634057 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 16:44:22.634352 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 16:44:22.634467 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 16:44:22.634554 :tmi.twitch.tv 004 olderor :-
+2017-02-15 16:44:22.634626 :tmi.twitch.tv 375 olderor :-
+2017-02-15 16:44:22.634708 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 16:44:22.634790 :tmi.twitch.tv 376 olderor :>
+2017-02-15 16:44:22.714529 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 16:44:22.714782 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 16:44:22.714908 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 16:47:43.286664 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :еще тише музыку
+2017-02-15 16:47:43.286879 gotthit: еще тише музыку
+2017-02-15 16:48:23.615436 ping-pong
+2017-02-15 16:50:27.915481 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :норм
+2017-02-15 16:50:27.915790 gotthit: норм
+2017-02-15 16:50:30.429674 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :спасибо )
+2017-02-15 16:50:30.430011 gotthit: спасибо )
+2017-02-15 16:52:28.776392 ping-pong
+2017-02-15 16:53:11.072551 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :не того убил
+2017-02-15 16:53:11.072812 olderor: не того убил
+2017-02-15 16:53:31.813667 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp{N}
+2017-02-15 16:54:47.495816 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=9wUCmq5v_oQ
+2017-02-15 16:54:47.496037 gotthit: !songrequest https://www.youtube.com/watch?v=9wUCmq5v_oQ
+2017-02-15 16:54:47.496361 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=9wUCmq5v_oQ requested by gotthit was successfully added, songs in the queue: 1{N}
+2017-02-15 16:56:00.183719 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ок
+2017-02-15 16:56:00.184990 gotthit: ок
+2017-02-15 16:56:15.483161 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=SqHbIu9SMJ0
+2017-02-15 16:56:15.483397 gotthit: !songrequest https://www.youtube.com/watch?v=SqHbIu9SMJ0
+2017-02-15 16:56:15.483651 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=SqHbIu9SMJ0 requested by gotthit was successfully added, songs in the queue: 2{N}
+2017-02-15 16:57:27.521745 ping-pong
+2017-02-15 16:59:38.149440 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 16:59:38.149708 zerxam: !get
+2017-02-15 16:59:38.150235 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=9wUCmq5v_oQ requested by gotthit, songs left: 1{N}
+2017-02-15 17:01:00.810893 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 17:01:00.811137 zerxam: !get
+2017-02-15 17:01:00.811531 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=SqHbIu9SMJ0 requested by gotthit, songs left: 0{N}
+2017-02-15 17:01:46.867001 ping-pong
+2017-02-15 17:01:58.810751 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :FailFish
+2017-02-15 17:01:58.811188 jordanball678: FailFish
+2017-02-15 17:05:43.593796 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :add him BibleThump
+2017-02-15 17:05:43.594036 olderor: add him BibleThump
+2017-02-15 17:06:19.987149 ping-pong
+2017-02-15 17:10:12.821389 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-02-15 17:10:40.959684 ping-pong
+2017-02-15 17:15:37.389715 ping-pong
+2017-02-15 17:15:54.235112 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=0e71Y_3-dQs
+2017-02-15 17:15:54.235279 jordanball678: !songrequest https://www.youtube.com/watch?v=0e71Y_3-dQs
+2017-02-15 17:15:54.235439 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=0e71Y_3-dQs requested by jordanball678 was successfully added, songs in the queue: 1{N}
+2017-02-15 17:19:56.422573 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :!мамка tyraph
+2017-02-15 17:19:56.422812 jordanball678: !мамка tyraph
+2017-02-15 17:19:56.422943 bot: PRIVMSG #zerxam :/me _bot здоровье мамки tyraph равно 44%{N}
+2017-02-15 17:20:17.085122 ping-pong
+2017-02-15 17:21:20.884241 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :ktnfk
+2017-02-15 17:21:20.884598 jordanball678: ktnfk
+2017-02-15 17:21:22.441309 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!topdeck
+2017-02-15 17:21:22.441535 gotthit: !topdeck
+2017-02-15 17:21:22.442025 bot: PRIVMSG #zerxam :/me _bot топдекаю как сучка уже 6 раз(а){N}
+2017-02-15 17:21:33.321281 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :дыбил
+2017-02-15 17:21:33.321543 gotthit: дыбил
+2017-02-15 17:21:33.763792 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :бляяяяяяяяяяяяяяяяяяяяяяяяяяяя
+2017-02-15 17:21:33.764007 jordanball678: бляяяяяяяяяяяяяяяяяяяяяяяяяяяя
+2017-02-15 17:21:42.558399 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :25 ранг
+2017-02-15 17:21:42.558581 jordanball678: 25 ранг
+2017-02-15 17:21:53.176820 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :игра на шомене вызывает рак мозга
+2017-02-15 17:21:53.177001 gotthit: игра на шомене вызывает рак мозга
+2017-02-15 17:21:53.374856 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :ливай
+2017-02-15 17:21:53.375166 jordanball678: ливай
+2017-02-15 17:22:21.803047 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :еще и выиграешь же )
+2017-02-15 17:22:21.803312 gotthit: еще и выиграешь же )
+2017-02-15 17:22:37.481389 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :стример нуб
+2017-02-15 17:22:37.481585 jordanball678: стример нуб
+2017-02-15 17:23:50.778664 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :все забираю свои слова назад, он сильный игрок
+2017-02-15 17:23:50.778901 jordanball678: все забираю свои слова назад, он сильный игрок
+2017-02-15 17:23:57.833652 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :Kappa
+2017-02-15 17:23:57.833852 jordanball678: Kappa
+2017-02-15 17:23:57.833938 bot: PRIVMSG #zerxam :/me _bot Kappa{N}
+2017-02-15 17:24:20.129266 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :CoolStoryBob
+2017-02-15 17:24:20.129505 jordanball678: CoolStoryBob
+2017-02-15 17:24:21.306077 ping-pong
+2017-02-15 17:25:18.507052 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :inerPirat
+2017-02-15 17:25:18.507294 olderor: inerPirat
+2017-02-15 17:26:49.199791 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ты там живой вообще? )
+2017-02-15 17:26:49.200634 gotthit: ты там живой вообще? )
+2017-02-15 17:26:53.764097 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе{N}
+2017-02-15 17:27:08.242404 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :https://clips.twitch.tv/zerxam/HelpfulBadgerMrDestructoid
+2017-02-15 17:27:08.242629 jordanball678: https://clips.twitch.tv/zerxam/HelpfulBadgerMrDestructoid
+2017-02-15 17:28:31.871739 ping-pong
+2017-02-15 17:29:07.855280 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Го в леге на мали дру
+2017-02-15 17:29:07.855500 gotthit: Го в леге на мали дру
+2017-02-15 17:31:37.817885 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Взял легу на мали дру Kappa Kappa
+2017-02-15 17:31:37.818253 gotthit: Взял легу на мали дру Kappa Kappa
+2017-02-15 17:32:32.072847 ping-pong
+2017-02-15 17:36:40.621687 ping-pong
+2017-02-15 17:38:19.200518 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Мали дру or no balls
+2017-02-15 17:38:19.200946 gotthit: Мали дру or no balls
+2017-02-15 17:39:12.509953 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :Сколько в 1 ар см2?
+2017-02-15 17:39:12.510395 jordanball678: Сколько в 1 ар см2?
+2017-02-15 17:41:36.200542 ping-pong
+2017-02-15 17:42:07.099888 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :меняй музон
+2017-02-15 17:42:07.100348 jordanball678: меняй музон
+2017-02-15 17:43:34.760719 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд{N}
+2017-02-15 17:44:50.121263 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!size
+2017-02-15 17:44:50.121492 olderor: !size
+2017-02-15 17:44:50.123981 bot: PRIVMSG #zerxam :/me _bot songs in the queue: 1{N}
+2017-02-15 17:45:02.310727 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :сонг реквестов нету LUL
+2017-02-15 17:45:02.310945 olderor: сонг реквестов нету LUL
+2017-02-15 17:45:10.100334 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 17:45:10.100532 zerxam: !get
+2017-02-15 17:45:10.100874 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=0e71Y_3-dQs requested by jordanball678, songs left: 0{N}
+2017-02-15 17:45:46.897077 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :там музончик топ
+2017-02-15 17:45:46.897306 jordanball678: там музончик топ
+2017-02-15 17:46:07.432282 ping-pong
+2017-02-15 17:47:39.093654 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=I1QZi8LUQnY
+2017-02-15 17:47:39.093974 gotthit: !songrequest https://www.youtube.com/watch?v=I1QZi8LUQnY
+2017-02-15 17:47:39.094258 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=I1QZi8LUQnY requested by gotthit was successfully added, songs in the queue: 1{N}
+2017-02-15 17:47:51.079249 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :в копилку трейлеров под Джонни Кеша
+2017-02-15 17:47:51.079547 gotthit: в копилку трейлеров под Джонни Кеша
+2017-02-15 17:50:16.971967 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!request https://youtu.be/jQcNiD0Z3MU
+2017-02-15 17:50:16.972362 olderor: !request https://youtu.be/jQcNiD0Z3MU
+2017-02-15 17:50:16.972582 bot: PRIVMSG #zerxam :/me _bot song https://youtu.be/jQcNiD0Z3MU requested by olderor was successfully added, songs in the queue: 2{N}
+2017-02-15 17:50:17.882970 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :грац
+2017-02-15 17:50:17.883218 gotthit: грац
+2017-02-15 17:50:33.940685 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :палагиат
+2017-02-15 17:50:33.940912 jordanball678: палагиат
+2017-02-15 17:50:36.623356 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!uptime
+2017-02-15 17:50:36.623555 zerxam: !uptime
+2017-02-15 17:50:37.888514 bot: PRIVMSG #zerxam :/me _bot zerxam is live for 3 hours, 47 minutes, 53 seconds{N}
+2017-02-15 17:50:44.706321 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :фу атписка Kappa
+2017-02-15 17:50:44.706800 jordanball678: фу атписка Kappa
+2017-02-15 17:50:45.368952 ping-pong
+2017-02-15 17:51:16.890316 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 17:51:16.890766 zerxam: !get
+2017-02-15 17:51:16.891930 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=I1QZi8LUQnY requested by gotthit, songs left: 1{N}
+2017-02-15 17:52:05.358177 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Логан - это росомаха
+2017-02-15 17:52:05.358400 gotthit: Логан - это росомаха
+2017-02-15 17:52:10.633188 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :комиксы читать надо
+2017-02-15 17:52:10.633522 gotthit: комиксы читать надо
+2017-02-15 17:55:06.334218 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 17:55:06.334704 zerxam: !get
+2017-02-15 17:55:06.335494 bot: PRIVMSG #zerxam :/me _bot now playing https://youtu.be/jQcNiD0Z3MU requested by olderor, songs left: 0{N}
+2017-02-15 17:55:19.635467 ping-pong
+2017-02-15 17:56:12.984504 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :"Не известных"
+2017-02-15 17:56:12.984678 gotthit: "Не известных"
+2017-02-15 17:56:18.344858 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Kappa
+2017-02-15 17:56:18.345122 gotthit: Kappa
+2017-02-15 17:56:18.345269 bot: PRIVMSG #zerxam :/me _bot Kappa{N}
+2017-02-15 17:56:42.130580 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Кто такой супермен?
+2017-02-15 17:56:42.131019 gotthit: Кто такой супермен?
+2017-02-15 17:59:24.679400 ping-pong
+2017-02-15 18:00:15.699251 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд{N}
+2017-02-15 18:01:30.885401 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :тише музыку плез )
+2017-02-15 18:01:30.885606 gotthit: тише музыку плез )
+2017-02-15 18:02:39.802890 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Так соотношение твой голос / музыка
+2017-02-15 18:02:39.803183 gotthit: Так соотношение твой голос / музыка
+2017-02-15 18:02:57.336909 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :покажи после этой катки пират вара на минутку
+2017-02-15 18:02:57.337210 gotthit: покажи после этой катки пират вара на минутку
+2017-02-15 18:03:36.744759 ping-pong
+2017-02-15 18:07:20.401597 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :-ubufyn
+2017-02-15 18:07:20.401858 gotthit: -ubufyn
+2017-02-15 18:07:23.629573 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :-гигант
+2017-02-15 18:07:23.629825 gotthit: -гигант
+2017-02-15 18:07:52.639403 ping-pong
+2017-02-15 18:10:46.095570 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Положи фул отхил за 9 Kappa
+2017-02-15 18:10:46.095820 gotthit: Положи фул отхил за 9 Kappa
+2017-02-15 18:11:15.018834 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :будет рено дру с повторениями
+2017-02-15 18:11:15.019069 gotthit: будет рено дру с повторениями
+2017-02-15 18:12:32.526406 ping-pong
+2017-02-15 18:13:56.403427 
+2017-02-15 18:13:56.403662 
+2017-02-15 18:13:56.403754 
+2017-02-15 18:13:56.403834 Starting bot
+2017-02-15 18:13:56.403926 
+2017-02-15 18:13:56.404008 
+2017-02-15 18:13:56.571697 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:13:56.953240 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:13:56.953479 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:13:56.953582 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:13:56.953682 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:13:56.953785 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:13:56.953885 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:13:56.953989 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:13:57.002964 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:13:57.004142 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:13:57.004379 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:14:16.945687 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:14:16.945981 olderor: Kappa
+2017-02-15 18:14:16.946331 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:15:03.660274 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :лол )
+2017-02-15 18:15:03.660502 gotthit: лол )
+2017-02-15 18:15:03.721401 
+2017-02-15 18:15:03.722315 
+2017-02-15 18:15:03.722405 
+2017-02-15 18:15:03.722494 Starting bot
+2017-02-15 18:15:03.723929 
+2017-02-15 18:15:03.724059 
+2017-02-15 18:15:03.881061 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:15:04.325122 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:15:04.325327 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:15:04.325423 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:15:04.325523 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:15:04.325606 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:15:04.325685 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:15:04.325767 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:15:04.360438 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:15:04.360684 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:15:04.360798 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:15:07.482375 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:15:07.482630 olderor: Kappa
+2017-02-15 18:15:07.483030 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:16:25.350652 
+2017-02-15 18:16:25.350758 
+2017-02-15 18:16:25.350821 
+2017-02-15 18:16:25.350888 Starting bot
+2017-02-15 18:16:25.350932 
+2017-02-15 18:16:25.350974 
+2017-02-15 18:16:25.519891 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:16:25.902824 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:16:25.903036 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:16:25.903113 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:16:25.903179 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:16:25.903248 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:16:25.903312 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:16:25.903376 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:16:26.073755 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:16:26.074256 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:16:26.074345 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:16:34.794987 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:16:34.795177 olderor: Kappa
+2017-02-15 18:16:34.795334 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:16:54.578391 
+2017-02-15 18:16:54.579063 
+2017-02-15 18:16:54.579182 
+2017-02-15 18:16:54.579274 Starting bot
+2017-02-15 18:16:54.579366 
+2017-02-15 18:16:54.579444 
+2017-02-15 18:16:54.728364 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:16:55.056229 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:16:55.056637 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:16:55.056980 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:16:55.057345 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:16:55.057781 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:16:55.058181 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:16:55.058611 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:16:55.094739 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:16:55.096388 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:16:55.096751 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:16:56.922689 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе{N}
+2017-02-15 18:17:01.196416 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:17:01.196845 olderor: Kappa
+2017-02-15 18:17:01.197385 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:17:10.255193 ping-pong
+2017-02-15 18:19:38.281692 
+2017-02-15 18:19:38.281847 
+2017-02-15 18:19:38.281978 
+2017-02-15 18:19:38.282070 Starting bot
+2017-02-15 18:19:38.282196 
+2017-02-15 18:19:38.282288 
+2017-02-15 18:19:38.454131 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:19:38.854603 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:19:38.854848 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:19:38.854944 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:19:38.855046 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:19:38.855131 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:19:38.855212 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:19:38.855303 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:19:38.894441 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:19:38.895356 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:19:38.895490 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:19:40.190815 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:19:40.191030 olderor: Kappa
+2017-02-15 18:19:40.191331 {N}{N}{N} !!! Exception: No JSON object could be decoded !!! {N}{N}{N}
+2017-02-15 18:19:59.700387 
+2017-02-15 18:19:59.700518 
+2017-02-15 18:19:59.700606 
+2017-02-15 18:19:59.700684 Starting bot
+2017-02-15 18:19:59.700759 
+2017-02-15 18:19:59.700898 
+2017-02-15 18:19:59.855620 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:20:00.263776 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:20:00.264000 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:20:00.264107 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:20:00.264290 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:20:00.264377 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:20:00.264462 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:20:00.264544 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:20:00.285468 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:20:00.286501 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:20:00.286605 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:20:04.547018 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:20:04.547225 olderor: Kappa
+2017-02-15 18:20:04.547396 {N}{N}{N} !!! Exception: 'list' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:20:41.576353 
+2017-02-15 18:20:41.576738 
+2017-02-15 18:20:41.577035 
+2017-02-15 18:20:41.577263 Starting bot
+2017-02-15 18:20:41.577520 
+2017-02-15 18:20:41.577780 
+2017-02-15 18:20:41.759170 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:20:42.300734 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:20:42.301190 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:20:42.301397 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:20:42.301608 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:20:42.301782 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:20:42.301982 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:20:42.302163 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:20:42.346171 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:20:42.346604 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:20:42.346880 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:20:45.084543 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:20:45.084756 olderor: Kappa
+2017-02-15 18:20:45.085440 {N}{N}{N} !!! Exception: 'list' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:21:24.793467 
+2017-02-15 18:21:24.793609 
+2017-02-15 18:21:24.793702 
+2017-02-15 18:21:24.793769 Starting bot
+2017-02-15 18:21:24.793836 
+2017-02-15 18:21:24.793928 
+2017-02-15 18:21:24.942209 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:21:25.257821 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:21:25.258078 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:21:25.258182 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:21:25.258283 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:21:25.258363 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:21:25.258435 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:21:25.258526 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:21:25.404156 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:21:25.405024 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:21:25.405137 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:21:27.964063 ping-pong
+2017-02-15 18:21:29.023583 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:21:29.023827 olderor: Kappa
+2017-02-15 18:21:29.024034 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:22:44.020812 
+2017-02-15 18:22:44.020918 
+2017-02-15 18:22:44.021010 
+2017-02-15 18:22:44.021114 Starting bot
+2017-02-15 18:22:44.021198 
+2017-02-15 18:22:44.021284 
+2017-02-15 18:22:44.183116 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:22:44.544438 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:22:44.544873 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:22:44.545097 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:22:44.545272 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:22:44.545418 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:22:44.545618 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:22:44.545798 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:22:44.630960 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:22:44.631330 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:22:44.631529 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:22:46.785236 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:22:46.785485 olderor: Kappa
+2017-02-15 18:22:46.785720 {N}{N}{N} !!! Exception: No JSON object could be decoded !!! {N}{N}{N}
+2017-02-15 18:24:21.314856 
+2017-02-15 18:24:21.314984 
+2017-02-15 18:24:21.315073 
+2017-02-15 18:24:21.315156 Starting bot
+2017-02-15 18:24:21.315229 
+2017-02-15 18:24:21.315299 
+2017-02-15 18:24:21.485487 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:24:21.892282 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:24:21.892542 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:24:21.892658 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:24:21.892789 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:24:21.892880 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:24:21.892965 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:24:21.893057 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:24:21.922711 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:24:21.923793 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:24:21.923946 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:24:25.967916 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:24:25.968131 olderor: Kappa
+2017-02-15 18:24:25.968438 {N}{N}{N} !!! Exception: 'str' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:25:48.781708 
+2017-02-15 18:25:48.781847 
+2017-02-15 18:25:48.781924 
+2017-02-15 18:25:48.781993 Starting bot
+2017-02-15 18:25:48.782067 
+2017-02-15 18:25:48.782138 
+2017-02-15 18:25:48.937130 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:25:49.334843 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:25:49.335223 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:25:49.335606 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:25:49.335724 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:25:49.335823 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:25:49.335913 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:25:49.335991 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:25:49.377955 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:25:49.378176 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:25:49.378284 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:25:51.857750 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:25:51.858017 olderor: Kappa
+2017-02-15 18:25:51.858289 {N}{N}{N} !!! Exception: No JSON object could be decoded !!! {N}{N}{N}
+2017-02-15 18:25:52.920495 ping-pong
+2017-02-15 18:30:01.263917 ping-pong
+2017-02-15 18:30:08.469895 ping-pong
+2017-02-15 18:33:38.076295 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp{N}
+2017-02-15 18:34:43.139833 ping-pong
+2017-02-15 18:34:53.945214 ping-pong
+2017-02-15 18:34:58.447982 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!{N}
+2017-02-15 18:34:58.708319 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ACTION _bot !request <url> - закажи песню на стриме бесплатно!
+2017-02-15 18:34:58.708563 olderor: ACTION _bot !request <url> - закажи песню на стриме бесплатно!
+2017-02-15 18:39:01.625236 ping-pong
+2017-02-15 18:39:13.645696 ping-pong
+2017-02-15 18:42:49.176149 
+2017-02-15 18:42:49.176281 
+2017-02-15 18:42:49.176348 
+2017-02-15 18:42:49.176407 Starting bot
+2017-02-15 18:42:49.176469 
+2017-02-15 18:42:49.176523 
+2017-02-15 18:42:49.337619 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:42:49.735801 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:42:49.736042 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:42:49.736120 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:42:49.736316 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:42:49.736386 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:42:49.736483 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:42:49.736547 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:42:49.780343 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:42:49.780616 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:42:49.780708 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:42:52.759240 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:42:52.759466 olderor: Kappa
+2017-02-15 18:43:10.389245 ping-pong
+2017-02-15 18:43:54.991397 
+2017-02-15 18:43:54.991551 
+2017-02-15 18:43:54.991627 
+2017-02-15 18:43:54.991695 Starting bot
+2017-02-15 18:43:54.991768 
+2017-02-15 18:43:54.991836 
+2017-02-15 18:43:55.157629 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:43:55.536651 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:43:55.536953 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:43:55.537033 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:43:55.537123 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:43:55.537187 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:43:55.537258 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:43:55.537329 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:43:55.576500 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:43:55.576741 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:43:55.576822 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:43:58.052296 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:43:58.052459 olderor: Kappa
+2017-02-15 18:44:15.927615 
+2017-02-15 18:44:15.927766 
+2017-02-15 18:44:15.927853 
+2017-02-15 18:44:15.927938 Starting bot
+2017-02-15 18:44:15.928014 
+2017-02-15 18:44:15.928100 
+2017-02-15 18:44:16.076533 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:44:16.383204 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:44:16.383418 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:44:16.383496 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:44:16.383566 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:44:16.383634 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:44:16.383698 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:44:16.383790 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:44:16.403062 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:44:16.403314 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:44:16.403409 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:44:18.094879 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:44:18.095132 olderor: Kappa
+2017-02-15 18:44:36.054985 
+2017-02-15 18:44:36.055094 
+2017-02-15 18:44:36.055155 
+2017-02-15 18:44:36.055211 Starting bot
+2017-02-15 18:44:36.055269 
+2017-02-15 18:44:36.055332 
+2017-02-15 18:44:36.208947 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:44:36.544530 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:44:36.544702 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:44:36.544793 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:44:36.544883 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:44:36.544993 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:44:36.545075 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:44:36.545144 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:44:36.577225 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:44:36.577412 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:44:36.577492 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:44:40.738076 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:44:40.738238 olderor: Kappa
+2017-02-15 18:44:44.593326 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :s
+2017-02-15 18:44:44.593688 olderor: s
+2017-02-15 18:44:44.594144 {N}{N}{N} !!! Exception: 's' !!! {N}{N}{N}
+2017-02-15 18:46:02.247867 
+2017-02-15 18:46:02.247976 
+2017-02-15 18:46:02.248043 
+2017-02-15 18:46:02.248127 Starting bot
+2017-02-15 18:46:02.248214 
+2017-02-15 18:46:02.248276 
+2017-02-15 18:46:02.411899 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:46:02.833630 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:46:02.833897 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:46:02.834038 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:46:02.834141 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:46:02.834229 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:46:02.834315 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:46:02.834411 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:46:02.869202 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:46:02.869622 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:46:02.869724 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:46:05.655644 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:46:05.655831 olderor: Kappa
+2017-02-15 18:46:07.246653 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :s
+2017-02-15 18:46:07.246944 olderor: s
+2017-02-15 18:46:33.694011 
+2017-02-15 18:46:33.694120 
+2017-02-15 18:46:33.694213 
+2017-02-15 18:46:33.694298 Starting bot
+2017-02-15 18:46:33.694380 
+2017-02-15 18:46:33.694468 
+2017-02-15 18:46:33.842265 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:46:34.150780 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:46:34.151024 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:46:34.151134 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:46:34.151258 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:46:34.151357 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:46:34.151455 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:46:34.151556 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:46:34.176680 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:46:34.177161 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:46:34.177283 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:46:38.788898 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:46:38.789109 olderor: Kappa
+2017-02-15 18:46:38.789638 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 18:46:55.983657 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:46:55.983845 olderor: Kappa
+2017-02-15 18:46:55.984291 bot: PRIVMSG #olderor :/me _bot Keepo{N}
+2017-02-15 18:47:24.912518 ping-pong
+2017-02-15 18:47:30.030983 
+2017-02-15 18:47:30.031154 
+2017-02-15 18:47:30.031261 
+2017-02-15 18:47:30.031370 Starting bot
+2017-02-15 18:47:30.031487 
+2017-02-15 18:47:30.031586 
+2017-02-15 18:47:30.188856 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:47:30.555049 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:47:30.555306 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:47:30.555406 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:47:30.555501 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:47:30.555654 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:47:30.555736 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:47:30.555814 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:47:30.589299 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:47:30.589544 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:47:30.589643 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:48:01.450849 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:48:01.451041 olderor: Kappa
+2017-02-15 18:48:01.451428 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 18:48:05.332901 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 18:48:05.333123 olderor: !ask
+2017-02-15 18:48:05.333618 {N}{N}{N} !!! Exception: invalid syntax (<string>, line 2) !!! {N}{N}{N}
+2017-02-15 18:48:45.252301 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!deck
+2017-02-15 18:48:45.252692 olderor: !deck
+2017-02-15 18:48:45.255171 bot: PRIVMSG #olderor :/me _bot Latest deck is here: https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg{N}
+2017-02-15 18:48:51.814892 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!followage
+2017-02-15 18:48:51.815101 olderor: !followage
+2017-02-15 18:48:52.687231 request:2 months, 20 days, 5 hours
+2017-02-15 18:48:52.687409 bot: PRIVMSG #olderor :/me _bot olderor is following zerxam for 2 months, 20 days, 5 hours{N}
+2017-02-15 18:49:01.404901 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 18:49:01.407954 olderor: !мамка
+2017-02-15 18:49:42.706019 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка тест
+2017-02-15 18:49:42.706270 olderor: !мамка тест
+2017-02-15 18:49:52.045743 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка тест
+2017-02-15 18:49:52.045982 olderor: !мамка тест
+2017-02-15 18:50:19.210529 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148{N}
+2017-02-15 18:50:41.959351 
+2017-02-15 18:50:41.959507 
+2017-02-15 18:50:41.959591 
+2017-02-15 18:50:41.959677 Starting bot
+2017-02-15 18:50:41.959760 
+2017-02-15 18:50:41.959835 
+2017-02-15 18:50:42.116792 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:50:42.447831 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:50:42.448307 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:50:42.448609 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:50:42.448886 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:50:42.449138 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:50:42.449406 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:50:42.449724 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:50:42.493412 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:50:42.493906 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:50:42.494186 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:50:47.455560 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:50:47.455802 olderor: Kappa
+2017-02-15 18:50:47.456367 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 18:50:52.576267 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 18:50:52.576474 olderor: !мамка
+2017-02-15 18:51:05.857755 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!uptime
+2017-02-15 18:51:05.858044 olderor: !uptime
+2017-02-15 18:51:06.671774 bot: PRIVMSG #olderor :/me _bot olderor is not live.{N}
+2017-02-15 18:51:20.437666 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!время
+2017-02-15 18:51:20.437925 olderor: !время
+2017-02-15 18:52:19.951017 ping-pong
+2017-02-15 18:53:07.093379 
+2017-02-15 18:53:07.093479 
+2017-02-15 18:53:07.093542 
+2017-02-15 18:53:07.093596 Starting bot
+2017-02-15 18:53:07.093648 
+2017-02-15 18:53:07.093700 
+2017-02-15 18:53:07.251420 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:53:07.599926 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:53:07.600255 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:53:07.600360 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:53:07.600451 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:53:07.600548 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:53:07.600636 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:53:07.600739 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:53:07.631662 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:53:07.632705 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:53:07.632826 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:53:11.423146 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:53:11.423332 olderor: Kappa
+2017-02-15 18:53:11.423773 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 18:53:15.236275 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 18:53:15.236552 olderor: !мамка
+2017-02-15 18:54:13.117110 
+2017-02-15 18:54:13.117212 
+2017-02-15 18:54:13.117273 
+2017-02-15 18:54:13.117327 Starting bot
+2017-02-15 18:54:13.117379 
+2017-02-15 18:54:13.117448 
+2017-02-15 18:54:13.268580 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:54:13.619736 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:54:13.619960 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:54:13.620098 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:54:13.620452 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:54:13.620544 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:54:13.620629 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:54:13.620708 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:54:13.775859 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:54:13.776072 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:54:13.776268 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:54:24.158872 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:54:24.159239 olderor: Kappa
+2017-02-15 18:54:24.159822 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 18:54:26.721741 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 18:54:26.721921 olderor: !мамка
+2017-02-15 18:55:09.624733 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :паладин Kreygasm
+2017-02-15 18:55:09.625000 gotthit: паладин Kreygasm
+2017-02-15 18:55:26.752922 
+2017-02-15 18:55:26.753085 
+2017-02-15 18:55:26.753166 
+2017-02-15 18:55:26.753245 Starting bot
+2017-02-15 18:55:26.753313 
+2017-02-15 18:55:26.753391 
+2017-02-15 18:55:26.913763 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:55:27.342045 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:55:27.342325 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:55:27.342437 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:55:27.342543 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:55:27.342647 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:55:27.342761 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:55:27.342858 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:55:27.374507 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:55:27.375167 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:55:27.375282 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:55:32.460423 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:55:32.460662 olderor: Kappa
+2017-02-15 18:55:32.460835 {N}{N}{N} !!! Exception: 'encoding' is an invalid keyword argument for this function !!! {N}{N}{N}
+2017-02-15 18:56:16.176677 
+2017-02-15 18:56:16.176826 
+2017-02-15 18:56:16.176909 
+2017-02-15 18:56:16.176988 Starting bot
+2017-02-15 18:56:16.177081 
+2017-02-15 18:56:16.177147 
+2017-02-15 18:56:16.358458 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:56:16.698691 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:56:16.698922 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:56:16.699004 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:56:16.699066 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:56:16.699125 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:56:16.699200 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:56:16.699268 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:56:16.758261 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:56:16.758809 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:56:16.758912 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:56:18.939965 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:56:18.944304 olderor: Kappa
+2017-02-15 18:56:18.944713 {N}{N}{N} !!! Exception: 'encoding' is an invalid keyword argument for this function !!! {N}{N}{N}
+2017-02-15 18:56:28.863714 
+2017-02-15 18:56:28.863839 
+2017-02-15 18:56:28.863902 
+2017-02-15 18:56:28.863969 Starting bot
+2017-02-15 18:56:28.864017 
+2017-02-15 18:56:28.864071 
+2017-02-15 18:56:29.012298 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:56:29.393216 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:56:29.393524 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:56:29.393631 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:56:29.393776 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:56:29.393981 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:56:29.394091 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:56:29.394183 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:56:29.442590 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:56:29.442775 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:56:29.442873 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:56:31.518883 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:56:31.519077 olderor: Kappa
+2017-02-15 18:56:31.519306 {N}{N}{N} !!! Exception: 'unicode' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:56:53.790712 ping-pong
+2017-02-15 18:57:42.762580 
+2017-02-15 18:57:42.762724 
+2017-02-15 18:57:42.762928 
+2017-02-15 18:57:42.763002 Starting bot
+2017-02-15 18:57:42.763061 
+2017-02-15 18:57:42.763108 
+2017-02-15 18:57:42.931299 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:57:43.303430 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:57:43.303609 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:57:43.303722 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:57:43.303822 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:57:43.303927 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:57:43.304028 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:57:43.304128 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:57:43.345990 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:57:43.346156 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:57:43.346247 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:57:47.788460 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:57:47.788655 olderor: Kappa
+2017-02-15 18:57:47.788881 {N}{N}{N} !!! Exception: 'unicode' object has no attribute 'read' !!! {N}{N}{N}
+2017-02-15 18:58:51.403722 
+2017-02-15 18:58:51.404122 
+2017-02-15 18:58:51.404235 
+2017-02-15 18:58:51.404295 Starting bot
+2017-02-15 18:58:51.404345 
+2017-02-15 18:58:51.404396 
+2017-02-15 18:58:51.577414 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:58:51.987257 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:58:51.987787 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:58:51.987907 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:58:51.987991 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:58:51.988057 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:58:51.988120 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:58:51.988235 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:58:52.007405 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:58:52.007556 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:58:52.007693 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:58:55.758711 
+2017-02-15 18:58:55.758823 
+2017-02-15 18:58:55.758889 
+2017-02-15 18:58:55.758949 Starting bot
+2017-02-15 18:58:55.759006 
+2017-02-15 18:58:55.759069 
+2017-02-15 18:58:55.920008 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 18:58:56.284459 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 18:58:56.284739 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 18:58:56.284887 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 18:58:56.285024 :tmi.twitch.tv 004 olderor :-
+2017-02-15 18:58:56.285154 :tmi.twitch.tv 375 olderor :-
+2017-02-15 18:58:56.285240 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 18:58:56.285302 :tmi.twitch.tv 376 olderor :>
+2017-02-15 18:58:56.340587 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 18:58:56.340922 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 18:58:56.341051 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 18:58:59.930608 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 18:58:59.930895 olderor: Kappa
+2017-02-15 18:58:59.931172 {N}{N}{N} !!! Exception: __init__() got an unexpected keyword argument 'ensure_ascii' !!! {N}{N}{N}
+2017-02-15 19:01:49.073759 ping-pong
+2017-02-15 19:02:51.940278 
+2017-02-15 19:02:51.940389 
+2017-02-15 19:02:51.940481 
+2017-02-15 19:02:51.940558 Starting bot
+2017-02-15 19:02:51.940632 
+2017-02-15 19:02:51.940717 
+2017-02-15 19:02:52.098110 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:02:52.587826 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:02:52.587997 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:02:52.588142 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:02:52.588493 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:02:52.588765 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:02:52.588923 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:02:52.589148 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:02:52.621577 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:02:52.621740 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:02:52.621950 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:02:56.456406 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:02:56.456661 olderor: Kappa
+2017-02-15 19:02:56.457142 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:03:00.548349 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:03:00.548564 olderor: !мамка
+2017-02-15 19:03:24.876086 
+2017-02-15 19:03:24.876446 
+2017-02-15 19:03:24.876655 
+2017-02-15 19:03:24.876853 Starting bot
+2017-02-15 19:03:24.877069 
+2017-02-15 19:03:24.877250 
+2017-02-15 19:03:25.038484 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:03:25.368508 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:03:25.368757 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:03:25.368856 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:03:25.368951 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:03:25.369050 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:03:25.369139 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:03:25.369232 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:03:25.428398 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:03:25.428761 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:03:25.428878 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:03:27.256616 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:03:27.256839 olderor: Kappa
+2017-02-15 19:03:27.257009 {N}{N}{N} !!! Exception: expected string or buffer !!! {N}{N}{N}
+2017-02-15 19:03:43.036082 
+2017-02-15 19:03:43.036691 
+2017-02-15 19:03:43.036775 
+2017-02-15 19:03:43.036858 Starting bot
+2017-02-15 19:03:43.036916 
+2017-02-15 19:03:43.036971 
+2017-02-15 19:03:43.197334 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:03:43.532048 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:03:43.532228 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:03:43.532307 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:03:43.532375 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:03:43.532439 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:03:43.532499 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:03:43.532571 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:03:43.609625 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:03:43.610650 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:03:43.610778 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:03:45.932768 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:03:45.933024 olderor: Kappa
+2017-02-15 19:03:45.933441 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:03:49.298325 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:03:49.298549 olderor: !мамка
+2017-02-15 19:05:42.673211 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :там типо мажор
+2017-02-15 19:05:42.673428 jordanball678: там типо мажор
+2017-02-15 19:05:42.800723 
+2017-02-15 19:05:42.800836 
+2017-02-15 19:05:42.800895 
+2017-02-15 19:05:42.800951 Starting bot
+2017-02-15 19:05:42.801017 
+2017-02-15 19:05:42.801084 
+2017-02-15 19:05:42.968694 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:05:43.349601 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:05:43.349816 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:05:43.349917 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:05:43.350010 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:05:43.350097 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:05:43.350184 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:05:43.350274 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:05:43.379631 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:05:43.380565 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:05:43.380721 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:05:46.908726 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:05:46.908945 olderor: Kappa
+2017-02-15 19:05:46.910646 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:05:50.480815 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:05:50.481047 olderor: !мамка
+2017-02-15 19:05:52.403500 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :(дримхак)
+2017-02-15 19:05:52.403739 jordanball678: (дримхак)
+2017-02-15 19:06:02.801618 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!time
+2017-02-15 19:06:02.801798 olderor: !time
+2017-02-15 19:06:03.585176 bot: PRIVMSG #olderor :/me _bot olderor is not live.{N}
+2017-02-15 19:06:04.361725 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :а ты картишки кидаешь
+2017-02-15 19:06:04.361971 jordanball678: а ты картишки кидаешь
+2017-02-15 19:06:09.858886 
+2017-02-15 19:06:09.859037 
+2017-02-15 19:06:09.859140 
+2017-02-15 19:06:09.859238 Starting bot
+2017-02-15 19:06:09.859333 
+2017-02-15 19:06:09.859425 
+2017-02-15 19:06:10.020532 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:06:10.353404 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:06:10.353722 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:06:10.353878 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:06:10.353979 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:06:10.354069 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:06:10.354151 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:06:10.354237 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:06:10.372505 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:06:10.374373 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:06:10.375291 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:06:16.449023 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:06:16.449254 olderor: Kappa
+2017-02-15 19:06:16.449777 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:06:18.161657 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:06:18.161875 olderor: !мамка
+2017-02-15 19:06:26.332572 ping-pong
+2017-02-15 19:06:48.391875 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :кс
+2017-02-15 19:06:48.392087 jordanball678: кс
+2017-02-15 19:06:52.730634 
+2017-02-15 19:06:52.730782 
+2017-02-15 19:06:52.730871 
+2017-02-15 19:06:52.730959 Starting bot
+2017-02-15 19:06:52.731053 
+2017-02-15 19:06:52.731111 
+2017-02-15 19:06:52.900014 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:06:53.287845 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:06:53.288485 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:06:53.288804 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:06:53.289129 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:06:53.289348 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:06:53.289572 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:06:53.289824 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:06:53.344768 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:06:53.345547 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:06:53.345786 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:06:57.027730 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:06:57.027932 olderor: Kappa
+2017-02-15 19:06:57.028370 {N}{N}{N} !!! Exception: 'builtin_function_or_method' object is not iterable !!! {N}{N}{N}
+2017-02-15 19:07:00.305368 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе{N}
+2017-02-15 19:07:07.409970 
+2017-02-15 19:07:07.410762 
+2017-02-15 19:07:07.410856 
+2017-02-15 19:07:07.410931 Starting bot
+2017-02-15 19:07:07.411001 
+2017-02-15 19:07:07.411088 
+2017-02-15 19:07:07.568320 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:07:07.917742 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:07:07.919452 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:07:07.919580 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:07:07.919669 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:07:07.919786 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:07:07.919873 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:07:07.919960 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:07:07.966685 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:07:07.966896 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:07:07.967004 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:07:10.098240 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:07:10.098813 olderor: Kappa
+2017-02-15 19:07:10.100469 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:07:20.334651 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!время
+2017-02-15 19:07:20.334916 olderor: !время
+2017-02-15 19:07:41.710625 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :только начало
+2017-02-15 19:07:41.710818 jordanball678: только начало
+2017-02-15 19:08:05.701504 
+2017-02-15 19:08:05.701654 
+2017-02-15 19:08:05.701967 
+2017-02-15 19:08:05.702077 Starting bot
+2017-02-15 19:08:05.702171 
+2017-02-15 19:08:05.702255 
+2017-02-15 19:08:05.864947 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:08:06.249692 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:08:06.249870 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:08:06.249949 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:08:06.250013 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:08:06.250080 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:08:06.250156 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:08:06.250231 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:08:06.289702 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:08:06.290605 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:08:06.290696 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:08:08.995188 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:08:08.995462 olderor: Kappa
+2017-02-15 19:08:08.996109 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:08:15.250253 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:08:15.250443 olderor: !мамка
+2017-02-15 19:08:18.878269 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :можешь мне эту деку скинуть
+2017-02-15 19:08:18.878494 jordanball678: можешь мне эту деку скинуть
+2017-02-15 19:09:21.853806 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-15 19:09:21.854058 jordanball678: лул
+2017-02-15 19:09:36.433578 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ты хоть раз выиграл? (я ток вернулся)
+2017-02-15 19:09:36.433808 gotthit: ты хоть раз выиграл? (я ток вернулся)
+2017-02-15 19:09:46.976441 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:09:46.976670 olderor: !мамка
+2017-02-15 19:09:58.808510 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:09:58.808753 olderor: !мамка
+2017-02-15 19:09:58.809192 {N}{N}{N} !!! Exception: Expecting property name enclosed in double quotes: line 6 column 5 (char 1938) !!! {N}{N}{N}
+2017-02-15 19:10:43.987830 ping-pong
+2017-02-15 19:11:01.468905 
+2017-02-15 19:11:01.469059 
+2017-02-15 19:11:01.469166 
+2017-02-15 19:11:01.469250 Starting bot
+2017-02-15 19:11:01.469336 
+2017-02-15 19:11:01.469432 
+2017-02-15 19:11:01.636907 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:11:02.011014 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:11:02.011236 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:11:02.011330 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:11:02.011417 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:11:02.011504 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:11:02.011582 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:11:02.011664 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:11:02.039451 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:11:02.040227 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:11:02.040380 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:11:06.541936 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:11:06.542193 olderor: Kappa
+2017-02-15 19:11:06.542776 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:11:09.038505 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:11:09.039058 olderor: !мамка
+2017-02-15 19:11:09.209775 {N}{N}{N} !!! Exception: global name 'random' is not defined !!! {N}{N}{N}
+2017-02-15 19:11:27.743589 
+2017-02-15 19:11:27.743721 
+2017-02-15 19:11:27.743802 
+2017-02-15 19:11:27.743876 Starting bot
+2017-02-15 19:11:27.743961 
+2017-02-15 19:11:27.744042 
+2017-02-15 19:11:27.903895 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:11:28.234340 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:11:28.234522 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:11:28.234631 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:11:28.234727 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:11:28.234828 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:11:28.234920 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:11:28.235023 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:11:28.265175 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:11:28.266152 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:11:28.266265 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:11:30.311074 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:11:30.312485 olderor: !мамка
+2017-02-15 19:11:30.313162 {N}{N}{N} !!! Exception: expected string or buffer !!! {N}{N}{N}
+2017-02-15 19:11:37.900382 
+2017-02-15 19:11:37.900495 
+2017-02-15 19:11:37.900565 
+2017-02-15 19:11:37.900622 Starting bot
+2017-02-15 19:11:37.900676 
+2017-02-15 19:11:37.900728 
+2017-02-15 19:11:38.058788 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:11:38.398331 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:11:38.398582 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:11:38.398696 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:11:38.398790 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:11:38.398891 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:11:38.398990 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:11:38.399087 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:11:38.625420 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:11:38.626204 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:11:38.626344 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:11:39.556959 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:11:39.557186 olderor: !мамка
+2017-02-15 19:11:39.557883 {N}{N}{N} !!! Exception: global name 'random' is not defined !!! {N}{N}{N}
+2017-02-15 19:12:37.422132 
+2017-02-15 19:12:37.422256 
+2017-02-15 19:12:37.422341 
+2017-02-15 19:12:37.422425 Starting bot
+2017-02-15 19:12:37.422518 
+2017-02-15 19:12:37.422594 
+2017-02-15 19:12:37.578263 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:12:37.957026 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:12:37.957220 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:12:37.957295 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:12:37.957363 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:12:37.957450 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:12:37.957547 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:12:37.957648 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:12:37.985538 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:12:37.986491 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:12:37.986600 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:12:41.684427 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка
+2017-02-15 19:12:41.684809 olderor: !мамка
+2017-02-15 19:12:41.686838 bot: PRIVMSG #olderor :/me _bot здоровье мамки равно 80%{N}
+2017-02-15 19:12:45.320666 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!мамка тест
+2017-02-15 19:12:45.321177 olderor: !мамка тест
+2017-02-15 19:12:45.323254 bot: PRIVMSG #olderor :/me _bot здоровье мамки тест равно 56%{N}
+2017-02-15 19:13:15.164676 
+2017-02-15 19:13:15.164775 
+2017-02-15 19:13:15.164843 
+2017-02-15 19:13:15.164901 Starting bot
+2017-02-15 19:13:15.164966 
+2017-02-15 19:13:15.165013 
+2017-02-15 19:13:15.342319 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:13:15.689778 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:13:15.689976 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:13:15.690082 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:13:15.690183 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:13:15.690283 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:13:15.690380 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:13:15.690473 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:13:15.709777 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:13:15.710620 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:13:15.710745 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:13:20.395153 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :Kappa
+2017-02-15 19:13:20.395427 olderor: Kappa
+2017-02-15 19:13:20.396153 bot: PRIVMSG #olderor :/me _bot Kappa{N}
+2017-02-15 19:13:25.106981 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!время
+2017-02-15 19:13:25.107198 olderor: !время
+2017-02-15 19:13:25.901120 bot: PRIVMSG #olderor :/me _bot olderor is not live.{N}
+2017-02-15 19:13:28.580769 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 19:13:28.581022 olderor: !ask
+2017-02-15 19:13:28.581471 {N}{N}{N} !!! Exception: invalid syntax (<string>, line 2) !!! {N}{N}{N}
+2017-02-15 19:13:29.326116 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :PogChamp PogChamp
+2017-02-15 19:13:29.326338 gotthit: PogChamp PogChamp
+2017-02-15 19:13:34.684343 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :оп лягушка
+2017-02-15 19:13:34.684585 gotthit: оп лягушка
+2017-02-15 19:14:09.584915 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 19:14:09.585112 olderor: !ask
+2017-02-15 19:14:09.585346 {N}{N}{N} !!! Exception: Invalid \escape: line 3 column 256 (char 297) !!! {N}{N}{N}
+2017-02-15 19:14:54.682662 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 19:14:54.682883 olderor: !ask
+2017-02-15 19:14:54.683531 {N}{N}{N} !!! Exception: invalid syntax (<string>, line 7) !!! {N}{N}{N}
+2017-02-15 19:15:18.164806 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :"выжить любой ценой" с Резником
+2017-02-15 19:15:18.165057 gotthit: "выжить любой ценой" с Резником
+2017-02-15 19:15:32.653805 ping-pong
+2017-02-15 19:16:25.766767 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :+
+2017-02-15 19:16:25.766990 jordanball678: +
+2017-02-15 19:17:07.748677 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 19:17:07.749066 olderor: !ask
+2017-02-15 19:17:07.750105 bot: PRIVMSG #olderor :/me _bot @olderor Сначала задай вопрос{N}
+2017-02-15 19:17:13.809615 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask что-о
+2017-02-15 19:17:13.809864 olderor: !ask что-о
+2017-02-15 19:17:13.810629 bot: PRIVMSG #olderor :/me _bot @olderor Мне кажется — 'да'{N}
+2017-02-15 19:17:35.490245 ping-pong
+2017-02-15 19:17:45.752626 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Круто было бы, если б потасовки проводились как ретроспектива мет предыдущих сезонов
+2017-02-15 19:17:45.752843 gotthit: Круто было бы, если б потасовки проводились как ретроспектива мет предыдущих сезонов
+2017-02-15 19:18:03.419111 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :типа у всех все карты, и ты играешь в мете патронов
+2017-02-15 19:18:03.419273 gotthit: типа у всех все карты, и ты играешь в мете патронов
+2017-02-15 19:18:27.738003 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :я соскучился по старым колодам
+2017-02-15 19:18:27.738230 gotthit: я соскучился по старым колодам
+2017-02-15 19:18:53.398913 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :неее
+2017-02-15 19:18:53.399207 gotthit: неее
+2017-02-15 19:19:22.759586 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :типа вернуть наборы карт в состояние, какое было два года назад
+2017-02-15 19:19:22.759834 gotthit: типа вернуть наборы карт в состояние, какое было два года назад
+2017-02-15 19:19:27.513921 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :или еще когда-то
+2017-02-15 19:19:27.514123 gotthit: или еще когда-то
+2017-02-15 19:19:41.456999 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :и у патронов даже в вайлде нет рывка
+2017-02-15 19:19:41.457217 gotthit: и у патронов даже в вайлде нет рывка
+2017-02-15 19:20:14.408324 :tvoinaveka!tvoinaveka@tvoinaveka.tmi.twitch.tv PRIVMSG #zerxam :здарова- поставь Рем Дигга- Дикарь( удачного стрима бро)
+2017-02-15 19:20:14.408518 tvoinaveka: здарова- поставь Рем Дигга- Дикарь( удачного стрима бро)
+2017-02-15 19:20:17.592105 ping-pong
+2017-02-15 19:20:34.559617 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!help
+2017-02-15 19:20:34.559836 zerxam: !help
+2017-02-15 19:20:34.559932 bot: PRIVMSG #zerxam :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-15 19:21:10.026285 :tvoinaveka!tvoinaveka@tvoinaveka.tmi.twitch.tv PRIVMSG #zerxam :я с телефона BibleThump
+2017-02-15 19:21:10.026980 tvoinaveka: я с телефона BibleThump
+2017-02-15 19:21:27.718885 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!request здарова- поставь Рем Дигга- Дикарь( удачного стрима бро)
+2017-02-15 19:21:27.719099 olderor: !request здарова- поставь Рем Дигга- Дикарь( удачного стрима бро)
+2017-02-15 19:21:27.719282 bot: PRIVMSG #zerxam :/me _bot song здарова- поставь Рем Дигга- Дикарь( удачного стрима бро) requested by olderor was successfully added, songs in the queue: 1{N}
+2017-02-15 19:21:44.509919 ping-pong
+2017-02-15 19:22:07.323578 :tvoinaveka!tvoinaveka@tvoinaveka.tmi.twitch.tv PRIVMSG #zerxam :хорошая тема
+2017-02-15 19:22:07.323824 tvoinaveka: хорошая тема
+2017-02-15 19:22:23.801171 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :встретились два декбилдера
+2017-02-15 19:22:23.801497 gotthit: встретились два декбилдера
+2017-02-15 19:22:24.860340 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд{N}
+2017-02-15 19:22:25.094952 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ACTION _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-15 19:22:25.095195 olderor: ACTION _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-15 19:22:48.840539 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:22:48.840867 olderor: !get
+2017-02-15 19:22:48.841308 bot: PRIVMSG #zerxam :/me _bot now playing здарова- поставь Рем Дигга- Дикарь( удачного стрима бро) requested by olderor, songs left: 0{N}
+2017-02-15 19:23:33.676697 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!request test
+2017-02-15 19:23:33.676963 olderor: !request test
+2017-02-15 19:23:33.677456 {N}{N}{N} !!! Exception: Expecting property name: line 24 column 1 (char 4635) !!! {N}{N}{N}
+2017-02-15 19:23:41.491538 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!{N}
+2017-02-15 19:23:53.809866 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!request test
+2017-02-15 19:23:53.810124 olderor: !request test
+2017-02-15 19:23:53.810692 {N}{N}{N} !!! Exception: EOL while scanning string literal (<string>, line 3) !!! {N}{N}{N}
+2017-02-15 19:24:37.648322 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=UlunjmpaRVU
+2017-02-15 19:24:37.648545 gotthit: !songrequest https://www.youtube.com/watch?v=UlunjmpaRVU
+2017-02-15 19:24:37.648766 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=UlunjmpaRVU requested by gotthit was successfully added, songs in the queue: 1{N}
+2017-02-15 19:24:38.302745 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!request test
+2017-02-15 19:24:38.303066 olderor: !request test
+2017-02-15 19:24:38.304019 {N}{N}{N} !!! Exception: EOL while scanning string literal (<string>, line 3) !!! {N}{N}{N}
+2017-02-15 19:25:07.440929 ping-pong
+2017-02-15 19:25:15.973847 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=GTWqwSNQCcg
+2017-02-15 19:25:15.974086 gotthit: !songrequest https://www.youtube.com/watch?v=GTWqwSNQCcg
+2017-02-15 19:25:15.974294 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=GTWqwSNQCcg requested by gotthit was successfully added, songs in the queue: 2{N}
+2017-02-15 19:25:25.322975 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:25:25.323192 zerxam: !get
+2017-02-15 19:25:25.323632 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=UlunjmpaRVU requested by gotthit, songs left: 1{N}
+2017-02-15 19:25:43.597327 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=c7MglDzGIWY
+2017-02-15 19:25:43.597607 gotthit: !songrequest https://www.youtube.com/watch?v=c7MglDzGIWY
+2017-02-15 19:25:43.597819 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=c7MglDzGIWY requested by gotthit was successfully added, songs in the queue: 2{N}
+2017-02-15 19:26:17.576312 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :это не видосы
+2017-02-15 19:26:17.576526 gotthit: это не видосы
+2017-02-15 19:26:25.002937 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!songrequest test
+2017-02-15 19:26:25.003246 olderor: !songrequest test
+2017-02-15 19:26:25.003842 {N}{N}{N} !!! Exception: EOL while scanning string literal (<string>, line 3) !!! {N}{N}{N}
+2017-02-15 19:26:37.834292 ping-pong
+2017-02-15 19:27:04.377941 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=f2zb6zg-W2s
+2017-02-15 19:27:04.378138 gotthit: !songrequest https://www.youtube.com/watch?v=f2zb6zg-W2s
+2017-02-15 19:27:04.378318 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=f2zb6zg-W2s requested by gotthit was successfully added, songs in the queue: 3{N}
+2017-02-15 19:27:34.365845 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=CWnYIb2lqpo
+2017-02-15 19:27:34.366048 gotthit: !songrequest https://www.youtube.com/watch?v=CWnYIb2lqpo
+2017-02-15 19:27:34.366208 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=CWnYIb2lqpo requested by gotthit was successfully added, songs in the queue: 4{N}
+2017-02-15 19:27:47.595204 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!request test
+2017-02-15 19:27:47.595429 olderor: !request test
+2017-02-15 19:27:47.596035 bot: PRIVMSG #olderor :/me _bot song test requested by olderor was successfully added, songs in the queue: 5{N}
+2017-02-15 19:27:58.717661 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :стрим под саундтреки из Ла Ла Ленд Kreygasm Kreygasm Kreygasm
+2017-02-15 19:27:58.717859 gotthit: стрим под саундтреки из Ла Ла Ленд Kreygasm Kreygasm Kreygasm
+2017-02-15 19:29:48.366431 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!clearsong
+2017-02-15 19:29:48.366676 olderor: !clearsong
+2017-02-15 19:29:48.367167 bot: PRIVMSG #olderor :/me _bot song request queue was cleared{N}
+2017-02-15 19:29:57.532741 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:29:57.532962 zerxam: !get
+2017-02-15 19:29:57.533397 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=GTWqwSNQCcg requested by gotthit, songs left: 3{N}
+2017-02-15 19:30:07.334310 ping-pong
+2017-02-15 19:30:51.267016 ping-pong
+2017-02-15 19:32:16.278732 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!clearsong
+2017-02-15 19:32:16.278935 olderor: !clearsong
+2017-02-15 19:32:16.279429 {N}{N}{N} !!! Exception: 'return' outside function (<string>, line 2) !!! {N}{N}{N}
+2017-02-15 19:33:16.743341 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!clearsong
+2017-02-15 19:33:16.743580 olderor: !clearsong
+2017-02-15 19:33:16.744251 bot: PRIVMSG #olderor :/me _bot song request queue was cleared{N}
+2017-02-15 19:33:28.739341 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 19:33:28.739526 olderor: !ask
+2017-02-15 19:33:28.740117 bot: PRIVMSG #olderor :/me _bot @olderor Сначала задай вопрос{N}
+2017-02-15 19:33:46.235848 
+2017-02-15 19:33:46.236003 
+2017-02-15 19:33:46.236101 
+2017-02-15 19:33:46.236286 Starting bot
+2017-02-15 19:33:46.236376 
+2017-02-15 19:33:46.236460 
+2017-02-15 19:33:46.393016 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:33:46.731890 :tmi.twitch.tv NOTICE * :Login authentication failed
+2017-02-15 19:34:11.654517 
+2017-02-15 19:34:11.654636 
+2017-02-15 19:34:11.654729 
+2017-02-15 19:34:11.654818 Starting bot
+2017-02-15 19:34:11.654908 
+2017-02-15 19:34:11.654990 
+2017-02-15 19:34:11.808326 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:34:12.128294 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:34:12.128531 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:34:12.128641 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:34:12.128731 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:34:12.128816 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:34:12.128906 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:34:12.128997 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:34:12.181313 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:34:12.181623 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:34:12.181764 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:34:16.199785 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!clearsong
+2017-02-15 19:34:16.199998 olderor: !clearsong
+2017-02-15 19:34:25.192995 
+2017-02-15 19:34:25.193374 
+2017-02-15 19:34:25.193646 
+2017-02-15 19:34:25.193881 Starting bot
+2017-02-15 19:34:25.194124 
+2017-02-15 19:34:25.194371 
+2017-02-15 19:34:25.344489 bot: PRIVMSG #olderor :/me _bot Bot is connected{N}
+2017-02-15 19:34:25.720289 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 19:34:25.720463 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 19:34:25.720541 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 19:34:25.720617 :tmi.twitch.tv 004 olderor :-
+2017-02-15 19:34:25.720680 :tmi.twitch.tv 375 olderor :-
+2017-02-15 19:34:25.720756 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 19:34:25.720820 :tmi.twitch.tv 376 olderor :>
+2017-02-15 19:34:25.750954 :olderor!olderor@olderor.tmi.twitch.tv JOIN #olderor
+2017-02-15 19:34:25.751478 :olderor.tmi.twitch.tv 353 olderor = #olderor :olderor
+2017-02-15 19:34:25.751603 :olderor.tmi.twitch.tv 366 olderor #olderor :End of /NAMES list
+2017-02-15 19:34:30.648025 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!clearsong
+2017-02-15 19:34:30.648355 olderor: !clearsong
+2017-02-15 19:34:30.649354 bot: PRIVMSG #olderor :/me _bot song request queue was cleared{N}
+2017-02-15 19:34:50.283286 ping-pong
+2017-02-15 19:35:44.207453 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:35:44.207771 zerxam: !get
+2017-02-15 19:35:44.208482 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=c7MglDzGIWY requested by gotthit, songs left: 2{N}
+2017-02-15 19:36:38.827491 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :смотрел фильм?
+2017-02-15 19:36:38.827773 gotthit: смотрел фильм?
+2017-02-15 19:37:08.333137 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!get
+2017-02-15 19:37:08.333491 olderor: !get
+2017-02-15 19:37:56.722458 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :хммм
+2017-02-15 19:37:56.722683 gotthit: хммм
+2017-02-15 19:38:13.705360 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Но его вообще в хорошем смотреть нужно
+2017-02-15 19:38:13.705588 gotthit: Но его вообще в хорошем смотреть нужно
+2017-02-15 19:38:21.132300 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :там крейгазмы
+2017-02-15 19:38:21.132510 gotthit: там крейгазмы
+2017-02-15 19:38:32.170599 ping-pong
+2017-02-15 19:38:55.827678 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :от кадров
+2017-02-15 19:38:55.828003 gotthit: от кадров
+2017-02-15 19:38:57.391798 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!get
+2017-02-15 19:38:57.392029 olderor: !get
+2017-02-15 19:38:57.392710 {N}{N}{N} !!! Exception: Invalid control character at: line 16 column 455 (char 5407) !!! {N}{N}{N}
+2017-02-15 19:39:15.150890 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :типа режисура все дела
+2017-02-15 19:39:15.151267 gotthit: типа режисура все дела
+2017-02-15 19:39:19.567429 ping-pong
+2017-02-15 19:39:59.009502 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!get
+2017-02-15 19:39:59.009761 olderor: !get
+2017-02-15 19:39:59.011054 bot: PRIVMSG #olderor :/me _bot now playing https://www.youtube.com/watch?v=f2zb6zg-W2s requested by gotthit, songs left: 1{N}
+2017-02-15 19:40:11.876385 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Просто я сначала в кино посмотрел, а потом дома в хреновом качестве - и вообще не то
+2017-02-15 19:40:11.877165 gotthit: Просто я сначала в кино посмотрел, а потом дома в хреновом качестве - и вообще не то
+2017-02-15 19:40:22.627422 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе{N}
+2017-02-15 19:40:56.539684 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Я сам ходил, лол )
+2017-02-15 19:40:56.539971 gotthit: Я сам ходил, лол )
+2017-02-15 19:41:37.227416 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!pyramid KappaPride
+2017-02-15 19:41:37.227649 zerxam: !pyramid KappaPride
+2017-02-15 19:41:37.227753 bot: PRIVMSG #zerxam :/me _bot KappaPride{N}
+2017-02-15 19:41:37.227862 bot: PRIVMSG #zerxam :/me _bot KappaPride KappaPride{N}
+2017-02-15 19:41:37.227934 bot: PRIVMSG #zerxam :/me _bot KappaPride KappaPride KappaPride{N}
+2017-02-15 19:41:37.227990 bot: PRIVMSG #zerxam :/me _bot KappaPride KappaPride{N}
+2017-02-15 19:41:37.228041 bot: PRIVMSG #zerxam :/me _bot KappaPride{N}
+2017-02-15 19:41:58.836832 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!song
+2017-02-15 19:41:58.837060 olderor: !song
+2017-02-15 19:41:58.837599 bot: PRIVMSG #olderor :/me _bot last played song is https://www.youtube.com/watch?v=f2zb6zg-W2s requested by gotthit{N}{N}
+2017-02-15 19:42:32.077282 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!size
+2017-02-15 19:42:32.077605 gotthit: !size
+2017-02-15 19:42:32.077889 bot: PRIVMSG #zerxam :/me _bot songs in the queue: 2{N}
+2017-02-15 19:42:58.926951 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!size
+2017-02-15 19:42:58.927168 olderor: !size
+2017-02-15 19:42:58.927809 bot: PRIVMSG #olderor :/me _bot songs in the queue: 2{N}
+2017-02-15 19:43:19.847960 ping-pong
+2017-02-15 19:43:35.045390 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp{N}
+2017-02-15 19:43:35.303207 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ACTION _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-02-15 19:43:35.303478 olderor: ACTION _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-02-15 19:43:51.822443 ping-pong
+2017-02-15 19:43:55.629699 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:43:55.629956 zerxam: !get
+2017-02-15 19:43:55.630531 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=f2zb6zg-W2s requested by gotthit, songs left: 1{N}
+2017-02-15 19:44:21.622075 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :А чем этот маг антибутылочнее обычного? )
+2017-02-15 19:44:21.622285 gotthit: А чем этот маг антибутылочнее обычного? )
+2017-02-15 19:44:45.243628 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :в самом начале - это следующая )
+2017-02-15 19:44:45.244081 gotthit: в самом начале - это следующая )
+2017-02-15 19:44:53.430312 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :эта была второй
+2017-02-15 19:44:53.430522 gotthit: эта была второй
+2017-02-15 19:45:56.153630 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!topdeck
+2017-02-15 19:45:56.153830 olderor: !topdeck
+2017-02-15 19:45:56.155699 bot: PRIVMSG #olderor :/me _bot топдекаю как сучка уже 7 раз(а){N}
+2017-02-15 19:46:45.288688 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Нефиг было рэп заказывать )
+2017-02-15 19:46:45.289743 gotthit: Нефиг было рэп заказывать )
+2017-02-15 19:48:04.558665 ping-pong
+2017-02-15 19:48:11.312014 ping-pong
+2017-02-15 19:48:39.266375 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!pyramid
+2017-02-15 19:48:39.266802 olderor: !pyramid
+2017-02-15 19:48:39.267941 bot: PRIVMSG #olderor :/me _bot MrDestructoid{N}
+2017-02-15 19:48:39.268350 bot: PRIVMSG #olderor :/me _bot MrDestructoid MrDestructoid{N}
+2017-02-15 19:48:39.268486 bot: PRIVMSG #olderor :/me _bot MrDestructoid MrDestructoid MrDestructoid{N}
+2017-02-15 19:48:39.268654 bot: PRIVMSG #olderor :/me _bot MrDestructoid MrDestructoid{N}
+2017-02-15 19:48:39.268723 bot: PRIVMSG #olderor :/me _bot MrDestructoid{N}
+2017-02-15 19:48:45.926125 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!pyramid Keepo
+2017-02-15 19:48:45.926326 olderor: !pyramid Keepo
+2017-02-15 19:48:45.926892 bot: PRIVMSG #olderor :/me _bot Keepo{N}
+2017-02-15 19:48:45.927036 bot: PRIVMSG #olderor :/me _bot Keepo Keepo{N}
+2017-02-15 19:48:45.927121 bot: PRIVMSG #olderor :/me _bot Keepo Keepo Keepo{N}
+2017-02-15 19:48:45.927183 bot: PRIVMSG #olderor :/me _bot Keepo Keepo{N}
+2017-02-15 19:48:45.927241 bot: PRIVMSG #olderor :/me _bot Keepo{N}
+2017-02-15 19:48:49.368468 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:48:49.368668 zerxam: !get
+2017-02-15 19:48:49.368991 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=CWnYIb2lqpo requested by gotthit, songs left: 0{N}
+2017-02-15 19:49:18.321783 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=TS-G4UQTfUo
+2017-02-15 19:49:18.321980 gotthit: !songrequest https://www.youtube.com/watch?v=TS-G4UQTfUo
+2017-02-15 19:49:18.322141 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=TS-G4UQTfUo requested by gotthit was successfully added, songs in the queue: 1{N}
+2017-02-15 19:49:22.372626 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!bot
+2017-02-15 19:49:22.372888 olderor: !bot
+2017-02-15 19:49:25.965633 {N}{N}{N} !!! Exception: <urlopen error [Errno -2] Name or service not known> !!! {N}{N}{N}
+2017-02-15 19:49:45.086123 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=HJrTYOyXHA0
+2017-02-15 19:49:45.086395 gotthit: !songrequest https://www.youtube.com/watch?v=HJrTYOyXHA0
+2017-02-15 19:49:45.086589 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=HJrTYOyXHA0 requested by gotthit was successfully added, songs in the queue: 2{N}
+2017-02-15 19:50:24.236982 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=zc71Q5U2Uow
+2017-02-15 19:50:24.237663 gotthit: !songrequest https://www.youtube.com/watch?v=zc71Q5U2Uow
+2017-02-15 19:50:24.238479 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=zc71Q5U2Uow requested by gotthit was successfully added, songs in the queue: 3{N}
+2017-02-15 19:50:29.238307 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!вк
+2017-02-15 19:50:29.238537 olderor: !вк
+2017-02-15 19:50:29.239520 bot: PRIVMSG #olderor :/me _bot группа в вк: https://vk.com/zerxamtv + zerxam в вк: https://vk.com/id228197148{N}
+2017-02-15 19:50:41.604755 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Да
+2017-02-15 19:50:41.605130 gotthit: Да
+2017-02-15 19:51:15.685359 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :А эти три - из Одержимости (тот же сцееенарист/режиссер что и у Ла Ла Ленд)
+2017-02-15 19:51:15.685601 gotthit: А эти три - из Одержимости (тот же сцееенарист/режиссер что и у Ла Ла Ленд)
+2017-02-15 19:51:17.577556 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!group
+2017-02-15 19:51:17.577830 olderor: !group
+2017-02-15 19:51:17.578471 bot: PRIVMSG #olderor :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp{N}
+2017-02-15 19:52:00.385562 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ага
+2017-02-15 19:52:00.385801 gotthit: ага
+2017-02-15 19:52:04.660003 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :wiplash
+2017-02-15 19:52:04.660293 gotthit: wiplash
+2017-02-15 19:52:08.204318 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :в оригинале
+2017-02-15 19:52:08.204555 gotthit: в оригинале
+2017-02-15 19:52:17.254153 ping-pong
+2017-02-15 19:52:18.021507 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :но про барабанщика
+2017-02-15 19:52:18.021696 gotthit: но про барабанщика
+2017-02-15 19:52:23.142600 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!help
+2017-02-15 19:52:23.142922 olderor: !help
+2017-02-15 19:52:23.143653 bot: PRIVMSG #olderor :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !group - группа в вк, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-15 19:52:27.212224 ping-pong
+2017-02-15 19:53:06.659433 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!мамка ungercore
+2017-02-15 19:53:06.659637 gotthit: !мамка ungercore
+2017-02-15 19:53:06.659774 bot: PRIVMSG #zerxam :/me _bot здоровье мамки ungercore равно 7%{N}
+2017-02-15 19:53:10.579782 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :вот
+2017-02-15 19:53:10.580126 gotthit: вот
+2017-02-15 19:53:29.981783 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Ну так годный музон просто )
+2017-02-15 19:53:29.982065 gotthit: Ну так годный музон просто )
+2017-02-15 19:53:36.940877 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :вот люди и смотрят
+2017-02-15 19:53:36.941212 gotthit: вот люди и смотрят
+2017-02-15 19:54:00.875413 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:54:00.875628 zerxam: !get
+2017-02-15 19:54:00.875979 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=TS-G4UQTfUo requested by gotthit, songs left: 2{N}
+2017-02-15 19:54:10.116374 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :=(
+2017-02-15 19:54:10.116579 gotthit: =(
+2017-02-15 19:54:54.266657 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!remdeck
+2017-02-15 19:54:54.266850 olderor: !remdeck
+2017-02-15 19:54:54.267604 bot: PRIVMSG #olderor :/me _bot deck was successfully removed{N}
+2017-02-15 19:55:06.440050 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!deck
+2017-02-15 19:55:06.440451 olderor: !deck
+2017-02-15 19:55:06.441472 bot: PRIVMSG #olderor :/me _bot deck is not set{N}
+2017-02-15 19:55:10.040208 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :2 ход "До сих пор" Kappa Kappa
+2017-02-15 19:55:10.040447 gotthit: 2 ход "До сих пор" Kappa Kappa
+2017-02-15 19:55:32.351667 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Он )
+2017-02-15 19:55:32.351838 gotthit: Он )
+2017-02-15 19:55:41.493089 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-02-15 19:55:41.493322 olderor: !setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-02-15 19:56:36.284352 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :а еще Изначально вместо Гослинга должен был быть главный герой одержимости, но из-за отвратной игры в фантастической четверке, решили, что лучше Гослинг ))
+2017-02-15 19:56:36.284634 gotthit: а еще Изначально вместо Гослинга должен был быть главный герой одержимости, но из-за отвратной игры в фантастической четверке, решили, что лучше Гослинг ))
+2017-02-15 19:56:40.913286 ping-pong
+2017-02-15 19:57:02.901978 ping-pong
+2017-02-15 19:57:03.851283 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-02-15 19:57:33.153918 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!topdeck
+2017-02-15 19:57:33.154193 gotthit: !topdeck
+2017-02-15 19:57:33.154617 bot: PRIVMSG #zerxam :/me _bot топдекаю как сучка уже 8 раз(а){N}
+2017-02-15 19:58:06.840318 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!setdeck
+2017-02-15 19:58:06.840596 olderor: !setdeck
+2017-02-15 19:58:06.841252 {N}{N}{N} !!! Exception: Invalid control character at: line 32 column 349 (char 9891) !!! {N}{N}{N}
+2017-02-15 19:58:31.464120 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Кек. Я тоже в первые дни допремьерного показа на него ходил )
+2017-02-15 19:58:31.464340 gotthit: Кек. Я тоже в первые дни допремьерного показа на него ходил )
+2017-02-15 19:58:42.737662 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :трейлер просто оч крутой
+2017-02-15 19:58:42.737899 gotthit: трейлер просто оч крутой
+2017-02-15 19:58:56.567162 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ладно )
+2017-02-15 19:58:56.567383 gotthit: ладно )
+2017-02-15 19:59:01.631487 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!setdeck
+2017-02-15 19:59:01.631785 olderor: !setdeck
+2017-02-15 19:59:01.632816 bot: PRIVMSG #olderor :/me _bot в сообщении необходимо указать ссылку на деку. !setdeck <url>{N}
+2017-02-15 19:59:06.024790 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-02-15 19:59:06.024998 olderor: !setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-02-15 19:59:06.025792 bot: PRIVMSG #olderor :/me _bot deck was successfully updated{N}
+2017-02-15 19:59:08.923918 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!deck
+2017-02-15 19:59:08.924115 olderor: !deck
+2017-02-15 19:59:08.924790 bot: PRIVMSG #olderor :/me _bot Latest deck is here: https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg{N}
+2017-02-15 19:59:10.908653 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 19:59:10.909118 gotthit: !get
+2017-02-15 19:59:43.251193 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Z [jntk lj yekz ljutnfnm )
+2017-02-15 19:59:43.251427 gotthit: Z [jntk lj yekz ljutnfnm )
+2017-02-15 19:59:46.185778 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@gotthit ха
+2017-02-15 19:59:46.186002 olderor: @gotthit ха
+2017-02-15 19:59:50.736409 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Я хотель до нуля догетать
+2017-02-15 19:59:50.736629 gotthit: Я хотель до нуля догетать
+2017-02-15 20:00:00.043258 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam ::Р
+2017-02-15 20:00:00.043454 olderor: :Р
+2017-02-15 20:00:13.689373 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Дайте и мне модерку ))
+2017-02-15 20:00:13.689618 gotthit: Дайте и мне модерку ))
+2017-02-15 20:00:16.100046 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд{N}
+2017-02-15 20:00:16.339963 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ACTION _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-15 20:00:16.340302 olderor: ACTION _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-15 20:00:32.651585 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :А нельзя стать сабом бесплатно? )
+2017-02-15 20:00:32.651766 gotthit: А нельзя стать сабом бесплатно? )
+2017-02-15 20:00:37.085132 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Kappa
+2017-02-15 20:00:37.085336 gotthit: Kappa
+2017-02-15 20:00:37.085424 bot: PRIVMSG #zerxam :/me _bot Kappa{N}
+2017-02-15 20:00:56.739551 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :даже если тебе дадут модерку, у тебя не будет досткпа
+2017-02-15 20:00:56.739796 olderor: даже если тебе дадут модерку, у тебя не будет досткпа
+2017-02-15 20:01:10.632457 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :что такое достл?
+2017-02-15 20:01:10.633010 gotthit: что такое достл?
+2017-02-15 20:01:13.690756 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :только я могу давать доступ к боту
+2017-02-15 20:01:13.691004 olderor: только я могу давать доступ к боту
+2017-02-15 20:01:20.807848 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :а
+2017-02-15 20:01:20.808060 gotthit: а
+2017-02-15 20:01:21.170897 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam ::Р
+2017-02-15 20:01:21.171123 olderor: :Р
+2017-02-15 20:01:28.493844 ping-pong
+2017-02-15 20:01:38.656439 ping-pong
+2017-02-15 20:01:40.649821 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :да ладно
+2017-02-15 20:01:40.650084 gotthit: да ладно
+2017-02-15 20:01:47.948370 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :хочешь потворить анархию?
+2017-02-15 20:01:47.948610 olderor: хочешь потворить анархию?
+2017-02-15 20:01:49.423068 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :я все равно пользоваться не буду )
+2017-02-15 20:01:49.423250 gotthit: я все равно пользоваться не буду )
+2017-02-15 20:02:09.949528 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Ну может разок жопохуя запущу Kappa
+2017-02-15 20:02:09.949860 gotthit: Ну может разок жопохуя запущу Kappa
+2017-02-15 20:02:17.576040 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :да
+2017-02-15 20:02:17.576304 olderor: да
+2017-02-15 20:02:29.156641 
+2017-02-15 20:02:29.158564 
+2017-02-15 20:02:29.158733 
+2017-02-15 20:02:29.158963 Starting bot
+2017-02-15 20:02:29.159085 
+2017-02-15 20:02:29.159219 
+2017-02-15 20:02:29.316487 bot: PRIVMSG #zerxam :/me _bot Bot is connected{N}
+2017-02-15 20:02:29.695060 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-15 20:02:29.695231 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-15 20:02:29.695307 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-15 20:02:29.695426 :tmi.twitch.tv 004 olderor :-
+2017-02-15 20:02:29.695487 :tmi.twitch.tv 375 olderor :-
+2017-02-15 20:02:29.695554 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-15 20:02:29.695633 :tmi.twitch.tv 376 olderor :>
+2017-02-15 20:02:29.712459 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-15 20:02:29.713549 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-15 20:02:29.713655 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-15 20:02:46.286913 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :вот теперь андрей может поспамить гет
+2017-02-15 20:02:46.287337 olderor: вот теперь андрей может поспамить гет
+2017-02-15 20:02:59.068684 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :@Zerxam и поставь тогда первую из ла-ла ленд еще раз
+2017-02-15 20:02:59.068911 gotthit: @Zerxam и поставь тогда первую из ла-ла ленд еще раз
+2017-02-15 20:03:03.669656 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 20:03:03.670188 gotthit: !get
+2017-02-15 20:03:03.671271 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=HJrTYOyXHA0 requested by gotthit, songs left: 1{N}
+2017-02-15 20:03:26.059382 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :yt
+2017-02-15 20:03:26.059591 gotthit: yt
+2017-02-15 20:03:27.193526 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :не
+2017-02-15 20:03:27.193721 gotthit: не
+2017-02-15 20:03:30.858314 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :не ту первую )
+2017-02-15 20:03:30.858631 gotthit: не ту первую )
+2017-02-15 20:03:42.889280 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :которая про тетю, прыгнувшую с моста
+2017-02-15 20:03:42.889448 gotthit: которая про тетю, прыгнувшую с моста
+2017-02-15 20:03:46.716372 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!вуе
+2017-02-15 20:03:46.716589 gotthit: !вуе
+2017-02-15 20:03:49.886395 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-15 20:03:49.886615 gotthit: !get
+2017-02-15 20:03:49.886907 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=zc71Q5U2Uow requested by gotthit, songs left: 0{N}
+2017-02-15 20:04:37.926294 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :пусти короче мои запросы заново с начала )
+2017-02-15 20:04:37.926509 gotthit: пусти короче мои запросы заново с начала )
+2017-02-15 20:05:21.833023 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :exit
+2017-02-15 20:05:21.833249 olderor: exit
+2017-02-15 20:05:21.834067 bot: PRIVMSG #olderor :/me _bot Bye!{N}
+2017-02-15 20:05:28.103298 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :start
+2017-02-15 20:05:28.103567 olderor: start
+2017-02-15 20:05:37.404665 ping-pong
+2017-02-15 20:05:50.722762 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 20:05:50.722983 olderor: !ask
+2017-02-15 20:05:50.723731 bot: PRIVMSG #olderor :/me _bot @olderor Сначала задай вопрос{N}
+2017-02-15 20:06:00.731181 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :exit
+2017-02-15 20:06:00.731413 olderor: exit
+2017-02-15 20:06:00.731991 bot: PRIVMSG #olderor :/me _bot Bye!{N}
+2017-02-15 20:06:03.121038 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :!ask
+2017-02-15 20:06:03.121268 olderor: !ask
+2017-02-15 20:06:03.122146 bot: PRIVMSG #olderor :/me _bot @olderor Сначала задай вопрос{N}
+2017-02-15 20:06:54.682750 ping-pong
+2017-02-15 20:07:26.712842 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!topdeck
+2017-02-15 20:07:26.713068 gotthit: !topdeck
+2017-02-15 20:07:26.715108 bot: PRIVMSG #zerxam :/me _bot топдекаю как сучка уже 9 раз(а){N}
+2017-02-15 20:07:48.138084 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Это тоже не та )
+2017-02-15 20:07:48.138330 gotthit: Это тоже не та )
+2017-02-15 20:08:15.198490 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :да те )
+2017-02-15 20:08:15.198856 gotthit: да те )
+2017-02-15 20:08:46.607517 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #olderor :exit
+2017-02-15 20:08:46.607731 olderor: exit
+2017-02-15 20:08:46.608417 {N}{N}{N} !!! Exception: name 'Exit' is not defined !!! {N}{N}{N}
+2017-02-15 20:10:09.527719 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Го )
+2017-02-15 20:10:09.527927 gotthit: Го )
+2017-02-15 20:10:13.485007 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :клевая идея )
+2017-02-15 20:10:13.485235 gotthit: клевая идея )
+2017-02-15 20:10:21.563294 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :может щас? )
+2017-02-15 20:10:21.563493 gotthit: может щас? )
+2017-02-15 20:11:00.124445 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!uptime
+2017-02-15 20:11:00.124733 zerxam: !uptime
+2017-02-15 20:11:00.862971 bot: PRIVMSG #zerxam :/me _bot zerxam is live for 6 hours, 8 minutes, 16 seconds{N}
+2017-02-15 20:11:30.618355 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :только без денег
+2017-02-15 20:11:30.618555 gotthit: только без денег
+2017-02-15 20:11:36.514605 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :Kappa
+2017-02-15 20:11:36.514865 gotthit: Kappa
+2017-02-15 20:11:36.514979 bot: PRIVMSG #zerxam :/me _bot Kappa{N}
+2017-02-15 20:11:38.836745 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!{N}
+2017-02-15 20:11:48.421172 ping-pong
+2017-02-15 20:12:26.171514 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-15 20:12:26.171833 olderor: exit
+2017-02-15 20:12:26.171966 bot: PRIVMSG #zerxam :/me _bot Bye!{N}

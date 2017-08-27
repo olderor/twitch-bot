@@ -1,0 +1,156 @@
+2017-02-03 20:30:38.935284 
+2017-02-03 20:30:38.935444 
+2017-02-03 20:30:38.935518 
+2017-02-03 20:30:38.935573 Starting bot
+2017-02-03 20:30:38.935643 
+2017-02-03 20:30:38.935702 
+2017-02-03 20:30:39.098105 bot: PRIVMSG #zerxam :_bot Bot is connected{N}
+2017-02-03 20:30:39.496057 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-03 20:30:39.496228 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-03 20:30:39.496305 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-03 20:30:39.496368 :tmi.twitch.tv 004 olderor :-
+2017-02-03 20:30:39.496428 :tmi.twitch.tv 375 olderor :-
+2017-02-03 20:30:39.496485 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-03 20:30:39.496543 :tmi.twitch.tv 376 olderor :>
+2017-02-03 20:30:39.534429 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-03 20:30:39.534601 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-03 20:30:39.534675 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-03 20:31:02.641360 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-03 20:31:02.641534 olderor: start
+2017-02-03 20:31:02.641617 bot: PRIVMSG #zerxam :_bot Hello! I'm here{N}
+2017-02-03 20:33:15.788161 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!pyramid WTF
+2017-02-03 20:33:15.788398 zerxam: !pyramid WTF
+2017-02-03 20:33:15.788518 bot: PRIVMSG #zerxam :_bot WTF{N}
+2017-02-03 20:33:15.788695 bot: PRIVMSG #zerxam :_bot WTF WTF{N}
+2017-02-03 20:33:15.788807 bot: PRIVMSG #zerxam :_bot WTF WTF WTF{N}
+2017-02-03 20:33:15.788892 bot: PRIVMSG #zerxam :_bot WTF WTF{N}
+2017-02-03 20:33:15.788952 bot: PRIVMSG #zerxam :_bot WTF{N}
+2017-02-03 20:35:37.890311 ping-pong
+2017-02-03 20:39:58.764320 ping-pong
+2017-02-03 20:40:12.614218 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-03 20:44:04.005355 ping-pong
+2017-02-03 20:48:45.953648 ping-pong
+2017-02-03 20:52:39.337910 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :кто выиграл? я пропустил
+2017-02-03 20:52:39.338147 olderor: кто выиграл? я пропустил
+2017-02-03 20:52:40.121962 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :турнир стримеров?
+2017-02-03 20:52:40.122112 gotthit: турнир стримеров?
+2017-02-03 20:52:47.519503 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :я ток пришел
+2017-02-03 20:52:47.519701 gotthit: я ток пришел
+2017-02-03 20:52:50.263161 ping-pong
+2017-02-03 20:53:00.030664 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :дарова
+2017-02-03 20:53:00.030874 olderor: дарова
+2017-02-03 20:53:05.870473 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :привет
+2017-02-03 20:53:05.870721 gotthit: привет
+2017-02-03 20:53:46.011911 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :так это он? Он сегодня ж вроде
+2017-02-03 20:53:46.012117 gotthit: так это он? Он сегодня ж вроде
+2017-02-03 20:55:30.051571 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@zerxam чсв
+2017-02-03 20:55:30.051750 olderor: @zerxam чсв
+2017-02-03 20:55:36.065702 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :игнорщик
+2017-02-03 20:55:36.065927 olderor: игнорщик
+2017-02-03 20:56:53.541306 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-03 20:57:37.559714 ping-pong
+2017-02-03 21:02:34.253457 ping-pong
+2017-02-03 21:04:55.498524 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :не говори свои карты
+2017-02-03 21:04:55.498711 olderor: не говори свои карты
+2017-02-03 21:04:59.763226 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :я смотреть не буд
+2017-02-03 21:04:59.763466 olderor: я смотреть не буд
+2017-02-03 21:05:03.405506 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :буду слушать
+2017-02-03 21:05:03.405719 olderor: буду слушать
+2017-02-03 21:05:05.632715 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-03 21:05:05.632902 olderor: лул
+2017-02-03 21:06:33.089555 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :говори ему не верную иныу
+2017-02-03 21:06:33.089775 gotthit: говори ему не верную иныу
+2017-02-03 21:06:38.143316 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :инфу:
+2017-02-03 21:06:38.143508 gotthit: инфу:
+2017-02-03 21:06:40.302313 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :*
+2017-02-03 21:06:40.302549 gotthit: *
+2017-02-03 21:06:50.493158 ping-pong
+2017-02-03 21:10:14.924619 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :он звездопад может носить
+2017-02-03 21:10:14.924830 gotthit: он звездопад может носить
+2017-02-03 21:11:02.310905 ping-pong
+2017-02-03 21:13:34.439441 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-02-03 21:15:05.985328 ping-pong
+2017-02-03 21:19:41.128448 ping-pong
+2017-02-03 21:23:41.950887 ping-pong
+2017-02-03 21:27:41.960460 ping-pong
+2017-02-03 21:30:15.350503 bot: PRIVMSG #zerxam :_bot zerxam в вк: https://vk.com/id228197148{N}
+2017-02-03 21:31:58.499615 ping-pong
+2017-02-03 21:36:19.191817 ping-pong
+2017-02-03 21:41:09.295558 ping-pong
+2017-02-03 21:45:31.229906 ping-pong
+2017-02-03 21:46:56.282067 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-02-03 21:47:14.755384 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :SMOrc
+2017-02-03 21:47:14.755619 olderor: SMOrc
+2017-02-03 21:49:55.922778 ping-pong
+2017-02-03 21:54:51.699376 ping-pong
+2017-02-03 21:59:17.258440 ping-pong
+2017-02-03 21:59:52.588418 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ищи блок с дракона
+2017-02-03 21:59:52.588586 gotthit: ищи блок с дракона
+2017-02-03 22:00:26.620928 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :не умеешь ты играть =/
+2017-02-03 22:00:26.621170 gotthit: не умеешь ты играть =/
+2017-02-03 22:03:37.206860 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-03 22:04:13.144307 ping-pong
+2017-02-03 22:08:21.248614 ping-pong
+2017-02-03 22:13:03.902684 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-03 22:13:03.902895 olderor: лул
+2017-02-03 22:13:11.839914 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :давно так не угарал в хсе
+2017-02-03 22:13:11.840139 olderor: давно так не угарал в хсе
+2017-02-03 22:13:14.687582 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :4Head
+2017-02-03 22:13:14.687759 olderor: 4Head
+2017-02-03 22:13:14.970843 ping-pong
+2017-02-03 22:17:46.703839 ping-pong
+2017-02-03 22:20:18.129927 bot: PRIVMSG #zerxam :_bot zerxam в вк: https://vk.com/id228197148{N}
+2017-02-03 22:21:40.666852 :pleasebenormal!pleasebenormal@pleasebenormal.tmi.twitch.tv PRIVMSG #zerxam :если я смотрю гей порно то это значит что я гей?
+2017-02-03 22:21:40.667102 pleasebenormal: если я смотрю гей порно то это значит что я гей?
+2017-02-03 22:22:05.056479 ping-pong
+2017-02-03 22:22:29.553627 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :да
+2017-02-03 22:22:29.553890 gotthit: да
+2017-02-03 22:22:44.698809 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :KappaPride
+2017-02-03 22:22:44.699030 olderor: KappaPride
+2017-02-03 22:26:49.645833 ping-pong
+2017-02-03 22:27:23.316927 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :учись играть за рогу LUL
+2017-02-03 22:27:23.317186 olderor: учись играть за рогу LUL
+2017-02-03 22:31:11.204392 ping-pong
+2017-02-03 22:35:12.038412 ping-pong
+2017-02-03 22:36:59.020710 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-02-03 22:39:33.290220 ping-pong
+2017-02-03 22:40:52.121774 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :always spell damage totem EleGiggle
+2017-02-03 22:40:52.121947 olderor: always spell damage totem EleGiggle
+2017-02-03 22:41:09.654378 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!pyramid EleGiggle
+2017-02-03 22:41:09.654579 olderor: !pyramid EleGiggle
+2017-02-03 22:41:09.654696 bot: PRIVMSG #zerxam :_bot EleGiggle{N}
+2017-02-03 22:41:09.654837 bot: PRIVMSG #zerxam :_bot EleGiggle EleGiggle{N}
+2017-02-03 22:41:09.654931 bot: PRIVMSG #zerxam :_bot EleGiggle EleGiggle EleGiggle{N}
+2017-02-03 22:41:09.655003 bot: PRIVMSG #zerxam :_bot EleGiggle EleGiggle{N}
+2017-02-03 22:41:09.655076 bot: PRIVMSG #zerxam :_bot EleGiggle{N}
+2017-02-03 22:43:09.509772 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!pyramid шаман - балансный класс
+2017-02-03 22:43:09.509998 zerxam: !pyramid шаман - балансный класс
+2017-02-03 22:43:09.510117 bot: PRIVMSG #zerxam :_bot шаман - балансный класс{N}
+2017-02-03 22:43:09.510251 bot: PRIVMSG #zerxam :_bot шаман - балансный класс шаман - балансный класс{N}
+2017-02-03 22:43:09.510333 bot: PRIVMSG #zerxam :_bot шаман - балансный класс шаман - балансный класс шаман - балансный класс{N}
+2017-02-03 22:43:09.510398 bot: PRIVMSG #zerxam :_bot шаман - балансный класс шаман - балансный класс{N}
+2017-02-03 22:43:09.510454 bot: PRIVMSG #zerxam :_bot шаман - балансный класс{N}
+2017-02-03 22:43:17.025953 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :угарный стрим <3
+2017-02-03 22:43:17.026161 olderor: угарный стрим <3
+2017-02-03 22:44:19.999874 ping-pong
+2017-02-03 22:45:52.064199 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :я хотел начать кулинарный стрим и комп рубанулся
+2017-02-03 22:45:52.064390 zerxam: я хотел начать кулинарный стрим и комп рубанулся
+2017-02-03 22:46:01.925400 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!pyramid LUL
+2017-02-03 22:46:01.925590 zerxam: !pyramid LUL
+2017-02-03 22:46:01.925692 bot: PRIVMSG #zerxam :_bot LUL{N}
+2017-02-03 22:46:01.925814 bot: PRIVMSG #zerxam :_bot LUL LUL{N}
+2017-02-03 22:46:01.925884 bot: PRIVMSG #zerxam :_bot LUL LUL LUL{N}
+2017-02-03 22:46:01.925943 bot: PRIVMSG #zerxam :_bot LUL LUL{N}
+2017-02-03 22:46:01.926000 bot: PRIVMSG #zerxam :_bot LUL{N}
+2017-02-03 22:46:02.526555 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-03 22:46:02.526766 olderor: лул
+2017-02-03 22:46:28.889365 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :пока
+2017-02-03 22:46:28.889619 olderor: пока
+2017-02-03 22:46:37.652612 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :ахах
+2017-02-03 22:46:37.652776 zerxam: ахах
+2017-02-03 22:46:46.010226 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :R.I.P.
+2017-02-03 22:46:46.010434 zerxam: R.I.P.
+2017-02-03 22:46:54.449994 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-03 22:46:54.450277 olderor: exit
+2017-02-03 22:46:54.450402 bot: PRIVMSG #zerxam :_bot Bye!{N}
+2017-02-03 22:47:02.255561 bot: PRIVMSG #zerxam :_bot zerxam is live for 2 hours, 20 minutes, 23 seconds{N}

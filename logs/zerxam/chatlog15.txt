@@ -1,0 +1,21 @@
+2017-02-25 18:09:50.461708 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-25 18:09:50.461920 bot: PRIVMSG #zerxam :/me _bot Hello! I'm here
+2017-02-25 18:11:24.304401 
+2017-02-25 18:11:24.304493 
+2017-02-25 18:11:24.304556 
+2017-02-25 18:11:24.304613 Starting bot
+2017-02-25 18:11:24.304679 
+2017-02-25 18:11:24.304744 
+2017-02-25 18:11:24.462610 bot: PRIVMSG #zerxam :/me _bot Bot is connected DatSheffy 7
+2017-02-25 18:11:24.837247 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-25 18:11:24.837443 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-25 18:11:24.837514 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-25 18:11:24.837581 :tmi.twitch.tv 004 olderor :-
+2017-02-25 18:11:24.837647 :tmi.twitch.tv 375 olderor :-
+2017-02-25 18:11:24.837698 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-25 18:11:24.837768 :tmi.twitch.tv 376 olderor :>
+2017-02-25 18:11:24.877711 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-25 18:11:24.877885 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-25 18:11:24.877958 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-25 18:11:30.653565 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-25 18:11:30.654403 bot: PRIVMSG #zerxam :/me _bot Bye!

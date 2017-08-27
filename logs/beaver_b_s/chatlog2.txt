@@ -1,0 +1,56 @@
+2017-08-26 22:01:54.806616 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :PogChamp
+2017-08-26 22:01:58.837633 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ещё тут
+2017-08-26 22:02:27.904367 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Изи
+2017-08-26 22:02:32.483574 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kreygasm
+2017-08-26 22:03:14.918990 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Глазастик PogChamp
+2017-08-26 22:03:25.894028 ping-pong
+2017-08-26 22:03:39.194344 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :start
+2017-08-26 22:03:39.194782 bot: PRIVMSG #beaver_b_s : _bot Hello! I'm here
+2017-08-26 22:04:25.961026 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@beaver_b_s я бота включённым оставлю. Как стрим закончишь, пропиши exit
+2017-08-26 22:04:41.891531 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Просто exit без воскл знака
+2017-08-26 22:04:49.299772 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Чтобы он в чат не спамил
+2017-08-26 22:06:01.881366 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да и вообще, если захочешь бота вырубить, пиши exit, а не меня бань)
+2017-08-26 22:06:11.937858 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Чтобы снова включить start
+2017-08-26 22:07:33.090739 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Но чтобы его включить, нужно, чтобы он на сервере был запущен, а для этого нужен я, потому что сервер бесплатный и он сам автоматом вырубается спустя какое-то время
+2017-08-26 22:07:41.378869 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Все, я пошёл, споки
+2017-08-26 22:07:44.204552 ping-pong
+2017-08-26 22:11:51.453762 ping-pong
+2017-08-26 22:11:57.066075 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-26 22:15:59.256933 ping-pong
+2017-08-26 22:18:39.677308 :pirog_ok!pirog_ok@pirog_ok.tmi.twitch.tv PRIVMSG #beaver_b_s :Во, здоров
+2017-08-26 22:20:58.459093 ping-pong
+2017-08-26 22:25:47.841128 ping-pong
+2017-08-26 22:28:37.978596 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-26 22:29:56.074532 ping-pong
+2017-08-26 22:34:29.199970 ping-pong
+2017-08-26 22:38:56.843428 ping-pong
+2017-08-26 22:43:54.642629 ping-pong
+2017-08-26 22:45:18.930750 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 22:48:33.424651 ping-pong
+2017-08-26 22:52:43.685338 ping-pong
+2017-08-26 22:57:42.206216 ping-pong
+2017-08-26 23:01:59.874613 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-26 23:02:12.082367 ping-pong
+2017-08-26 23:07:08.141050 ping-pong
+2017-08-26 23:11:53.455812 ping-pong
+2017-08-26 23:16:26.942512 ping-pong
+2017-08-26 23:18:40.807773 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 23:20:41.353494 ping-pong
+2017-08-26 23:24:46.841154 ping-pong
+2017-08-26 23:29:02.548154 ping-pong
+2017-08-26 23:33:31.140455 ping-pong
+2017-08-26 23:35:21.715916 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 23:38:16.066527 ping-pong
+2017-08-26 23:42:38.575216 ping-pong
+2017-08-26 23:46:58.624878 ping-pong
+2017-08-26 23:51:34.175645 ping-pong
+2017-08-26 23:52:02.644266 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-26 23:55:42.910465 ping-pong
+2017-08-27 00:00:27.087689 ping-pong
+2017-08-27 00:04:43.305380 ping-pong
+2017-08-27 00:08:43.570699 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-27 00:08:46.526982 ping-pong
+2017-08-27 00:12:54.743884 ping-pong
+2017-08-27 00:14:05.411956 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!exit
+2017-08-27 00:14:09.445067 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :exit
+2017-08-27 00:14:09.463090 bot: PRIVMSG #beaver_b_s : _bot Bye!

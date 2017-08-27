@@ -1,0 +1,39 @@
+2017-02-25 18:12:00.230484 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-25 18:12:00.230757 bot: PRIVMSG #zerxam :/me _bot Hello! I'm here
+2017-02-25 18:12:46.334922 
+2017-02-25 18:12:46.335053 
+2017-02-25 18:12:46.335122 
+2017-02-25 18:12:46.335167 Starting bot
+2017-02-25 18:12:46.335248 
+2017-02-25 18:12:46.335296 
+2017-02-25 18:12:46.491716 bot: PRIVMSG #zerxam :/me _bot Bot is connected DatSheffy 7
+2017-02-25 18:12:46.848800 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-25 18:12:46.849003 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-25 18:12:46.849093 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-25 18:12:46.849171 :tmi.twitch.tv 004 olderor :-
+2017-02-25 18:12:46.849238 :tmi.twitch.tv 375 olderor :-
+2017-02-25 18:12:46.849295 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-25 18:12:46.849354 :tmi.twitch.tv 376 olderor :>
+2017-02-25 18:12:46.877528 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-25 18:12:46.878425 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-25 18:12:46.878510 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-25 18:12:48.494076 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-25 18:13:39.304027 
+2017-02-25 18:13:39.304143 
+2017-02-25 18:13:39.304220 
+2017-02-25 18:13:39.304310 Starting bot
+2017-02-25 18:13:39.304391 
+2017-02-25 18:13:39.304468 
+2017-02-25 18:13:39.451164 bot: PRIVMSG #zerxam :/me _bot Bot is connected DatSheffy 7
+2017-02-25 18:13:39.763820 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-02-25 18:13:39.764010 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-02-25 18:13:39.764094 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-02-25 18:13:39.764159 :tmi.twitch.tv 004 olderor :-
+2017-02-25 18:13:39.764221 :tmi.twitch.tv 375 olderor :-
+2017-02-25 18:13:39.764273 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-02-25 18:13:39.764325 :tmi.twitch.tv 376 olderor :>
+2017-02-25 18:13:39.820068 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-02-25 18:13:39.820587 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-02-25 18:13:39.820673 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-02-25 18:13:43.611166 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-25 18:13:43.612167 bot: PRIVMSG #zerxam :/me _bot Bye!

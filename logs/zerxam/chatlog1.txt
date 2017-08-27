@@ -1,0 +1,446 @@
+2016-05-23 22:44:14.669327 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :Test message2016-05-23 22:44:14.669632 olderor: Test message2016-05-23 22:44:20.785778 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :_botstart2016-05-23 22:44:20.785985 olderor: _botstart2016-05-23 22:44:20.786076 bot: PRIVMSG #skyfanbrew :_bot Hello! I'm here
+2016-05-23 22:44:21.216293 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :Юра шо мешает весело жить?2016-05-23 22:44:21.216702 yukadyak: Юра шо мешает весело жить?2016-05-23 22:44:39.291080 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :ладно я унылое говно2016-05-23 22:44:39.291257 yukadyak: ладно я унылое говно2016-05-23 22:44:43.158657 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :а ты то че ноешь?2016-05-23 22:44:43.158861 yukadyak: а ты то че ноешь?2016-05-23 22:45:26.412149 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :Ладно, я спать. Всем споки2016-05-23 22:45:26.412384 olderor: Ладно, я спать. Всем споки2016-05-23 22:45:39.791390 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :@skyfanbrew не забудь бота выключить2016-05-23 22:45:39.791545 olderor: @skyfanbrew не забудь бота выключить2016-05-23 22:45:41.636839 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :ну чутка поиграл, а после на поиски приключений!!!2016-05-23 22:45:41.637014 yukadyak: ну чутка поиграл, а после на поиски приключений!!!2016-05-23 22:45:45.771929 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :@skyfanbrew !!!2016-05-23 22:45:45.772161 olderor: @skyfanbrew !!!2016-05-23 22:45:50.554704 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :спок, олдер2016-05-23 22:45:50.554882 yukadyak: спок, олдер2016-05-23 22:46:09.849175 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :спок?2016-05-23 22:46:09.849372 skyfanbrew: спок?2016-05-23 22:46:11.561274 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :слоу пок?2016-05-23 22:46:11.561497 skyfanbrew: слоу пок?2016-05-23 22:47:18.764819 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #skyfanbrew :!uptime2016-05-23 22:47:18.764996 olderor: !uptime2016-05-23 22:47:37.937878 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :это как Суслов- соуууслов-соууууслоууууу2016-05-23 22:47:37.938045 yukadyak: это как Суслов- соуууслов-соууууслоууууу2016-05-23 22:47:50.526292 ping-pong2016-05-23 22:47:56.160181 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :суслов-соооусоууу2016-05-23 22:47:56.160338 skyfanbrew: суслов-соооусоууу2016-05-23 22:47:59.516542 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :со-со2016-05-23 22:47:59.516692 skyfanbrew: со-со2016-05-23 22:48:26.073039 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :шишел-мышел-пёрнул-вышел2016-05-23 22:48:26.073225 skyfanbrew: шишел-мышел-пёрнул-вышел2016-05-23 22:48:50.746367 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :SwiftRage2016-05-23 22:48:50.746543 yukadyak: SwiftRage2016-05-23 22:49:01.832278 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :Kreygasm2016-05-23 22:49:01.832470 skyfanbrew: Kreygasm2016-05-23 22:49:38.230576 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :BloodTrail2016-05-23 22:49:38.230758 skyfanbrew: BloodTrail2016-05-23 22:50:01.616018 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :у тебя метатель круто сыграл2016-05-23 22:50:01.616170 yukadyak: у тебя метатель круто сыграл2016-05-23 22:50:31.080151 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :Kreygasm2016-05-23 22:50:31.080312 skyfanbrew: Kreygasm2016-05-23 22:50:33.380371 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :гимн германии?2016-05-23 22:50:33.380546 yukadyak: гимн германии?2016-05-23 22:50:50.889366 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :))))2016-05-23 22:50:50.889549 yukadyak: ))))2016-05-23 22:50:54.676282 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :Ода к радости2016-05-23 22:50:54.676518 skyfanbrew: Ода к радости2016-05-23 22:51:01.307215 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :Bethoven2016-05-23 22:51:01.307404 skyfanbrew: Bethoven2016-05-23 22:51:03.849526 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :ото ще2016-05-23 22:51:03.849665 skyfanbrew: ото ще2016-05-23 22:51:13.004886 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :гім євросоюза бля2016-05-23 22:51:13.005094 skyfanbrew: гім євросоюза бля2016-05-23 22:51:17.407134 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :гімн2016-05-23 22:51:17.407283 skyfanbrew: гімн2016-05-23 22:51:27.431606 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :да шучу я)))2016-05-23 22:51:27.431757 yukadyak: да шучу я)))2016-05-23 22:51:34.541316 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :просто отвратительно2016-05-23 22:51:34.541475 yukadyak: просто отвратительно2016-05-23 22:51:59.763134 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :а когда на сцене начали выть я думала на месте подохну2016-05-23 22:51:59.763294 yukadyak: а когда на сцене начали выть я думала на месте подохну2016-05-23 22:52:06.177164 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :Юра блиииин2016-05-23 22:52:06.177304 yukadyak: Юра блиииин2016-05-23 22:52:08.032867 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :о2016-05-23 22:52:08.033015 yukadyak: о2016-05-23 22:52:37.442756 ping-pong2016-05-23 22:52:43.221289 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :госпади песня как бальзам на душу2016-05-23 22:52:43.221452 yukadyak: госпади песня как бальзам на душу2016-05-23 22:53:03.978468 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :це ж бітлз2016-05-23 22:53:03.978679 skyfanbrew: це ж бітлз2016-05-23 22:55:21.903536 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :ты специально себе музончик подбираешь для стримов?2016-05-23 22:55:21.903726 yukadyak: ты специально себе музончик подбираешь для стримов?2016-05-23 22:55:48.779651 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :ні) плейліст2016-05-23 22:55:48.779839 skyfanbrew: ні) плейліст2016-05-23 22:56:02.624570 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :круто под каточки заходит2016-05-23 22:56:02.624743 yukadyak: круто под каточки заходит2016-05-23 22:56:53.526251 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :Dance with the Dead2016-05-23 22:56:53.526400 skyfanbrew: Dance with the Dead2016-05-23 22:56:57.478142 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :послухай2016-05-23 22:56:57.478298 skyfanbrew: послухай2016-05-23 22:57:01.870387 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :у них добротне музло2016-05-23 22:57:01.870556 skyfanbrew: у них добротне музло2016-05-23 22:57:05.050664 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :під каточки як ращ2016-05-23 22:57:05.050837 skyfanbrew: під каточки як ращ2016-05-23 22:57:37.073525 ping-pong2016-05-23 22:58:45.413425 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :крутяк2016-05-23 22:58:45.413577 yukadyak: крутяк2016-05-23 23:00:36.061142 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :под хардкорную музыку так сразу афтепати ханифеста вспомнила2016-05-23 23:00:36.061339 yukadyak: под хардкорную музыку так сразу афтепати ханифеста вспомнила2016-05-23 23:00:51.136080 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :такая теса была ух2016-05-23 23:00:51.136225 yukadyak: такая теса была ух2016-05-23 23:00:55.149791 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :туса*2016-05-23 23:00:55.149955 yukadyak: туса*2016-05-23 23:01:21.090483 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :хардкорна музика і ханіфест- це несумісні речі2016-05-23 23:01:21.090653 skyfanbrew: хардкорна музика і ханіфест- це несумісні речі2016-05-23 23:01:33.468040 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :с одной стороны Сусел прыгал без остановки под хардкор, с другой бабы сосуться2016-05-23 23:01:33.468194 yukadyak: с одной стороны Сусел прыгал без остановки под хардкор, с другой бабы сосуться2016-05-23 23:01:44.943198 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :ох2016-05-23 23:01:44.943377 skyfanbrew: ох2016-05-23 23:01:48.569160 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :на баб би подивився2016-05-23 23:01:48.569451 skyfanbrew: на баб би подивився2016-05-23 23:01:54.825069 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :мы с Жекой як скажені бухішком накидувались2016-05-23 23:01:54.825267 yukadyak: мы с Жекой як скажені бухішком накидувались2016-05-23 23:01:59.988183 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :ото ж2016-05-23 23:01:59.988375 yukadyak: ото ж2016-05-23 23:02:03.624265 :yukadyak!yukadyak@yukadyak.tmi.twitch.tv PRIVMSG #skyfanbrew :а то фууу фуууу2016-05-23 23:02:03.624418 yukadyak: а то фууу фуууу2016-05-23 23:02:06.989098 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :_exit2016-05-23 23:02:06.989361 skyfanbrew: _exit2016-05-23 23:02:15.622000 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :я нічого не казав на ханік2016-05-23 23:02:15.622174 skyfanbrew: я нічого не казав на ханік2016-05-23 23:02:17.761208 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :поганого2016-05-23 23:02:17.761363 skyfanbrew: поганого2016-05-23 23:02:19.471742 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :я сам хотів2016-05-23 23:02:19.473921 skyfanbrew: я сам хотів2016-05-23 23:02:26.493235 ping-pong2016-05-23 23:02:36.298995 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #skyfanbrew :_botexit2016-05-23 23:02:36.299153 skyfanbrew: _botexit2016-05-23 23:02:36.299242 bot: PRIVMSG #skyfanbrew :_bot Bye!
+2017-01-29 19:18:22.411935 ping-pong
+2017-01-29 19:22:55.341225 ping-pong
+2017-01-29 19:27:25.509166 ping-pong
+2017-01-29 19:31:45.513811 ping-pong
+2017-01-29 19:36:25.821130 ping-pong
+2017-01-29 19:40:28.187266 ping-pong
+2017-01-29 19:44:45.940035 ping-pong
+2017-01-29 19:49:04.493034 ping-pong
+2017-01-29 19:53:49.400787 ping-pong
+2017-01-29 19:58:36.884868 ping-pong
+2017-01-29 20:03:07.743749 ping-pong
+2017-01-29 20:08:01.668085 ping-pong
+2017-01-29 20:12:54.054768 ping-pong
+2017-01-29 20:17:23.533778 ping-pong
+2017-01-29 20:21:32.420695 ping-pong
+2017-01-29 20:25:39.938712 ping-pong
+2017-01-29 20:30:09.823586 ping-pong
+2017-01-29 20:34:18.249932 ping-pong
+2017-01-29 20:38:24.343173 ping-pong
+2017-01-29 20:42:26.411326 ping-pong
+2017-01-29 20:47:08.181930 ping-pong
+2017-01-29 20:51:48.274673 ping-pong
+2017-01-29 20:56:40.853513 ping-pong
+2017-01-29 21:01:13.332720 ping-pong
+2017-01-29 21:05:15.849137 ping-pong
+2017-01-29 21:09:29.266564 ping-pong
+2017-01-29 21:14:03.263514 ping-pong
+2017-01-29 21:18:52.265377 ping-pong
+2017-01-29 21:23:38.349510 ping-pong
+2017-01-29 21:28:14.195256 ping-pong
+2017-01-29 21:32:39.055414 ping-pong
+2017-01-29 21:37:31.042718 ping-pong
+2017-01-29 21:42:06.041708 ping-pong
+2017-01-29 21:46:55.389211 ping-pong
+2017-01-29 21:51:48.068736 ping-pong
+2017-01-29 21:56:42.094339 ping-pong
+2017-01-29 22:01:19.461590 ping-pong
+2017-01-29 22:06:07.455137 ping-pong
+2017-01-30 18:55:32.504556 
+2017-01-30 18:55:32.504802 
+2017-01-30 18:55:32.504878 
+2017-01-30 18:55:32.504947 Starting bot
+2017-01-30 18:55:32.505019 
+2017-01-30 18:55:32.505089 
+2017-01-30 18:55:32.659925 bot: PRIVMSG #zerxam :_bot Bot is connected{N}
+2017-01-30 18:55:33.051617 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-01-30 18:55:33.051834 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-01-30 18:55:33.051933 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-01-30 18:55:33.052007 :tmi.twitch.tv 004 olderor :-
+2017-01-30 18:55:33.052062 :tmi.twitch.tv 375 olderor :-
+2017-01-30 18:55:33.052111 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-01-30 18:55:33.052163 :tmi.twitch.tv 376 olderor :>
+2017-01-30 18:55:33.091486 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-01-30 18:55:33.091672 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-01-30 18:55:33.091766 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-01-30 18:59:38.434346 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :дарова
+2017-01-30 18:59:38.434601 olderor: дарова
+2017-01-30 18:59:42.503909 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :с новосельем
+2017-01-30 18:59:42.504125 olderor: с новосельем
+2017-01-30 18:59:54.484932 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-01-30 18:59:54.485149 olderor: start
+2017-01-30 18:59:54.485221 bot: PRIVMSG #zerxam :_bot Hello! I'm here{N}
+2017-01-30 19:00:24.374280 ping-pong
+2017-01-30 19:04:20.757438 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :да
+2017-01-30 19:04:20.757636 olderor: да
+2017-01-30 19:04:40.496597 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :сколько заплатил за ботов?
+2017-01-30 19:04:40.496819 aragonro1: сколько заплатил за ботов?
+2017-01-30 19:05:18.407632 ping-pong
+2017-01-30 19:05:27.610611 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@aragonro1 рубашкой с близкона
+2017-01-30 19:05:27.610810 olderor: @aragonro1 рубашкой с близкона
+2017-01-30 19:07:34.250963 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-01-30 19:07:34.251167 olderor: LUL
+2017-01-30 19:09:04.386812 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-01-30 19:10:09.290220 ping-pong
+2017-01-30 19:13:26.638572 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :еще один турнир?
+2017-01-30 19:13:26.638722 gotthit: еще один турнир?
+2017-01-30 19:14:57.881298 ping-pong
+2017-01-30 19:19:12.571272 ping-pong
+2017-01-30 19:19:35.132126 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :100000/60000 PogChamp
+2017-01-30 19:19:35.132391 olderor: 100000/60000 PogChamp
+2017-01-30 19:20:22.589306 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :https://vk.com/wall-119551082_6715
+2017-01-30 19:20:22.589541 zerxam: https://vk.com/wall-119551082_6715
+2017-01-30 19:20:27.123757 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :авантюрист
+2017-01-30 19:20:27.123913 olderor: авантюрист
+2017-01-30 19:21:16.724360 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :а почему не берсерк?
+2017-01-30 19:21:16.724648 olderor: а почему не берсерк?
+2017-01-30 19:21:24.749748 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :имхо берсерк лучше
+2017-01-30 19:21:24.749946 olderor: имхо берсерк лучше
+2017-01-30 19:21:38.488971 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :без всего короче
+2017-01-30 19:21:38.489160 gotthit: без всего короче
+2017-01-30 19:21:46.279035 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :главное чтоб без всего )
+2017-01-30 19:21:46.279310 gotthit: главное чтоб без всего )
+2017-01-30 19:21:51.034806 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :а тип летал сетапить
+2017-01-30 19:21:51.035005 olderor: а тип летал сетапить
+2017-01-30 19:22:32.774007 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :пушка трейд абилка
+2017-01-30 19:22:32.774231 olderor: пушка трейд абилка
+2017-01-30 19:23:02.980432 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :хотя да
+2017-01-30 19:23:02.980636 olderor: хотя да
+2017-01-30 19:23:15.732039 ping-pong
+2017-01-30 19:25:26.749033 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :я уже здесь gnummeBear
+2017-01-30 19:25:26.749288 olderor: я уже здесь gnummeBear
+2017-01-30 19:25:45.285992 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-01-30 19:26:15.580712 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!topdeck
+2017-01-30 19:26:15.581221 olderor: !topdeck
+2017-01-30 19:26:15.581569 bot: PRIVMSG #zerxam :_bot топдекаю как сучка уже 3 раз(а){N}
+2017-01-30 19:27:19.596792 ping-pong
+2017-01-30 19:30:23.980293 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :naviFeels
+2017-01-30 19:30:23.980589 olderor: naviFeels
+2017-01-30 19:31:27.377894 ping-pong
+2017-01-30 19:32:03.953722 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :кинь эту колоду плез
+2017-01-30 19:32:03.953895 gotthit: кинь эту колоду плез
+2017-01-30 19:32:19.122497 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!deck
+2017-01-30 19:32:19.122682 olderor: !deck
+2017-01-30 19:32:19.122833 bot: PRIVMSG #zerxam :_bot deck is not set{N}
+2017-01-30 19:32:29.343002 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@zerxam DansGame
+2017-01-30 19:32:29.343388 olderor: @zerxam DansGame
+2017-01-30 19:32:36.674986 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-01-30 19:32:36.675227 zerxam: https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-01-30 19:32:55.751247 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-01-30 19:32:55.751406 olderor: !setdeck https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg
+2017-01-30 19:32:55.751629 bot: PRIVMSG #zerxam :_bot deck was successfully updated{N}
+2017-01-30 19:33:00.635828 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!deck
+2017-01-30 19:33:00.636000 olderor: !deck
+2017-01-30 19:33:00.636144 bot: PRIVMSG #zerxam :_bot Latest deck is here: https://pp.vk.me/c836536/v836536148/2212b/R5PzI6tuiaA.jpg{N}
+2017-01-30 19:33:22.255414 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :я друля имел ввиду )
+2017-01-30 19:33:22.255603 gotthit: я друля имел ввиду )
+2017-01-30 19:34:56.874432 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :спасибо )
+2017-01-30 19:34:56.874632 gotthit: спасибо )
+2017-01-30 19:35:27.380918 ping-pong
+2017-01-30 19:35:50.995384 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!мамка Pilou
+2017-01-30 19:35:50.995652 olderor: !мамка Pilou
+2017-01-30 19:35:50.995789 bot: PRIVMSG #zerxam :_bot здоровье мамки Pilou равно 24%{N}
+2017-01-30 19:39:40.069136 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :а я смотрел, как тулер чуть не взял топ1 на 3 серверах на шамане LUL
+2017-01-30 19:39:40.069340 olderor: а я смотрел, как тулер чуть не взял топ1 на 3 серверах на шамане LUL
+2017-01-30 19:40:05.181484 ping-pong
+2017-01-30 19:42:26.222833 bot: PRIVMSG #zerxam :_bot zerxam в вк: https://vk.com/id228197148{N}
+2017-01-30 19:42:50.326604 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :не знаешь тулера DansGame
+2017-01-30 19:42:50.326822 olderor: не знаешь тулера DansGame
+2017-01-30 19:42:54.829354 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :tylerootd
+2017-01-30 19:42:54.829552 olderor: tylerootd
+2017-01-30 19:43:03.747490 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :азиат
+2017-01-30 19:43:03.747654 olderor: азиат
+2017-01-30 19:44:09.442922 ping-pong
+2017-01-30 19:44:12.156558 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :хочешь чтобы я тебя 1на1 разорвал?
+2017-01-30 19:44:12.156714 aragonro1: хочешь чтобы я тебя 1на1 разорвал?
+2017-01-30 19:45:06.561066 
+2017-01-30 19:45:06.561143 
+2017-01-30 19:45:06.561189 
+2017-01-30 19:45:06.561273 Starting bot
+2017-01-30 19:45:06.561362 
+2017-01-30 19:45:06.561425 
+2017-01-30 19:45:06.718456 bot: PRIVMSG #zerxam :_bot Bot is connected{N}
+2017-01-30 19:45:07.096090 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-01-30 19:45:07.096252 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-01-30 19:45:07.096317 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-01-30 19:45:07.096364 :tmi.twitch.tv 004 olderor :-
+2017-01-30 19:45:07.096416 :tmi.twitch.tv 375 olderor :-
+2017-01-30 19:45:07.096471 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-01-30 19:45:07.096527 :tmi.twitch.tv 376 olderor :>
+2017-01-30 19:45:07.142600 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-01-30 19:45:07.143333 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-01-30 19:45:07.143463 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-01-30 19:45:11.794936 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-01-30 19:45:11.795110 olderor: start
+2017-01-30 19:45:11.795215 bot: PRIVMSG #zerxam :_bot Hello! I'm here{N}
+2017-01-30 19:45:16.242364 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!help
+2017-01-30 19:45:16.242537 olderor: !help
+2017-01-30 19:45:16.242613 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-01-30 19:45:56.438258 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :новая команда PogChamp
+2017-01-30 19:45:56.438461 olderor: новая команда PogChamp
+2017-01-30 19:49:29.086341 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest : "City Of Stars / May Finally Come True"
+2017-01-30 19:49:29.086550 gotthit: !songrequest : "City Of Stars / May Finally Come True"
+2017-01-30 19:49:29.086686 bot: PRIVMSG #zerxam :_bot song : "City Of Stars / May Finally Come True" was successfully added{N}
+2017-01-30 19:49:47.596263 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :well played EleGiggle
+2017-01-30 19:49:47.596452 olderor: well played EleGiggle
+2017-01-30 19:49:50.905856 ping-pong
+2017-01-30 19:50:44.399756 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-01-30 19:50:44.399929 olderor: !get
+2017-01-30 19:50:44.400184 bot: PRIVMSG #zerxam :_bot new current song is : "City Of Stars / May Finally Come True"{N}{N}
+2017-01-30 19:52:05.139053 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :"nj b tcnm jhbubyfk
+2017-01-30 19:52:05.139256 gotthit: "nj b tcnm jhbubyfk
+2017-01-30 19:52:10.230816 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :это и есть оригинал
+2017-01-30 19:52:10.231216 gotthit: это и есть оригинал
+2017-01-30 19:52:14.165108 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :она ж из фильма
+2017-01-30 19:52:14.165281 gotthit: она ж из фильма
+2017-01-30 19:52:28.805889 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :всмысле для него написана
+2017-01-30 19:52:28.806084 gotthit: всмысле для него написана
+2017-01-30 19:53:40.709350 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!followage zerxam
+2017-01-30 19:53:40.709587 olderor: !followage zerxam
+2017-01-30 19:53:41.585558 request:zerxam is not following zerxam
+2017-01-30 19:53:41.585752 bot: PRIVMSG #zerxam :_bot zerxam is not following zerxam{N}
+2017-01-30 19:54:09.143928 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!followage
+2017-01-30 19:54:09.144128 olderor: !followage
+2017-01-30 19:54:09.962040 request:2 months, 4 days, 6 hours, 43 minutes, 35 seconds
+2017-01-30 19:54:09.962207 bot: PRIVMSG #zerxam :_bot olderor is following zerxam for 2 months, 4 days, 6 hours, 43 minutes, 35 seconds{N}
+2017-01-30 19:54:20.167331 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!followage gotthit
+2017-01-30 19:54:20.167547 olderor: !followage gotthit
+2017-01-30 19:54:21.004537 request:17 days, 1 hours, 23 minutes, 22 seconds
+2017-01-30 19:54:21.004742 bot: PRIVMSG #zerxam :_bot gotthit is following zerxam for 17 days, 1 hours, 23 minutes, 22 seconds{N}
+2017-01-30 19:54:22.202771 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-01-30 19:54:37.402871 ping-pong
+2017-01-30 19:55:01.622956 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :с появлением модера стрим стал гораздо лучше ))
+2017-01-30 19:55:01.623164 gotthit: с появлением модера стрим стал гораздо лучше ))
+2017-01-30 19:55:16.327494 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Kreygasm
+2017-01-30 19:55:16.327697 olderor: Kreygasm
+2017-01-30 19:56:33.771014 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :могу скинуть интересную деку друида
+2017-01-30 19:56:33.771231 olderor: могу скинуть интересную деку друида
+2017-01-30 19:56:41.221391 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :давай
+2017-01-30 19:56:41.221604 gotthit: давай
+2017-01-30 19:56:41.224880 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :если хош
+2017-01-30 19:56:41.225006 olderor: если хош
+2017-01-30 19:58:36.924513 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :друид: http://imgur.com/0W6cxUd
+2017-01-30 19:58:36.924734 olderor: друид: http://imgur.com/0W6cxUd
+2017-01-30 19:59:07.624776 ping-pong
+2017-01-30 19:59:09.809229 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :eloise вместе с хихо этой декой играют
+2017-01-30 19:59:09.809454 olderor: eloise вместе с хихо этой декой играют
+2017-01-30 19:59:23.424406 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :она хотя бы забавная
+2017-01-30 19:59:23.424577 olderor: она хотя бы забавная
+2017-01-30 20:01:58.458375 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :7к друид лул
+2017-01-30 20:01:58.458565 olderor: 7к друид лул
+2017-01-30 20:03:08.687625 ping-pong
+2017-01-30 20:03:33.147060 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!ask zerxam проиграет?
+2017-01-30 20:03:33.147273 olderor: !ask zerxam проиграет?
+2017-01-30 20:03:33.147400 bot: PRIVMSG #zerxam :_bot @olderor Да{N}
+2017-01-30 20:04:21.547931 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ты про эту?
+2017-01-30 20:04:21.548105 olderor: ты про эту?
+2017-01-30 20:04:26.626005 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=pLfcNB_R2u4
+2017-01-30 20:04:26.626184 olderor: !songrequest https://www.youtube.com/watch?v=pLfcNB_R2u4
+2017-01-30 20:04:26.626343 bot: PRIVMSG #zerxam :_bot song https://www.youtube.com/watch?v=pLfcNB_R2u4 was successfully added{N}
+2017-01-30 20:05:06.929117 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-01-30 20:05:06.929385 olderor: !get
+2017-01-30 20:05:06.929737 bot: PRIVMSG #zerxam :_bot new current song is https://www.youtube.com/watch?v=pLfcNB_R2u4{N}{N}
+2017-01-30 20:05:11.961880 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!song
+2017-01-30 20:05:11.962121 olderor: !song
+2017-01-30 20:05:11.962366 bot: PRIVMSG #zerxam :_bot last played song is https://www.youtube.com/watch?v=pLfcNB_R2u4{N}{N}
+2017-01-30 20:05:39.148090 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :сделай песню погромче
+2017-01-30 20:05:39.148303 olderor: сделай песню погромче
+2017-01-30 20:06:06.473116 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ЗАПУСКАЙ ЖОПО**Я РОБОТЯГИ░░░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░▄▀▀▀▀▄░░░ ░░░░░░░░░░▄▀░░▄░▄░█░░ ░▄▄░░░░░▄▀░░░░▄▄▄▄█░░ █░░▀▄░▄▀░░░░░░░░░░█░░ ░▀▄░░▀▄░░░░█░░░░░░█░░ ░░░▀▄░░▀░░░█░░░░░░█░░ ░░░▄▀░░░░░░█░░░░▄▀░░░ ░░░▀▄▀▄▄▀░░█▀░▄▀░░░░░ ░░░░░░░░█▀▀█▀▀░░░░░░░ ░░░░░░░░▀▀░▀▀░░░░░░░░
+2017-01-30 20:06:06.473326 gotthit: ЗАПУСКАЙ ЖОПО**Я РОБОТЯГИ░░░░░░░░░░░░░░░░░░░░░ ░░░░░░░░░░░░▄▀▀▀▀▄░░░ ░░░░░░░░░░▄▀░░▄░▄░█░░ ░▄▄░░░░░▄▀░░░░▄▄▄▄█░░ █░░▀▄░▄▀░░░░░░░░░░█░░ ░▀▄░░▀▄░░░░█░░░░░░█░░ ░░░▀▄░░▀░░░█░░░░░░█░░ ░░░▄▀░░░░░░█░░░░▄▀░░░ ░░░▀▄▀▄▄▀░░█▀░▄▀░░░░░ ░░░░░░░░█▀▀█▀▀░░░░░░░ ░░░░░░░░▀▀░▀▀░░░░░░░░
+2017-01-30 20:06:12.735737 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :ахаха )
+2017-01-30 20:06:12.735937 gotthit: ахаха )
+2017-01-30 20:06:22.164946 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :всегда хотел попробовать )
+2017-01-30 20:06:22.165142 gotthit: всегда хотел попробовать )
+2017-01-30 20:06:34.978571 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-01-30 20:06:34.978814 olderor: LUL
+2017-01-30 20:07:01.121547 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@gotthit будешь моим первым KappaPride
+2017-01-30 20:07:01.121726 olderor: @gotthit будешь моим первым KappaPride
+2017-01-30 20:07:18.462466 ping-pong
+2017-01-30 20:07:22.925416 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :меня тоже впервые забанили )
+2017-01-30 20:07:22.925598 gotthit: меня тоже впервые забанили )
+2017-01-30 20:07:49.762592 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :всегда хотел проверить, как оно )
+2017-01-30 20:07:49.762785 gotthit: всегда хотел проверить, как оно )
+2017-01-30 20:08:33.533491 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :если хорошо попросишь, дам пермач <3
+2017-01-30 20:08:33.533772 olderor: если хорошо попросишь, дам пермач <3
+2017-01-30 20:08:51.344268 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :не мне одного хватило )
+2017-01-30 20:08:51.344433 gotthit: не мне одного хватило )
+2017-01-30 20:11:03.122995 bot: PRIVMSG #zerxam :_bot zerxam в вк: https://vk.com/id228197148{N}
+2017-01-30 20:11:32.144668 
+2017-01-30 20:11:32.144746 
+2017-01-30 20:11:32.144792 
+2017-01-30 20:11:32.144837 Starting bot
+2017-01-30 20:11:32.144885 
+2017-01-30 20:11:32.144931 
+2017-01-30 20:11:32.320066 bot: PRIVMSG #zerxam :_bot Bot is connected{N}
+2017-01-30 20:11:32.687492 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-01-30 20:11:32.687721 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-01-30 20:11:32.687807 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-01-30 20:11:32.687901 :tmi.twitch.tv 004 olderor :-
+2017-01-30 20:11:32.687995 :tmi.twitch.tv 375 olderor :-
+2017-01-30 20:11:32.688069 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-01-30 20:11:32.688141 :tmi.twitch.tv 376 olderor :>
+2017-01-30 20:11:32.739011 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-01-30 20:11:32.739368 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-01-30 20:11:32.739526 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-01-30 20:11:35.203241 
+2017-01-30 20:11:35.203326 
+2017-01-30 20:11:35.203374 
+2017-01-30 20:11:35.203415 Starting bot
+2017-01-30 20:11:35.203465 
+2017-01-30 20:11:35.203505 
+2017-01-30 20:11:35.365255 bot: PRIVMSG #zerxam :_bot Bot is connected{N}
+2017-01-30 20:11:35.697451 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-01-30 20:11:35.697699 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-01-30 20:11:35.697777 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-01-30 20:11:35.697852 :tmi.twitch.tv 004 olderor :-
+2017-01-30 20:11:35.697909 :tmi.twitch.tv 375 olderor :-
+2017-01-30 20:11:35.697965 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-01-30 20:11:35.698021 :tmi.twitch.tv 376 olderor :>
+2017-01-30 20:11:35.737246 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-01-30 20:11:35.737412 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-01-30 20:11:35.737478 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-01-30 20:11:43.524229 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-01-30 20:11:43.524465 olderor: start
+2017-01-30 20:11:43.524560 bot: PRIVMSG #zerxam :_bot Hello! I'm here{N}
+2017-01-30 20:13:20.792889 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@zerxam ты вроде микро выключил
+2017-01-30 20:13:20.793064 olderor: @zerxam ты вроде микро выключил
+2017-01-30 20:13:27.865859 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-01-30 20:13:27.866053 olderor: LUL
+2017-01-30 20:13:41.776820 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :или ты молча играешь? 4Head
+2017-01-30 20:13:41.776999 olderor: или ты молча играешь? 4Head
+2017-01-30 20:13:56.084324 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :я на песню заслушался
+2017-01-30 20:13:56.084501 olderor: я на песню заслушался
+2017-01-30 20:15:02.642914 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :микро вруби SwiftRage
+2017-01-30 20:15:02.643376 olderor: микро вруби SwiftRage
+2017-01-30 20:15:58.712917 ping-pong
+2017-01-30 20:16:41.972233 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :музыку не слышно
+2017-01-30 20:16:41.972392 olderor: музыку не слышно
+2017-01-30 20:16:47.482118 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :вообще очень тихо
+2017-01-30 20:16:47.482298 olderor: вообще очень тихо
+2017-01-30 20:17:07.065420 :aragonro1!aragonro1@aragonro1.tmi.twitch.tv PRIVMSG #zerxam :и хорошо
+2017-01-30 20:17:07.065601 aragonro1: и хорошо
+2017-01-30 20:19:06.373799 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!uptime
+2017-01-30 20:19:06.374066 olderor: !uptime
+2017-01-30 20:19:09.375013 bot: PRIVMSG #zerxam :_bot zerxam is live for 1 hour, 20 minutes, 30 seconds{N}
+2017-01-30 20:20:07.047040 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :стрим потасовки за паладина PogChamp
+2017-01-30 20:20:07.047233 olderor: стрим потасовки за паладина PogChamp
+2017-01-30 20:20:21.533045 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :штан сегодня в топ20 был
+2017-01-30 20:20:21.533211 olderor: штан сегодня в топ20 был
+2017-01-30 20:20:47.317088 ping-pong
+2017-01-30 20:20:53.853057 bot: PRIVMSG #zerxam :_bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня{N}
+2017-01-30 20:21:44.537897 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :меняй игру на твиче
+2017-01-30 20:21:44.538092 olderor: меняй игру на твиче
+2017-01-30 20:22:43.880076 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :почему в консоли какая-то партия пишет, что @zerxam туповат?
+2017-01-30 20:22:43.880304 olderor: почему в консоли какая-то партия пишет, что @zerxam туповат?
+2017-01-30 20:23:29.083752 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :открой чат где-то сбоку
+2017-01-30 20:23:29.083941 olderor: открой чат где-то сбоку
+2017-01-30 20:23:39.993899 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :слева доска, справа чат
+2017-01-30 20:23:39.994066 olderor: слева доска, справа чат
+2017-01-30 20:25:38.754834 ping-pong
+2017-01-30 20:28:33.585456 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :меняй игру на твиче
+2017-01-30 20:28:33.585679 olderor: меняй игру на твиче
+2017-01-30 20:28:40.174119 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :почему в консоли какая-то партия пишет, что zerxam туповат?
+2017-01-30 20:28:40.174313 olderor: почему в консоли какая-то партия пишет, что zerxam туповат?
+2017-01-30 20:30:15.611311 ping-pong
+2017-01-30 20:30:53.316830 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :меняй игру на твиче
+2017-01-30 20:30:53.317072 olderor: меняй игру на твиче
+2017-01-30 20:31:00.382980 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :на шахматишки
+2017-01-30 20:31:00.383407 olderor: на шахматишки
+2017-01-30 20:31:05.108591 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :смени песню
+2017-01-30 20:31:05.108786 gotthit: смени песню
+2017-01-30 20:31:24.866282 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :плез
+2017-01-30 20:31:24.866488 gotthit: плез
+2017-01-30 20:31:26.959353 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@gotthit ну так закажи
+2017-01-30 20:31:26.959522 olderor: @gotthit ну так закажи
+2017-01-30 20:33:17.656923 :gotthit!gotthit@gotthit.tmi.twitch.tv PRIVMSG #zerxam :!songrequest Don't Leave Me (Ne Me Quitte Pas)
+2017-01-30 20:33:17.657178 gotthit: !songrequest Don't Leave Me (Ne Me Quitte Pas)
+2017-01-30 20:33:17.657329 bot: PRIVMSG #zerxam :_bot song Don't Leave Me (Ne Me Quitte Pas) was successfully added{N}
+2017-01-30 20:34:53.326808 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://youtu.be/-jenlSf2E8o
+2017-01-30 20:34:53.327045 olderor: !songrequest https://youtu.be/-jenlSf2E8o
+2017-01-30 20:34:53.327164 bot: PRIVMSG #zerxam :_bot song https://youtu.be/-jenlSf2E8o was successfully added{N}
+2017-01-30 20:35:06.412308 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://youtu.be/dQw4w9WgXcQ
+2017-01-30 20:35:06.412500 olderor: !songrequest https://youtu.be/dQw4w9WgXcQ
+2017-01-30 20:35:06.412647 bot: PRIVMSG #zerxam :_bot song https://youtu.be/dQw4w9WgXcQ was successfully added{N}
+2017-01-30 20:35:10.022595 ping-pong
+2017-01-30 20:35:28.743884 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@Zerxam используй !get чтобы вытащить песню из очереди
+2017-01-30 20:35:28.744143 olderor: @Zerxam используй !get чтобы вытащить песню из очереди
+2017-01-30 20:37:34.754171 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-01-30 20:38:41.513332 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-01-30 20:38:41.513580 zerxam: !get
+2017-01-30 20:38:41.513939 bot: PRIVMSG #zerxam :_bot now playing Don't Leave Me (Ne Me Quitte Pas){N}{N}
+2017-01-30 20:39:12.419857 ping-pong
+2017-01-30 20:39:38.556262 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ты игру на твиче не будешь менять?
+2017-01-30 20:39:38.556536 olderor: ты игру на твиче не будешь менять?
+2017-01-30 20:43:56.505244 ping-pong
+2017-01-30 20:48:28.528131 ping-pong
+2017-01-30 20:48:56.016310 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :го сл песню
+2017-01-30 20:48:56.016511 olderor: го сл песню
+2017-01-30 20:49:55.210172 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :sjowDumpster
+2017-01-30 20:49:55.210451 olderor: sjowDumpster
+2017-01-30 20:50:32.609076 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :сильно лул
+2017-01-30 20:50:32.609253 olderor: сильно лул
+2017-01-30 20:50:37.223010 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :1 чел в чате
+2017-01-30 20:50:37.223200 olderor: 1 чел в чате
+2017-01-30 20:50:44.187977 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :SeemsGood
+2017-01-30 20:50:44.188425 olderor: SeemsGood
+2017-01-30 20:51:43.559364 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-01-30 20:51:43.559578 zerxam: !get
+2017-01-30 20:51:43.559900 bot: PRIVMSG #zerxam :_bot now playing https://youtu.be/-jenlSf2E8o{N}{N}
+2017-01-30 20:51:49.139834 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :мой оппонент играет фигурами BabyRage
+2017-01-30 20:51:49.140001 olderor: мой оппонент играет фигурами BabyRage
+2017-01-30 20:52:49.894899 ping-pong
+2017-01-30 20:54:15.647047 bot: PRIVMSG #zerxam :_bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией{N}
+2017-01-30 20:54:21.082652 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-01-30 20:54:21.082913 olderor: лул
+2017-01-30 20:54:22.725004 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :го
+2017-01-30 20:54:22.725293 olderor: го
+2017-01-30 20:54:45.683415 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :только у меня s1lver12
+2017-01-30 20:54:45.683578 olderor: только у меня s1lver12
+2017-01-30 20:55:45.616798 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :322 SeemsGood
+2017-01-30 20:55:45.617008 olderor: 322 SeemsGood
+2017-01-30 20:56:55.886922 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :+0 LUL
+2017-01-30 20:56:55.887143 olderor: +0 LUL
+2017-01-30 20:57:23.158945 ping-pong
+2017-01-30 20:59:30.373642 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ты реквест ставь
+2017-01-30 20:59:30.373850 olderor: ты реквест ставь
+2017-01-30 21:01:34.086117 ping-pong
+2017-01-30 21:02:52.939329 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ты чат то сбоку поставь
+2017-01-30 21:02:52.939583 olderor: ты чат то сбоку поставь
+2017-01-30 21:03:49.650125 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :где найти комнату?
+2017-01-30 21:03:49.650295 olderor: где найти комнату?
+2017-01-30 21:03:55.325478 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :как войти?)
+2017-01-30 21:03:55.325646 olderor: как войти?)
+2017-01-30 21:04:21.985190 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :где найти комнату?
+2017-01-30 21:04:21.985366 olderor: где найти комнату?
+2017-01-30 21:04:27.889944 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :как войти?)
+2017-01-30 21:04:27.890111 olderor: как войти?)
+2017-01-30 21:04:44.601075 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :где? 4Heas
+2017-01-30 21:04:44.601293 olderor: где? 4Heas
+2017-01-30 21:05:16.361218 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :пишет неверный код
+2017-01-30 21:05:16.361441 olderor: пишет неверный код
+2017-01-30 21:05:18.447781 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-01-30 21:05:18.447965 olderor: LUL
+2017-01-30 21:05:44.543166 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :1210
+2017-01-30 21:05:44.543363 zerxam: 1210
+2017-01-30 21:05:57.209916 ping-pong
+2017-01-30 21:06:56.957328 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :gl hf
+2017-01-30 21:06:56.957620 olderor: gl hf
+2017-01-30 21:09:16.428053 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :у меня все равно задержка
+2017-01-30 21:09:16.428273 olderor: у меня все равно задержка
+2017-01-30 21:09:21.803440 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :как раз в 1 вопрос
+2017-01-30 21:09:21.803598 olderor: как раз в 1 вопрос
+2017-01-30 21:10:20.923733 ping-pong
+2017-01-30 21:10:52.741201 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :s1lver12 s1lver12 s1lver12 s1lver12 s1lver12
+2017-01-30 21:10:52.741375 olderor: s1lver12 s1lver12 s1lver12 s1lver12 s1lver12
+2017-01-30 21:10:56.536871 bot: PRIVMSG #zerxam :_bot zerxam в вк: https://vk.com/id228197148{N}
+2017-01-30 21:13:18.059795 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :wtf
+2017-01-30 21:13:18.059967 olderor: wtf
+2017-01-30 21:13:24.657623 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :разве жакет это не одежда
+2017-01-30 21:13:24.657808 olderor: разве жакет это не одежда
+2017-01-30 21:13:30.901660 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :какая нафиг часть
+2017-01-30 21:13:30.901938 olderor: какая нафиг часть
+2017-01-30 21:15:19.207666 ping-pong
+2017-01-30 21:16:34.138557 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :never lucky BabyRage
+2017-01-30 21:16:34.138708 olderor: never lucky BabyRage
+2017-01-30 21:19:46.322430 ping-pong
+2017-01-30 21:20:11.214136 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :gg
+2017-01-30 21:20:11.214356 olderor: gg
+2017-01-30 21:20:23.064312 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :gg wp kek
+2017-01-30 21:20:23.064564 zerxam: gg wp kek
+2017-01-30 21:20:24.238774 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-01-30 21:20:24.238932 olderor: exit
+2017-01-30 21:20:24.239017 bot: PRIVMSG #zerxam :_bot Bye!{N}
+2017-01-30 21:20:40.125897 bot: PRIVMSG #zerxam :_bot zerxam is live for 2 hours, 22 minutes, 1 second{N}
+2017-01-30 21:20:43.337437 bot: PRIVMSG #zerxam :_bot zerxam is live for 2 hours, 22 minutes, 4 seconds{N}

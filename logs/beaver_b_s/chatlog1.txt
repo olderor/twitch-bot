@@ -1,0 +1,547 @@
+2017-08-26 18:46:55.789970 
+2017-08-26 18:46:55.790181 
+2017-08-26 18:46:55.790265 
+2017-08-26 18:46:55.790343 Starting bot
+2017-08-26 18:46:55.790411 
+2017-08-26 18:46:55.790483 
+2017-08-26 18:46:55.956891 bot: PRIVMSG #beaver_b_s :/me _bot Bot is connected DatSheffy 7
+2017-08-26 18:46:56.381617 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-08-26 18:46:56.381963 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-08-26 18:46:56.382170 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-08-26 18:46:56.382327 :tmi.twitch.tv 004 olderor :-
+2017-08-26 18:46:56.382468 :tmi.twitch.tv 375 olderor :-
+2017-08-26 18:46:56.382616 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-08-26 18:46:56.382765 :tmi.twitch.tv 376 olderor :>
+2017-08-26 18:46:56.454982 :olderor!olderor@olderor.tmi.twitch.tv JOIN #beaver_b_s
+2017-08-26 18:46:56.455278 :olderor.tmi.twitch.tv 353 olderor = #beaver_b_s :olderor
+2017-08-26 18:46:56.455380 :olderor.tmi.twitch.tv 366 olderor #beaver_b_s :End of /NAMES list
+2017-08-26 18:47:16.090237 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :start
+2017-08-26 18:47:19.801522 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 18:47:19.802481 bot: PRIVMSG #beaver_b_s :/me _bot Kappa
+2017-08-26 18:47:29.104931 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :FrankerZ
+2017-08-26 18:47:29.656111 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!followage
+2017-08-26 18:47:30.946292 request:34 minutes, 26 second
+2017-08-26 18:47:30.947067 bot: PRIVMSG #beaver_b_s :/me _bot olderor is following beaver_b_s for 34 minutes, 26 seconds
+2017-08-26 18:47:40.617255 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-26 18:47:41.324021 bot: PRIVMSG #beaver_b_s :/me _bot beaver_b_s is live for 1 hour, 14 minutes, 21 seconds
+2017-08-26 18:49:01.664811 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!vk
+2017-08-26 18:49:01.665847 bot: PRIVMSG #beaver_b_s :/me _bot группа в вк в процессе создания. скоро тут будет ссылка
+2017-08-26 18:49:06.521913 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!donate
+2017-08-26 18:49:06.522878 bot: PRIVMSG #beaver_b_s :/me _bot в процессе. скоро тут будет ссылка
+2017-08-26 18:49:08.734277 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :ректальний технік форева
+2017-08-26 18:49:28.841689 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!help
+2017-08-26 18:49:28.842687 bot: PRIVMSG #beaver_b_s :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с beaver_b_s'ом, !group - группа в вк, !uptime - узнай, сколько времени идет стрим, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня
+2017-08-26 18:49:52.274184 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вродь работает, развлекайтесь
+2017-08-26 18:50:24.965330 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :деки можешь через !setdeck ставить
+2017-08-26 18:50:55.669211 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :PogChamp
+2017-08-26 18:50:57.410696 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :а !remdeck удаляет установленную деку
+2017-08-26 18:51:03.950765 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!setdeck
+2017-08-26 18:51:03.951943 bot: PRIVMSG #beaver_b_s :/me _bot в сообщении необходимо указать ссылку на деку. !setdeck <url>
+2017-08-26 18:51:10.018736 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ссылку на картинку
+2017-08-26 18:51:13.832542 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :"что это значит" - тижпрограміст
+2017-08-26 18:51:16.497364 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :на имгур или где-нибудь
+2017-08-26 18:51:31.133190 ping-pong
+2017-08-26 18:52:27.966015 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :если цветной текст будет раздражать, можно отключить
+2017-08-26 18:52:28.679281 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :TTours TTours KappaPride TTours TTours
+2017-08-26 18:52:41.558556 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :отрубай нахуй. він граза виїдає
+2017-08-26 18:52:56.183169 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :только одно но, чтобы его включить нужен я
+2017-08-26 18:53:35.267309 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :BCWarrior
+2017-08-26 18:53:40.517101 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 18:53:40.518359 bot: PRIVMSG #beaver_b_s :/me _bot Kappa
+2017-08-26 18:53:52.116399 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :тогда ты и меня забанишь DansGame
+2017-08-26 18:53:52.244172 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :я тебе потім найду
+2017-08-26 18:53:53.489714 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :шакал
+2017-08-26 18:54:12.779682 
+2017-08-26 18:54:12.779852 
+2017-08-26 18:54:12.779941 
+2017-08-26 18:54:12.780014 Starting bot
+2017-08-26 18:54:12.780098 
+2017-08-26 18:54:12.780189 
+2017-08-26 18:54:12.938741 bot: PRIVMSG #beaver_b_s : _bot Bot is connected DatSheffy 7
+2017-08-26 18:54:13.264568 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-08-26 18:54:13.264933 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-08-26 18:54:13.265064 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-08-26 18:54:13.265166 :tmi.twitch.tv 004 olderor :-
+2017-08-26 18:54:13.265261 :tmi.twitch.tv 375 olderor :-
+2017-08-26 18:54:13.265350 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-08-26 18:54:13.265516 :tmi.twitch.tv 376 olderor :>
+2017-08-26 18:54:13.293233 :olderor!olderor@olderor.tmi.twitch.tv JOIN #beaver_b_s
+2017-08-26 18:54:13.293772 :olderor.tmi.twitch.tv 353 olderor = #beaver_b_s :olderor
+2017-08-26 18:54:13.293904 :olderor.tmi.twitch.tv 366 olderor #beaver_b_s :End of /NAMES list
+2017-08-26 18:54:33.274448 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 18:54:33.275443 bot: PRIVMSG #beaver_b_s : _bot Kappa
+2017-08-26 18:54:38.808060 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :да
+2017-08-26 18:54:41.534487 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :б-будущее
+2017-08-26 18:54:45.733621 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :это же мой бот
+2017-08-26 18:55:00.429514 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :твой пездюк
+2017-08-26 18:55:48.232473 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :да ладно?)))
+2017-08-26 18:55:50.652268 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :а у мене 4
+2017-08-26 18:56:06.019751 
+2017-08-26 18:56:06.019915 
+2017-08-26 18:56:06.020007 
+2017-08-26 18:56:06.020088 Starting bot
+2017-08-26 18:56:06.020165 
+2017-08-26 18:56:06.020240 
+2017-08-26 18:56:06.178029 bot: PRIVMSG #beaver_b_s : _bot Bot is connected DatSheffy 7
+2017-08-26 18:56:06.549603 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-08-26 18:56:06.549926 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-08-26 18:56:06.550031 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-08-26 18:56:06.550126 :tmi.twitch.tv 004 olderor :-
+2017-08-26 18:56:06.550226 :tmi.twitch.tv 375 olderor :-
+2017-08-26 18:56:06.550338 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-08-26 18:56:06.550430 :tmi.twitch.tv 376 olderor :>
+2017-08-26 18:56:06.572756 :olderor!olderor@olderor.tmi.twitch.tv JOIN #beaver_b_s
+2017-08-26 18:56:06.573812 :olderor.tmi.twitch.tv 353 olderor = #beaver_b_s :olderor
+2017-08-26 18:56:06.573938 :olderor.tmi.twitch.tv 366 olderor #beaver_b_s :End of /NAMES list
+2017-08-26 18:56:46.509974 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :хуйопочки) це скілуха драфта
+2017-08-26 18:56:52.595145 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :але я вже 2-2 сосу))))
+2017-08-26 18:56:59.052971 
+2017-08-26 18:56:59.053638 
+2017-08-26 18:56:59.053777 
+2017-08-26 18:56:59.053903 Starting bot
+2017-08-26 18:56:59.054028 
+2017-08-26 18:56:59.054139 
+2017-08-26 18:56:59.213918 bot: PRIVMSG #beaver_b_s : _bot Bot is connected DatSheffy 7
+2017-08-26 18:56:59.548729 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-08-26 18:56:59.549089 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-08-26 18:56:59.549460 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-08-26 18:56:59.549760 :tmi.twitch.tv 004 olderor :-
+2017-08-26 18:56:59.550086 :tmi.twitch.tv 375 olderor :-
+2017-08-26 18:56:59.550481 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-08-26 18:56:59.550928 :tmi.twitch.tv 376 olderor :>
+2017-08-26 18:56:59.582062 :olderor!olderor@olderor.tmi.twitch.tv JOIN #beaver_b_s
+2017-08-26 18:56:59.582388 :olderor.tmi.twitch.tv 353 olderor = #beaver_b_s :olderor
+2017-08-26 18:56:59.582546 :olderor.tmi.twitch.tv 366 olderor #beaver_b_s :End of /NAMES list
+2017-08-26 18:57:01.748536 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 18:57:01.749977 bot: PRIVMSG #beaver_b_s : _bot Kappa
+2017-08-26 18:57:12.476503 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :бо у чуваків дедлішотів по 4 штуки і ремувалів як волос на жопі
+2017-08-26 18:57:43.893743 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :да-да
+2017-08-26 18:57:54.148776 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :але він 10 мани коштує. важко дуже
+2017-08-26 18:57:55.472514 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew ты выиграл маестро? а то я пропустил FeelsBadMan
+2017-08-26 18:58:09.425606 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :да
+2017-08-26 18:58:17.107369 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :по попці нашльопав йому
+2017-08-26 18:58:54.582529 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :есть классная команда !lol
+2017-08-26 18:59:12.570361 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :!lol
+2017-08-26 18:59:12.571249 bot anon: PRIVMSG #beaver_b_s :/timeout skyfanbrew 1
+2017-08-26 18:59:19.956878 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :pizda
+2017-08-26 18:59:22.564598 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 18:59:33.932134 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :а що вона робить
+2017-08-26 18:59:42.671281 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :а то у ене чат в окремому выкны
+2017-08-26 18:59:42.858254 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :timeout 1
+2017-08-26 19:00:03.092140 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :мені піхуй на твої команди щенок)
+2017-08-26 19:00:19.067383 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :!idinaxui
+2017-08-26 19:00:32.242053 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew DansGame
+2017-08-26 19:00:33.405145 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :OneHand
+2017-08-26 19:00:50.552004 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew я тебе пермач дать могу так то DansGame
+2017-08-26 19:01:22.086028 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :мамці своїй дай
+2017-08-26 19:01:26.734361 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :PMSTwin
+2017-08-26 19:01:52.659463 ping-pong
+2017-08-26 19:01:55.804666 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :можеш і не пермач))) Kappa
+2017-08-26 19:02:28.614328 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :StoneLightning
+2017-08-26 19:03:37.114661 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :3-2
+2017-08-26 19:05:15.606961 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вроде в разброс, но одинаковых не будет
+2017-08-26 19:05:27.480710 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :как тотемы шамана
+2017-08-26 19:05:57.041597 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :отк есть
+2017-08-26 19:06:03.545215 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :exodia paladin
+2017-08-26 19:06:08.787576 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 19:06:15.983809 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вроде так называется
+2017-08-26 19:06:45.163338 ping-pong
+2017-08-26 19:06:47.248946 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :там чел есть 3\4, который рефрешает абилку, после того, как разыграл спелл
+2017-08-26 19:08:26.738458 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ну нужно чтобы что-то было уже на столе раньше
+2017-08-26 19:08:31.501716 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :какие-то кони
+2017-08-26 19:08:51.425308 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :типа не всегда ты прям все можешь зачистить
+2017-08-26 19:09:01.101317 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :+ там есть штуки которые монетки дают
+2017-08-26 19:09:01.102565 bot: PRIVMSG #beaver_b_s : _bot +
+2017-08-26 19:09:20.871449 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :да
+2017-08-26 19:09:30.925110 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :3 коня и ты вызываешь 4
+2017-08-26 19:09:43.372453 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :там 4й конь якого ти призовеш убиваэ
+2017-08-26 19:09:46.551575 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :так- відразу
+2017-08-26 19:09:50.225367 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :4 коня і всі різні
+2017-08-26 19:09:56.164587 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :і всі повинні в тебе на столі бути
+2017-08-26 19:11:21.397512 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!song
+2017-08-26 19:11:21.399715 
+
+
+ !!! Exception: [Errno 2] No such file or directory: 'beaver_b_s/lastsong.txt' !!! 
+
+
+2017-08-26 19:11:28.331880 ping-pong
+2017-08-26 19:11:32.297725 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :!хуй
+2017-08-26 19:12:23.690156 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :!song The Quemists - Lost Weekend
+2017-08-26 19:12:23.691201 
+
+
+ !!! Exception: [Errno 2] No such file or directory: 'beaver_b_s/lastsong.txt' !!! 
+
+
+2017-08-26 19:12:23.910384 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :друид играет EleGiggle
+2017-08-26 19:12:36.460092 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew, !request
+2017-08-26 19:12:56.226898 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :я тоже так думаю
+2017-08-26 19:13:00.594894 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :у лока вообще оп
+2017-08-26 19:14:19.237904 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!song
+2017-08-26 19:14:19.238921 bot: PRIVMSG #beaver_b_s : _bot no last played song found
+2017-08-26 19:15:17.918328 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!songsize
+2017-08-26 19:15:26.829537 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!songssize
+2017-08-26 19:15:26.830732 bot: PRIVMSG #beaver_b_s : _bot no songs in the queue
+2017-08-26 19:15:59.780182 ping-pong
+2017-08-26 19:16:01.881686 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request
+2017-08-26 19:16:01.882949 bot: PRIVMSG #beaver_b_s : _bot song  requested by olderor was successfully added, songs in the queue: 1
+2017-08-26 19:16:20.803848 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :через request указываешь ссылку на песню
+2017-08-26 19:16:32.452481 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :кто-то указывает
+2017-08-26 19:16:54.054343 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :да, ютубовскую
+2017-08-26 19:17:02.761933 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :потом эта песня добавляется в очередь
+2017-08-26 19:17:29.541310 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ты сам должен прописать команду !get или !getsong чтобы вытащить песню с очереди
+2017-08-26 19:17:48.049709 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :и ты сам открываешь ссылку и включаешь песню
+2017-08-26 19:17:52.029488 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :все
+2017-08-26 19:18:08.776918 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!get
+2017-08-26 19:18:08.778566 bot: PRIVMSG #beaver_b_s : _bot now playing  requested by olderor, songs left: 0
+2017-08-26 19:18:26.146336 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вот например
+2017-08-26 19:18:30.762878 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request https://www.youtube.com/watch?v=6E5m_XtCX3c
+2017-08-26 19:18:30.764572 bot: PRIVMSG #beaver_b_s : _bot song https://www.youtube.com/watch?v=6E5m_XtCX3c requested by olderor was successfully added, songs in the queue: 1
+2017-08-26 19:18:40.523714 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :теперь ты пишешь !get
+2017-08-26 19:18:47.551266 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :или !getsong
+2017-08-26 19:19:08.231973 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :слышно
+2017-08-26 19:19:18.446716 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :только нужно гет прописать
+2017-08-26 19:19:32.247047 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :а то песня в очереди останется
+2017-08-26 19:19:37.795158 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :nb[it phj,b
+2017-08-26 19:19:41.714247 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :тише зроби
+2017-08-26 19:19:43.797758 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :трішки
+2017-08-26 19:19:44.060013 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :просто эта штука симулирует очередь
+2017-08-26 19:19:50.329916 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!oceanman
+2017-08-26 19:19:50.330936 bot: PRIVMSG #beaver_b_s : _bot OCEAN MAN 🌊 😍 Take me by the hand ✋ lead me to the land that you understand 🙌 🌊 OCEAN MAN 🌊 😍 The voyage 🚲 to the corner of the 🌎 globe is a real trip 👌 🌊 OCEAN MAN 🌊 😍 The crust of a tan man 👳 imbibed by the sand 👍 Soaking up the 💦 thirst of the land 💯
+2017-08-26 19:20:05.168669 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!getsong
+2017-08-26 19:20:05.170598 bot: PRIVMSG #beaver_b_s : _bot now playing https://www.youtube.com/watch?v=6E5m_XtCX3c requested by olderor, songs left: 0
+2017-08-26 19:20:16.098018 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :во
+2017-08-26 19:20:25.662080 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :оно пишет ссылку на песню, которая была указана
+2017-08-26 19:20:32.882079 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :и пишет сколько песен осталось в очереди
+2017-08-26 19:20:45.552035 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :по порядку
+2017-08-26 19:20:51.622250 ping-pong
+2017-08-26 19:20:56.327115 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :кто первый заказал, тот раньше в очереди
+2017-08-26 19:21:20.962209 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :6-3
+2017-08-26 19:21:22.974350 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ну это полезно, когда запросов на поставить музыку много
+2017-08-26 19:21:37.159889 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :и чтобы не запоминать кто что когда заказал
+2017-08-26 19:21:42.540260 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :эту штуку юзать
+2017-08-26 19:21:48.863027 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :6-2 *
+2017-08-26 19:21:50.526615 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :соря
+2017-08-26 19:21:52.052543 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :очень тихо слышно
+2017-08-26 19:21:55.865614 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :сорян. 5 мин афк
+2017-08-26 19:22:22.756173 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ну музыку почти не слышно
+2017-08-26 19:22:26.830295 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :как будто ее нет
+2017-08-26 19:22:41.546156 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вроде норм
+2017-08-26 19:22:49.696032 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 19:24:53.647979 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :знаешь такого чела jon sudano?
+2017-08-26 19:25:32.461318 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :shooting stars memes
+2017-08-26 19:25:37.553483 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ща покидаю песен
+2017-08-26 19:25:45.462992 ping-pong
+2017-08-26 19:28:03.507903 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request https://www.youtube.com/watch?v=gWDODZqn8y8
+2017-08-26 19:28:03.509123 bot: PRIVMSG #beaver_b_s : _bot song https://www.youtube.com/watch?v=gWDODZqn8y8 requested by olderor was successfully added, songs in the queue: 1
+2017-08-26 19:28:12.650444 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request https://www.youtube.com/watch?v=mbu7Mad1-6I
+2017-08-26 19:28:12.651729 bot: PRIVMSG #beaver_b_s : _bot song https://www.youtube.com/watch?v=mbu7Mad1-6I requested by olderor was successfully added, songs in the queue: 2
+2017-08-26 19:28:35.238191 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request https://www.youtube.com/watch?v=aF1KB5O1f2k
+2017-08-26 19:28:35.239377 bot: PRIVMSG #beaver_b_s : _bot song https://www.youtube.com/watch?v=aF1KB5O1f2k requested by olderor was successfully added, songs in the queue: 3
+2017-08-26 19:28:48.795947 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!getsong
+2017-08-26 19:28:48.797752 bot: PRIVMSG #beaver_b_s : _bot now playing https://www.youtube.com/watch?v=gWDODZqn8y8 requested by olderor, songs left: 2
+2017-08-26 19:29:07.053345 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!request https://www.youtube.com/watch?v=9oMXMj-8Sqg
+2017-08-26 19:29:07.055047 bot: PRIVMSG #beaver_b_s : _bot song https://www.youtube.com/watch?v=9oMXMj-8Sqg requested by olderor was successfully added, songs in the queue: 3
+2017-08-26 19:29:59.913725 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :чуть громче сделай
+2017-08-26 19:30:17.145061 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :а то даже хс перекрикивает музыку
+2017-08-26 19:30:33.332659 ping-pong
+2017-08-26 19:30:40.631539 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!getsong
+2017-08-26 19:30:40.633178 bot: PRIVMSG #beaver_b_s : _bot now playing https://www.youtube.com/watch?v=mbu7Mad1-6I requested by olderor, songs left: 2
+2017-08-26 19:31:51.927353 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!getsong
+2017-08-26 19:31:51.929023 bot: PRIVMSG #beaver_b_s : _bot now playing https://www.youtube.com/watch?v=aF1KB5O1f2k requested by olderor, songs left: 1
+2017-08-26 19:32:06.264567 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 19:33:05.386222 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :з чого ржеш\
+2017-08-26 19:33:18.469346 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew c jon sudano
+2017-08-26 19:33:36.092194 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :!getsong
+2017-08-26 19:33:36.093963 bot: PRIVMSG #beaver_b_s : _bot now playing https://www.youtube.com/watch?v=9oMXMj-8Sqg requested by olderor, songs left: 0
+2017-08-26 19:34:19.891047 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :gorillaz кавер лучший
+2017-08-26 19:34:27.627939 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :это вступление Kreygasm
+2017-08-26 19:34:28.477540 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :все, я погнав в КСку катать
+2017-08-26 19:34:33.318989 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :досить в ХС деградувати
+2017-08-26 19:34:40.936199 ping-pong
+2017-08-26 19:35:01.105881 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@skyfanbrew ResidentSleeper
+2017-08-26 19:35:12.709785 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :у нас стак із калашів
+2017-08-26 19:35:18.780651 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :та я на калаш спустився
+2017-08-26 19:35:44.772967 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :якщо буде місце- я тобі напишу
+2017-08-26 19:36:19.396667 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :хахаахах
+2017-08-26 19:36:26.041876 :skyfanbrew!skyfanbrew@skyfanbrew.tmi.twitch.tv PRIVMSG #beaver_b_s :тру стрімер йопта
+2017-08-26 19:37:19.331463 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :боты LUL
+2017-08-26 19:37:48.164048 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :+
+2017-08-26 19:37:48.165673 bot: PRIVMSG #beaver_b_s : _bot +
+2017-08-26 19:38:50.798392 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Миссплей, мог 1/1 сохранить Kappa
+2017-08-26 19:39:02.181792 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :все равно бы сролял
+2017-08-26 19:39:29.830769 ping-pong
+2017-08-26 19:39:30.614467 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-26 19:41:42.284004 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :SMOrc
+2017-08-26 19:42:10.192885 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :trade? SMOrc face! SMOrc
+2017-08-26 19:42:50.858464 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Там скорее всего его девушка сидит, а не штан
+2017-08-26 19:43:06.135880 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Штан сейчас свалил куда-то, в Москву вроде
+2017-08-26 19:43:42.305502 ping-pong
+2017-08-26 19:43:52.239419 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Я не помню. Сборы вроде
+2017-08-26 19:44:57.189675 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Он так и делает. Сейчас бы трайхардить в такой мете ResidentSleeper
+2017-08-26 19:45:30.488584 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Он там аренки фармит, чтобы побед на арене и в ладдере было по 20к
+2017-08-26 19:45:38.864397 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Пиздец задрот Kappa
+2017-08-26 19:46:41.883607 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Почему у тебя такой ник? CoolStoryBob
+2017-08-26 19:47:15.069825 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Тут
+2017-08-26 19:47:22.157625 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :На твиче
+2017-08-26 19:48:08.342944 ping-pong
+2017-08-26 19:48:57.937479 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А если нет существ за 3 маны
+2017-08-26 19:51:23.668129 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Поменяй деку, ты забыл
+2017-08-26 19:51:32.010556 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!setdeck
+2017-08-26 19:51:32.011747 bot: PRIVMSG #beaver_b_s : _bot в сообщении необходимо указать ссылку на деку. !setdeck <url>
+2017-08-26 19:52:17.349142 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Сейчас будет 6-3 и не придётся менять LUL
+2017-08-26 19:52:53.105085 ping-pong
+2017-08-26 19:55:33.576882 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Он консиднет Jebaited
+2017-08-26 19:56:11.543255 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 19:56:37.781107 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 19:56:49.530317 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!bm
+2017-08-26 19:56:49.531184 bot: PRIVMSG #beaver_b_s : _bot 4/10 BM LUL
+2017-08-26 19:57:26.759976 ping-pong
+2017-08-26 20:00:59.852484 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Чет никто так и не залетел Feels
+2017-08-26 20:01:03.790328 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :FeelsBadMan
+2017-08-26 20:01:03.791303 bot: PRIVMSG #beaver_b_s : _bot FeelsBadMan 🔫
+2017-08-26 20:02:06.808347 ping-pong
+2017-08-26 20:05:05.759010 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :точно залетит LUL
+2017-08-26 20:06:40.993701 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!setdeck
+2017-08-26 20:06:40.995001 bot: PRIVMSG #beaver_b_s : _bot в сообщении необходимо указать ссылку на деку. !setdeck <url>
+2017-08-26 20:06:52.189619 ping-pong
+2017-08-26 20:07:18.081719 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :ссылку и командой укажи
+2017-08-26 20:07:27.070162 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И тогда через !deck
+2017-08-26 20:07:34.019027 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Получать колоду
+2017-08-26 20:08:14.288579 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Стрим ищет
+2017-08-26 20:11:36.796788 ping-pong
+2017-08-26 20:11:45.273178 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :shtanBen
+2017-08-26 20:12:23.572587 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да
+2017-08-26 20:12:50.329505 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :У него топовые стримы, только он стримит раз в полгода NotLikeThis
+2017-08-26 20:12:52.492106 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-26 20:13:43.678648 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :хз
+2017-08-26 20:13:50.907562 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Вроде выживешь
+2017-08-26 20:13:59.204721 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Другого варианта все равно нету
+2017-08-26 20:14:07.893699 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А не
+2017-08-26 20:14:27.710809 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это же близзард BrokeBack
+2017-08-26 20:15:00.801294 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!топдек
+2017-08-26 20:15:00.802702 bot: PRIVMSG #beaver_b_s : _bot топдекаю уже 1 раз(а)
+2017-08-26 20:15:55.206075 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Я думаю, выживешь. Типа как с Рено были видосы, что сначала 0 хп, а потом Рено хилил до 30
+2017-08-26 20:16:01.698712 ping-pong
+2017-08-26 20:16:02.528750 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ты топдекнул консекраху
+2017-08-26 20:17:26.588906 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Можно
+2017-08-26 20:17:32.980437 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И у штана тоже можно
+2017-08-26 20:17:46.848899 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это баг у всех
+2017-08-26 20:17:57.765891 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Они сломали список друзей
+2017-08-26 20:18:21.041870 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Только тогда стримить стабильно надо
+2017-08-26 20:18:27.793508 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И канал оформить
+2017-08-26 20:18:42.113372 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Типа инфу о тебе, группу, донаты
+2017-08-26 20:18:47.993551 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да, рекламу
+2017-08-26 20:20:18.600895 ping-pong
+2017-08-26 20:20:46.312761 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И в легенду врываться, а то на 20 не комильфо
+2017-08-26 20:21:06.903018 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ага
+2017-08-26 20:21:12.316931 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это же реклама
+2017-08-26 20:21:26.179323 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :За все могут деньги просить
+2017-08-26 20:23:05.738745 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну в основном так и делают, а тем, кому охота бабла срубить, так не будут делать
+2017-08-26 20:23:22.180383 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Можно и сильвера попросить
+2017-08-26 20:23:30.206685 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Только там куча отбитых придёт
+2017-08-26 20:24:18.459489 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну хз. Я думаю, пост в группе сможет сделать
+2017-08-26 20:24:19.610310 ping-pong
+2017-08-26 20:25:31.679116 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Хз. Я не думаю, что он прям такой чсв
+2017-08-26 20:25:40.883445 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :В любом случае попытка не пытка
+2017-08-26 20:28:24.149997 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Краткая биография. Как зовут, где живешь, что делаешь. Список "наград", типа достижения в игре, а-ля брал топ1 кучу раз. Ссылки на донаты и группу
+2017-08-26 20:28:31.269630 ping-pong
+2017-08-26 20:28:35.881778 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это вроде 2/2 забафало не?
+2017-08-26 20:29:10.630727 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Потому что только в колоде
+2017-08-26 20:29:20.274251 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А это у него в руке было
+2017-08-26 20:29:33.396067 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 20:29:39.481395 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Условие и баф распространяется только на колоду
+2017-08-26 20:29:43.744891 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Как рено
+2017-08-26 20:30:22.593695 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Она у него в руке была
+2017-08-26 20:31:02.282234 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это как Рено, но если ты дровнул дупликат
+2017-08-26 20:31:46.137552 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ещё и ссаный лакерок, что замулиганил себе 2 дроп для условия
+2017-08-26 20:33:06.044272 ping-pong
+2017-08-26 20:34:37.308442 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 20:34:48.416675 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :друид на арене BrokeBack
+2017-08-26 20:35:12.831170 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :бм пингвинчиком Kreygasm
+2017-08-26 20:36:29.090532 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Вебку ещё надо
+2017-08-26 20:36:35.233165 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 20:36:41.605276 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :wisp BibleThump
+2017-08-26 20:37:13.540311 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :WutFace
+2017-08-26 20:37:32.979398 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :напиши в саппорт близзам
+2017-08-26 20:37:36.788988 ping-pong
+2017-08-26 20:37:55.885136 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Пусть вернут 150 голды
+2017-08-26 20:38:07.409981 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Мурлыка
+2017-08-26 20:38:11.816500 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Мурлока
+2017-08-26 20:38:22.090526 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Мурлок пал
+2017-08-26 20:38:54.213038 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Вероятность набрать элемов ещё меньше , разве нет ?
+2017-08-26 20:39:15.483053 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А 5/5 таунт за 9 разве не посос?
+2017-08-26 20:41:40.427143 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Блин. Что реально. Я думал, что мурлоков больше чем элемов в игре
+2017-08-26 20:41:55.758496 ping-pong
+2017-08-26 20:44:33.870724 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Чёт 0-3 пахнет
+2017-08-26 20:46:14.304846 bot: PRIVMSG #beaver_b_s : _bot PogChamp у нас скоро будет группа в вк PogChamp 
+2017-08-26 20:46:46.945884 ping-pong
+2017-08-26 20:48:24.191663 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 20:48:24.192748 bot: PRIVMSG #beaver_b_s : _bot Kappa
+2017-08-26 20:48:33.233252 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Пусть на стрим идёт
+2017-08-26 20:48:37.855550 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 20:48:37.856470 bot: PRIVMSG #beaver_b_s : _bot Kappa
+2017-08-26 20:48:48.821470 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :Kappa
+2017-08-26 20:48:48.822340 bot: PRIVMSG #beaver_b_s : _bot Kappa
+2017-08-26 20:48:49.452361 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :а де верифайд бедж мой
+2017-08-26 20:48:50.612628 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam дарова PogChamp
+2017-08-26 20:49:10.374717 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :@olderor модер PogChamp
+2017-08-26 20:49:30.891382 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam продался ботом Kreygasm
+2017-08-26 20:51:08.498160 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Там кстати можно как-то партнерку для бедных оформить
+2017-08-26 20:51:21.950833 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :@olderor продолжай
+2017-08-26 20:51:27.752809 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 20:51:29.577481 ping-pong
+2017-08-26 20:51:34.068612 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Типа не надо ждать стабильного онлайна и проверки сотрудниками твича
+2017-08-26 20:52:09.988121 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :красиво
+2017-08-26 20:52:11.799866 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Только там ограниченные возможности будут
+2017-08-26 20:52:51.330182 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Сабскрайб и чирсы
+2017-08-26 20:53:09.652716 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :@Beaver_B_S верифайд бедж Kappa
+2017-08-26 20:53:34.244217 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Подписка даёт тебе деньги, юзерам смайлики, чирсы - типа донат через твич, ещё есть реклама через твич
+2017-08-26 20:53:43.253727 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну и бейджик Kappa
+2017-08-26 20:54:13.625545 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :У твича есть своя виртуальная валюта
+2017-08-26 20:54:15.039411 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да
+2017-08-26 20:54:23.379159 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Там кристалики обычно
+2017-08-26 20:54:23.789929 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :я кст чето слышал тоже такое
+2017-08-26 20:54:34.858856 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И за чирсы тоже дают бейджик
+2017-08-26 20:54:36.530380 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :там уже и не надо аппрува на эмоуты ждать
+2017-08-26 20:54:49.404088 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :хоть скрины с порнхаба заливай LUL
+2017-08-26 20:54:56.642682 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Донат
+2017-08-26 20:55:02.769204 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Только через твич
+2017-08-26 20:55:15.264001 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :(Твич берет себе долю в процентах)
+2017-08-26 20:55:51.404962 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну и ещё плюшки типа анимации в чате, сообщение на стриме и бейджик возле ника
+2017-08-26 20:55:58.913266 ping-pong
+2017-08-26 20:56:18.424826 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А ещё топ донатер чирсов по умолчанию в верху чата светится
+2017-08-26 20:57:13.167186 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Можно
+2017-08-26 20:57:21.882222 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это как обычный донат
+2017-08-26 20:57:27.414396 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :@Beaver_B_S а где ты чат такого нового поколения сделал? monkaS
+2017-08-26 20:57:33.387605 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Просто плюшки от твича
+2017-08-26 20:57:57.698521 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну и они за это большой процент берут
+2017-08-26 21:00:25.854798 ping-pong
+2017-08-26 21:00:41.014474 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :По сути да, стримеру так меньше денег приходит, но зато зрителям плюхи
+2017-08-26 21:01:02.943294 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :против меня рога с мистресс оф микшерс и думсеером, что я не так сделал в этой жизни? NotLikeThis
+2017-08-26 21:01:27.673124 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :НЕ на арене
+2017-08-26 21:01:33.618474 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :декбилдеры молодые блять
+2017-08-26 21:01:52.564762 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Что такое мистресс
+2017-08-26 21:01:55.989216 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :2-2
+2017-08-26 21:01:57.440107 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :за 1
+2017-08-26 21:02:06.341884 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А
+2017-08-26 21:02:09.920125 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Вспомнил
+2017-08-26 21:02:40.317079 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :но главный вопрос: слава кому?
+2017-08-26 21:02:55.222732 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-26 21:03:02.764738 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 21:03:03.282936 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam боту DatSheffy 7
+2017-08-26 21:03:46.516537 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Сколько сколько? Я не расслышал
+2017-08-26 21:04:24.625180 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Просто этот хант неправильный
+2017-08-26 21:04:30.963292 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Он трейдится
+2017-08-26 21:04:37.851179 ping-pong
+2017-08-26 21:04:40.579719 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А надо SMOrc
+2017-08-26 21:05:41.983161 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :ЛОЛ
+2017-08-26 21:05:44.914587 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :это милл рога
+2017-08-26 21:06:31.578317 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam ты там вайлд что ли играешь?
+2017-08-26 21:06:36.965091 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :НЕТ
+2017-08-26 21:06:44.407368 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :это челик с 3776
+2017-08-26 21:07:04.583710 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :лол вот это ты живешь @Beaver_B_S
+2017-08-26 21:07:42.721504 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да
+2017-08-26 21:07:49.177999 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Верно
+2017-08-26 21:08:26.861830 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Зато бесплатная арена была Kappa
+2017-08-26 21:08:55.348210 ping-pong
+2017-08-26 21:09:03.971635 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Глазастик
+2017-08-26 21:09:08.680739 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :SMOrc
+2017-08-26 21:09:31.663458 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :шуточки про глазастика
+2017-08-26 21:11:03.164673 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Нага вроде лучше воргена
+2017-08-26 21:11:08.303576 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :2/2 пушка же
+2017-08-26 21:11:53.772096 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Шаркун
+2017-08-26 21:13:19.634048 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Говорил же, надо было глазастика
+2017-08-26 21:13:27.689881 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Монетка PogChamp
+2017-08-26 21:13:31.394082 ping-pong
+2017-08-26 21:15:39.645934 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Зачем
+2017-08-26 21:15:46.947606 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Шедоустеп на неотапливаемых
+2017-08-26 21:15:53.385536 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :На нзота *
+2017-08-26 21:16:01.522447 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Т9 BrokeBack
+2017-08-26 21:16:34.300537 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :щас бы не отопить
+2017-08-26 21:16:38.452179 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :Слава Украине
+2017-08-26 21:16:56.206102 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Героям слава
+2017-08-26 21:17:02.724141 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 21:18:24.766500 ping-pong
+2017-08-26 21:19:04.862214 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :если будет партнеркa сделаю как KKona только SSalo xD
+2017-08-26 21:19:28.070124 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :партнерку бы ща
+2017-08-26 21:19:36.147742 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 21:19:56.448384 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam там префикс нужен на 5 букв
+2017-08-26 21:20:15.447876 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это только если глобальный смайл делать
+2017-08-26 21:20:20.599949 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :На весь твич
+2017-08-26 21:20:28.415717 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Но это денег стоит
+2017-08-26 21:20:29.867684 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :ну знаешь типа monkaS
+2017-08-26 21:20:37.518099 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :которые подрубаются
+2017-08-26 21:20:43.848530 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :аааа ReckJew
+2017-08-26 21:21:14.057846 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Так в бттв можно и без партнерки свои смайлы делать
+2017-08-26 21:21:18.327733 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :а
+2017-08-26 21:21:24.841581 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :ну я про это
+2017-08-26 21:21:48.185107 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam так зафигач
+2017-08-26 21:21:53.864070 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :ИЗИ
+2017-08-26 21:21:57.587332 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Че ждешь
+2017-08-26 21:22:25.720095 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :Я НЕ МОГУ БОЛЬШЕ ЖДАТЬ
+2017-08-26 21:22:33.035641 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :(могу)
+2017-08-26 21:22:45.352070 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@zerxam где мое сало блэт
+2017-08-26 21:23:03.162226 ping-pong
+2017-08-26 21:23:21.623136 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :@olderor на рынке
+2017-08-26 21:23:23.029402 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!followage zerxam
+2017-08-26 21:23:24.363031 request:75493506 is not following 5435788
+2017-08-26 21:23:24.363645 bot: PRIVMSG #beaver_b_s : _bot zerxam is not following beaver_b_s
+2017-08-26 21:23:29.690853 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :DansGame
+2017-08-26 21:24:13.293633 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@beaver_b_s bttv . Это расширение для браузера, которое даёт доп смайлики и другие плюшки , типа кастомизации чата
+2017-08-26 21:24:15.293885 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :оу щит айм сорри
+2017-08-26 21:24:31.139571 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Загугли и скачай
+2017-08-26 21:24:32.049552 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :!followage zerxam
+2017-08-26 21:24:32.999772 request:11 second
+2017-08-26 21:24:33.000024 bot: PRIVMSG #beaver_b_s : _bot zerxam is following beaver_b_s for 11 seconds
+2017-08-26 21:24:37.253514 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Классная штука
+2017-08-26 21:25:01.042655 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да, это оно
+2017-08-26 21:25:18.819596 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Это типа неофициально
+2017-08-26 21:25:27.739555 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Доп смайлики
+2017-08-26 21:26:08.876932 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Шедоустеп жди для комбы
+2017-08-26 21:27:05.325612 ping-pong
+2017-08-26 21:28:21.026500 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #beaver_b_s :PogChamp
+2017-08-26 21:30:28.743265 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :1-3 арена PogChamp
+2017-08-26 21:31:26.519489 ping-pong
+2017-08-26 21:36:15.471387 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :armor up ResidentSleeper armor up ResidentSleeper welcome to the grand tournament champion ResidentSleeper tank up ResidentSleeper tank up ResidentSleeper I'm out of cards ResidentSleeper I choose death ResidentSleeper
+2017-08-26 21:36:17.081030 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow под трансляцией
+2017-08-26 21:36:24.458735 ping-pong
+2017-08-26 21:37:26.620683 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :haHAA
+2017-08-26 21:37:53.577361 :relleb!relleb@relleb.tmi.twitch.tv PRIVMSG #beaver_b_s :PogChamp
+2017-08-26 21:37:54.962522 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!pyramid PogChamp
+2017-08-26 21:37:54.963659 bot: PRIVMSG #beaver_b_s : _bot PogChamp
+2017-08-26 21:37:54.963830 bot: PRIVMSG #beaver_b_s : _bot PogChamp PogChamp
+2017-08-26 21:37:54.964010 bot: PRIVMSG #beaver_b_s : _bot PogChamp PogChamp PogChamp
+2017-08-26 21:37:54.964112 bot: PRIVMSG #beaver_b_s : _bot PogChamp PogChamp
+2017-08-26 21:37:54.964203 bot: PRIVMSG #beaver_b_s : _bot PogChamp
+2017-08-26 21:38:05.961773 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :@relleb PogChamp /
+2017-08-26 21:38:09.594989 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 21:38:25.611660 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Два меддива на арене
+2017-08-26 21:38:36.181613 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Когда не завезли пушек на вара
+2017-08-26 21:40:33.285043 ping-pong
+2017-08-26 21:42:30.484357 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!топдек
+2017-08-26 21:42:30.487573 bot: PRIVMSG #beaver_b_s : _bot топдекаю уже 2 раз(а)
+2017-08-26 21:43:21.739178 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!топдек
+2017-08-26 21:43:21.740571 bot: PRIVMSG #beaver_b_s : _bot топдекаю уже 3 раз(а)
+2017-08-26 21:45:12.781690 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Сначала огра топдекнул, потом 2/2 с 1 дмг
+2017-08-26 21:45:28.372777 ping-pong
+2017-08-26 21:46:24.929548 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Поменяй колоду , ты опять забыл FailFish
+2017-08-26 21:49:22.503746 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Шедоустеп на нзота PogChamp
+2017-08-26 21:49:32.128106 ping-pong
+2017-08-26 21:49:47.056207 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Два шедоустепа на нзота PogChamp
+2017-08-26 21:52:47.017049 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Я б не возвращал
+2017-08-26 21:52:57.997056 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-26 21:53:00.656414 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А то по столу просядешь
+2017-08-26 21:54:24.352187 ping-pong
+2017-08-26 21:54:28.262752 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-26 21:54:37.888152 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :roped Jebaited
+2017-08-26 21:54:52.318437 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ахах
+2017-08-26 21:54:58.111582 :holyrapira!holyrapira@holyrapira.tmi.twitch.tv PRIVMSG #beaver_b_s :Привет, квест с другом не хочешь разыграть?
+2017-08-26 21:58:33.032420 ping-pong
+2017-08-26 22:00:46.924929 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ладно, я уже спать пойду
+2017-08-26 22:00:52.976173 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Спокойной ночи
+2017-08-26 22:00:58.018415 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-26 22:00:58.816038 bot: PRIVMSG #beaver_b_s : _bot beaver_b_s is live for 4 hours, 27 minutes, 38 seconds
+2017-08-26 22:01:20.737238 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :exit
+2017-08-26 22:01:20.738294 bot: PRIVMSG #beaver_b_s : _bot Bye!

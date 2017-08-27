@@ -1,0 +1,5 @@
+2017-02-25 18:13:48.722707 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-25 18:13:48.722977 bot: PRIVMSG #zerxam :/me _bot Hello! I'm here
+2017-02-25 18:13:55.146034 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-25 18:14:03.879235 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-25 18:14:03.880036 bot: PRIVMSG #zerxam :/me _bot Bye!

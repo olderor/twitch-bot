@@ -1,0 +1,354 @@
+2017-02-25 22:02:00.065066 ping-pong
+2017-02-25 22:06:44.264780 ping-pong
+2017-02-25 22:11:25.199698 ping-pong
+2017-02-25 22:16:02.022844 ping-pong
+2017-02-25 22:20:46.598141 ping-pong
+2017-02-25 22:25:03.153717 ping-pong
+2017-02-25 22:29:51.377863 ping-pong
+2017-02-25 22:34:01.481759 ping-pong
+2017-02-25 22:38:30.852681 ping-pong
+2017-02-25 22:42:59.719950 ping-pong
+2017-02-25 22:47:19.581308 ping-pong
+2017-02-25 22:51:23.742968 ping-pong
+2017-02-25 22:55:50.479983 ping-pong
+2017-02-25 23:00:26.166916 ping-pong
+2017-02-25 23:04:59.603914 ping-pong
+2017-02-25 23:09:40.439735 ping-pong
+2017-02-25 23:13:59.271576 ping-pong
+2017-02-25 23:18:22.125898 ping-pong
+2017-02-25 23:22:51.522203 ping-pong
+2017-02-25 23:27:10.762344 ping-pong
+2017-02-25 23:32:00.051947 ping-pong
+2017-02-25 23:36:51.934150 ping-pong
+2017-02-25 23:41:28.975610 ping-pong
+2017-02-25 23:45:41.297352 ping-pong
+2017-02-25 23:50:22.521882 ping-pong
+2017-02-25 23:54:44.239193 ping-pong
+2017-02-25 23:59:27.238196 ping-pong
+2017-02-26 00:03:46.572487 ping-pong
+2017-02-26 00:08:24.514579 ping-pong
+2017-02-26 00:13:03.197473 ping-pong
+2017-02-26 00:17:19.775006 ping-pong
+2017-02-26 00:21:48.451447 ping-pong
+2017-02-26 00:26:43.156151 ping-pong
+2017-02-26 00:30:54.083801 ping-pong
+2017-02-26 00:34:57.271291 ping-pong
+2017-02-26 00:39:41.140212 ping-pong
+2017-02-26 00:44:07.351065 ping-pong
+2017-02-26 00:48:49.279418 ping-pong
+2017-02-26 00:52:49.349545 ping-pong
+2017-02-26 00:57:25.669455 ping-pong
+2017-02-26 01:01:48.927572 ping-pong
+2017-02-26 01:06:22.991608 ping-pong
+2017-02-26 01:11:01.167645 ping-pong
+2017-02-26 01:15:50.821631 ping-pong
+2017-02-26 01:20:25.696495 ping-pong
+2017-02-26 01:25:24.711827 ping-pong
+2017-02-26 01:30:22.186071 ping-pong
+2017-02-26 01:35:20.230765 ping-pong
+2017-02-26 01:39:35.729808 ping-pong
+2017-02-26 01:44:22.863401 ping-pong
+2017-02-26 01:49:01.877868 ping-pong
+2017-02-26 01:53:02.956117 ping-pong
+2017-02-26 01:57:06.538000 ping-pong
+2017-02-26 02:01:28.536633 ping-pong
+2017-02-26 02:06:08.742634 ping-pong
+2017-02-26 02:11:02.149940 ping-pong
+2017-02-26 02:15:06.856640 ping-pong
+2017-02-26 02:20:03.792459 ping-pong
+2017-02-26 02:24:17.331353 ping-pong
+2017-02-26 02:29:02.289154 ping-pong
+2017-02-26 02:33:14.720914 ping-pong
+2017-02-26 02:37:56.079981 ping-pong
+2017-02-26 02:42:35.449936 ping-pong
+2017-02-26 02:47:02.269073 ping-pong
+2017-02-26 02:51:11.651195 ping-pong
+2017-02-26 02:55:12.451333 ping-pong
+2017-02-26 02:59:16.920255 ping-pong
+2017-02-26 03:03:27.722727 ping-pong
+2017-02-26 03:08:02.398501 ping-pong
+2017-02-26 03:12:21.723276 ping-pong
+2017-02-26 03:16:23.832967 ping-pong
+2017-02-26 03:21:07.791347 ping-pong
+2017-02-26 03:25:59.113811 ping-pong
+2017-02-26 03:30:11.650694 ping-pong
+2017-02-26 03:35:10.896644 ping-pong
+2017-02-26 03:39:54.233586 ping-pong
+2017-02-26 03:44:43.514829 ping-pong
+2017-02-26 03:49:07.452961 ping-pong
+2017-02-26 03:53:08.133608 ping-pong
+2017-02-26 03:57:11.783845 ping-pong
+2017-02-26 04:01:42.451969 ping-pong
+2017-02-26 04:06:31.454128 ping-pong
+2017-02-26 04:10:45.144777 ping-pong
+2017-02-26 04:15:34.555191 ping-pong
+2017-02-26 04:19:45.504341 ping-pong
+2017-02-26 04:24:19.048180 ping-pong
+2017-02-26 04:29:15.946243 ping-pong
+2017-02-26 04:33:58.945838 ping-pong
+2017-02-26 04:38:03.092517 ping-pong
+2017-02-26 04:42:59.642119 ping-pong
+2017-02-26 04:47:47.595718 ping-pong
+2017-02-26 04:51:49.025069 ping-pong
+2017-02-26 04:56:37.697634 ping-pong
+2017-02-26 05:01:10.968415 ping-pong
+2017-02-26 05:05:56.425057 ping-pong
+2017-02-26 05:10:46.225835 ping-pong
+2017-02-26 05:15:01.872329 ping-pong
+2017-02-26 05:19:20.353621 ping-pong
+2017-02-26 05:23:49.941187 ping-pong
+2017-02-26 05:27:51.323605 ping-pong
+2017-02-26 05:32:50.108425 ping-pong
+2017-02-26 05:37:08.293354 ping-pong
+2017-02-26 05:41:09.928676 ping-pong
+2017-02-26 05:45:58.515761 ping-pong
+2017-02-26 05:50:38.167357 ping-pong
+2017-02-26 05:54:55.082772 ping-pong
+2017-02-26 05:59:33.318144 ping-pong
+2017-02-26 06:04:06.687377 ping-pong
+2017-02-26 06:09:01.498854 ping-pong
+2017-02-26 06:13:53.304549 ping-pong
+2017-02-26 06:18:45.355608 ping-pong
+2017-02-26 06:22:48.412694 ping-pong
+2017-02-26 06:27:35.634062 ping-pong
+2017-02-26 06:31:35.689192 ping-pong
+2017-02-26 06:36:26.922995 ping-pong
+2017-02-26 06:41:15.681425 ping-pong
+2017-02-26 06:45:56.965795 ping-pong
+2017-02-26 06:50:01.915657 ping-pong
+2017-02-26 06:54:09.136396 ping-pong
+2017-02-26 06:59:07.227376 ping-pong
+2017-02-26 07:03:44.534659 ping-pong
+2017-02-26 07:08:03.594191 ping-pong
+2017-02-26 07:12:24.520237 ping-pong
+2017-02-26 07:16:42.293076 ping-pong
+2017-02-26 07:21:08.250917 ping-pong
+2017-02-26 07:25:57.806084 ping-pong
+2017-02-26 07:30:44.464826 ping-pong
+2017-02-26 07:35:20.617541 ping-pong
+2017-02-26 07:39:54.570703 ping-pong
+2017-02-26 07:44:30.932044 ping-pong
+2017-02-26 07:49:21.103568 ping-pong
+2017-02-26 07:54:17.360171 ping-pong
+2017-02-26 07:58:32.272775 ping-pong
+2017-02-26 08:03:24.683784 ping-pong
+2017-02-26 08:08:22.228565 ping-pong
+2017-02-26 08:12:59.666824 ping-pong
+2017-02-26 08:17:40.672803 ping-pong
+2017-02-26 08:22:27.944573 ping-pong
+2017-02-26 08:27:07.250036 ping-pong
+2017-02-26 08:31:38.909103 ping-pong
+2017-02-26 08:36:33.375862 ping-pong
+2017-02-26 08:41:12.641413 ping-pong
+2017-02-26 08:45:52.382251 ping-pong
+2017-02-26 08:50:13.989078 ping-pong
+2017-02-26 08:55:12.801083 ping-pong
+2017-02-26 09:00:09.062131 ping-pong
+2017-02-26 09:04:10.447548 ping-pong
+2017-02-26 09:08:27.947026 ping-pong
+2017-02-26 09:12:50.037836 ping-pong
+2017-02-26 09:17:36.709657 ping-pong
+2017-02-26 09:22:16.262449 ping-pong
+2017-02-26 09:26:29.103285 ping-pong
+2017-02-26 09:30:36.041801 ping-pong
+2017-02-26 09:35:07.609014 ping-pong
+2017-02-26 09:39:25.834794 ping-pong
+2017-02-26 09:44:12.215978 ping-pong
+2017-02-26 09:48:17.045361 ping-pong
+2017-02-26 09:52:53.237811 ping-pong
+2017-02-26 09:56:59.721092 ping-pong
+2017-02-26 10:01:48.627709 ping-pong
+2017-02-26 10:06:27.361130 ping-pong
+2017-02-26 10:11:06.444577 ping-pong
+2017-02-26 10:15:38.257936 ping-pong
+2017-02-26 10:20:30.311344 ping-pong
+2017-02-26 10:25:15.164286 ping-pong
+2017-02-26 10:29:35.707032 ping-pong
+2017-02-26 10:34:13.372627 ping-pong
+2017-02-26 10:38:43.383845 ping-pong
+2017-02-26 10:42:57.780333 ping-pong
+2017-02-26 10:47:17.224111 ping-pong
+2017-02-26 10:52:08.987466 ping-pong
+2017-02-26 10:56:38.995915 ping-pong
+2017-02-26 11:01:13.294888 ping-pong
+2017-02-26 11:06:10.495851 ping-pong
+2017-02-26 11:10:40.496466 ping-pong
+2017-02-26 11:14:55.222350 ping-pong
+2017-02-26 11:19:19.028979 ping-pong
+2017-02-26 11:23:47.987697 ping-pong
+2017-02-26 11:28:31.829701 ping-pong
+2017-02-26 11:32:37.339322 ping-pong
+2017-02-26 11:36:49.442587 ping-pong
+2017-02-26 11:41:31.064961 ping-pong
+2017-02-26 11:46:06.580423 ping-pong
+2017-02-26 11:50:10.439018 ping-pong
+2017-02-26 11:54:32.752953 ping-pong
+2017-02-26 11:58:33.614823 ping-pong
+2017-02-26 12:03:06.956487 ping-pong
+2017-02-26 12:07:28.511807 ping-pong
+2017-02-26 12:11:53.239717 ping-pong
+2017-02-26 12:15:55.740550 ping-pong
+2017-02-26 12:19:58.971381 ping-pong
+2017-02-26 12:24:05.373633 ping-pong
+2017-02-26 12:28:26.778422 ping-pong
+2017-02-26 12:32:29.481552 ping-pong
+2017-02-26 12:36:46.762399 ping-pong
+2017-02-26 12:41:39.522684 ping-pong
+2017-02-26 12:46:14.582906 ping-pong
+2017-02-26 12:50:19.567050 ping-pong
+2017-02-26 12:54:37.880160 ping-pong
+2017-02-26 12:59:37.610342 ping-pong
+2017-02-26 13:04:03.127012 ping-pong
+2017-02-26 13:08:30.636975 ping-pong
+2017-02-26 13:12:59.061066 ping-pong
+2017-02-26 13:17:57.433490 ping-pong
+2017-02-26 13:22:04.907374 ping-pong
+2017-02-26 13:27:02.845676 ping-pong
+2017-02-26 13:31:25.485692 ping-pong
+2017-02-26 13:35:52.556494 ping-pong
+2017-02-26 13:40:13.086650 ping-pong
+2017-02-26 13:44:38.947977 ping-pong
+2017-02-26 13:48:54.842525 ping-pong
+2017-02-26 13:53:37.963537 ping-pong
+2017-02-26 13:57:49.167605 ping-pong
+2017-02-26 14:02:45.707240 ping-pong
+2017-02-26 14:07:12.081092 ping-pong
+2017-02-26 14:12:10.234031 ping-pong
+2017-02-26 14:16:39.401218 ping-pong
+2017-02-26 14:21:37.308936 ping-pong
+2017-02-26 14:26:35.937873 ping-pong
+2017-02-26 14:31:16.739163 ping-pong
+2017-02-26 14:35:55.835073 ping-pong
+2017-02-26 14:40:48.605475 ping-pong
+2017-02-26 14:45:37.756653 ping-pong
+2017-02-26 14:50:27.926434 ping-pong
+2017-02-26 14:55:25.314927 ping-pong
+2017-02-26 15:00:13.939346 ping-pong
+2017-02-26 15:04:25.524051 ping-pong
+2017-02-26 15:08:53.636708 ping-pong
+2017-02-26 15:13:20.890036 ping-pong
+2017-02-26 15:17:57.231980 ping-pong
+2017-02-26 15:22:31.943850 ping-pong
+2017-02-26 15:27:20.793000 ping-pong
+2017-02-26 15:31:32.803128 ping-pong
+2017-02-26 15:36:18.493384 ping-pong
+2017-02-26 15:40:32.014155 ping-pong
+2017-02-26 15:44:48.650067 ping-pong
+2017-02-26 15:49:10.846842 ping-pong
+2017-02-26 15:53:40.969478 ping-pong
+2017-02-26 15:58:29.962585 ping-pong
+2017-02-26 16:03:24.712279 ping-pong
+2017-02-26 16:08:12.763394 ping-pong
+2017-02-26 16:13:02.530532 ping-pong
+2017-02-26 16:17:47.443731 ping-pong
+2017-02-26 16:22:45.420858 ping-pong
+2017-02-26 16:27:33.151693 ping-pong
+2017-02-26 16:31:37.583072 ping-pong
+2017-02-26 16:36:34.776038 ping-pong
+2017-02-26 16:40:39.434319 ping-pong
+2017-02-26 16:45:37.729100 ping-pong
+2017-02-26 16:49:54.933017 ping-pong
+2017-02-26 16:54:30.099892 ping-pong
+2017-02-26 16:59:24.009260 ping-pong
+2017-02-26 17:04:12.267977 ping-pong
+2017-02-26 17:08:58.860497 ping-pong
+2017-02-26 17:13:55.560835 ping-pong
+2017-02-26 17:18:33.283792 ping-pong
+2017-02-26 17:23:10.508012 ping-pong
+2017-02-26 17:28:03.175422 ping-pong
+2017-02-26 17:32:17.898605 ping-pong
+2017-02-26 17:36:52.897801 ping-pong
+2017-02-26 17:41:33.967294 ping-pong
+2017-02-26 17:46:20.688358 ping-pong
+2017-02-26 17:51:14.641304 ping-pong
+2017-02-26 17:56:01.623111 ping-pong
+2017-02-26 18:00:45.172256 ping-pong
+2017-02-26 18:05:28.315900 ping-pong
+2017-02-26 18:08:48.560541 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-26 18:08:48.561156 bot: PRIVMSG #zerxam :/me _bot Hello! I'm here
+2017-02-26 18:09:50.900214 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!help
+2017-02-26 18:09:50.903591 bot: PRIVMSG #zerxam :/me _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !group - группа в вк, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня
+2017-02-26 18:09:55.020346 ping-pong
+2017-02-26 18:13:47.559310 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-02-26 18:13:57.934633 ping-pong
+2017-02-26 18:17:56.644628 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :тиховато
+2017-02-26 18:18:18.781097 ping-pong
+2017-02-26 18:18:19.461650 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :пойдет
+2017-02-26 18:19:46.086688 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :та ты обычно через 3 мин читаешь) ок. задержка на стриме?
+2017-02-26 18:21:00.773112 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :нармас
+2017-02-26 18:22:56.249734 ping-pong
+2017-02-26 18:25:34.862249 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :так давай шамом хуле
+2017-02-26 18:26:23.389673 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :видел
+2017-02-26 18:26:53.577486 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :ебатл тебе не прет
+2017-02-26 18:27:05.598195 ping-pong
+2017-02-26 18:27:18.758668 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :шрмен
+2017-02-26 18:27:29.920273 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :шомен ждет
+2017-02-26 18:30:28.472108 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-26 18:31:15.135432 ping-pong
+2017-02-26 18:35:56.830857 ping-pong
+2017-02-26 18:36:19.881664 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :ы начинаешь игру уже в тильте
+2017-02-26 18:36:32.506055 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :надо стирать помле каждой память сабе)
+2017-02-26 18:36:37.180110 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :после
+2017-02-26 18:40:18.897610 ping-pong
+2017-02-26 18:45:14.947472 ping-pong
+2017-02-26 18:46:20.539698 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :поменяй музло пожалуйста
+2017-02-26 18:47:09.367412 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-02-26 18:47:52.167789 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :но саунд
+2017-02-26 18:49:36.570808 ping-pong
+2017-02-26 18:49:59.631102 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :щас норм
+2017-02-26 18:50:22.456711 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=QnxpHIl5Ynw
+2017-02-26 18:50:22.459249 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=QnxpHIl5Ynw requested by skyhigh434 was successfully added, songs in the queue: 1
+2017-02-26 18:53:00.093240 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-26 18:53:00.097010 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=QnxpHIl5Ynw requested by skyhigh434, songs left: 0
+2017-02-26 18:54:22.296964 ping-pong
+2017-02-26 18:55:22.357761 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=o_1aF54DO60&index=3&list=PLLUYFDT7vPkqBZQsTGBpGCjIoePETnOxi
+2017-02-26 18:55:22.358784 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=o_1aF54DO60&index=3&list=PLLUYFDT7vPkqBZQsTGBpGCjIoePETnOxi requested by skyhigh434 was successfully added, songs in the queue: 1
+2017-02-26 18:55:27.040052 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :ставь следующую)
+2017-02-26 18:55:39.549395 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-26 18:55:39.550438 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=o_1aF54DO60&index=3&list=PLLUYFDT7vPkqBZQsTGBpGCjIoePETnOxi requested by skyhigh434, songs left: 0
+2017-02-26 18:57:22.468303 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :а че ниче не поставил?
+2017-02-26 18:59:21.521050 ping-pong
+2017-02-26 19:03:25.599340 ping-pong
+2017-02-26 19:03:50.261441 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-02-26 19:05:01.199120 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :@Zerxam привет, рубрика держу в курсе CoolStoryBob завтра вручение оскара, и я не смогу посмотререть как ты возьмешь топ 1 Kappa ,и из-за этого мне надо поспать ResidentSleeper , так что гуд лак Keepo и вот тебе топовый музон
+2017-02-26 19:05:03.593580 :jordanball678!jordanball678@jordanball678.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=1-gkxXLqMcU
+2017-02-26 19:05:03.594563 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=1-gkxXLqMcU requested by jordanball678 was successfully added, songs in the queue: 1
+2017-02-26 19:08:11.816620 ping-pong
+2017-02-26 19:12:14.659027 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :а чего колдблад на 2/1 а не на финжу?
+2017-02-26 19:12:59.619980 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-26 19:12:59.621442 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=1-gkxXLqMcU requested by jordanball678, songs left: 0
+2017-02-26 19:13:04.999006 ping-pong
+2017-02-26 19:13:47.870005 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :так делай паузу перед тем как игру искать
+2017-02-26 19:14:03.717246 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :если не нравится матчап)
+2017-02-26 19:17:23.261858 ping-pong
+2017-02-26 19:20:31.154016 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-02-26 19:20:34.889224 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :кто вообще играет с 2мя порталами
+2017-02-26 19:20:36.889661 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :жесть
+2017-02-26 19:20:56.255737 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :пиздец блять
+2017-02-26 19:20:57.001209 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :как
+2017-02-26 19:20:58.884918 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :может
+2017-02-26 19:20:59.798687 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :так
+2017-02-26 19:21:02.525950 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :анлачить
+2017-02-26 19:21:03.802322 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :я ебал
+2017-02-26 19:21:28.069443 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :угу
+2017-02-26 19:21:43.558417 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :на индейском кладбище не был недавно?)
+2017-02-26 19:21:48.841191 ping-pong
+2017-02-26 19:21:49.404138 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :ват?)
+2017-02-26 19:22:01.982339 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :ну может не на ту могилу отлил)
+2017-02-26 19:22:15.174092 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :давай шоменом)
+2017-02-26 19:22:21.742258 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :join the dark side
+2017-02-26 19:23:51.116012 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-26 19:23:54.980793 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :если проиграю еще раз
+2017-02-26 19:23:57.659954 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :буду шоменом
+2017-02-26 19:24:01.899296 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :но стримить точно ну нахуй
+2017-02-26 19:24:04.345713 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :заходи в хс
+2017-02-26 19:25:25.989029 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :жена играет)
+2017-02-26 19:25:29.963608 :skyhigh434!skyhigh434@skyhigh434.tmi.twitch.tv PRIVMSG #zerxam :ранкед)
+2017-02-26 19:26:29.236056 ping-pong
+2017-02-26 19:31:10.567120 ping-pong
+2017-02-26 19:35:14.842963 ping-pong
+2017-02-26 19:37:12.061034 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-02-26 19:39:16.653843 ping-pong
+2017-02-26 19:43:22.727866 ping-pong
+2017-02-26 19:44:10.176493 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-26 19:44:10.177710 bot: PRIVMSG #zerxam :/me _bot Bye!

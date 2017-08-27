@@ -1,0 +1,233 @@
+2017-02-28 20:35:49.652841 ping-pong
+2017-02-28 20:40:47.489014 ping-pong
+2017-02-28 20:45:13.160222 ping-pong
+2017-02-28 20:49:19.135783 ping-pong
+2017-02-28 20:54:07.977873 ping-pong
+2017-02-28 20:58:09.441032 ping-pong
+2017-02-28 21:02:27.013319 ping-pong
+2017-02-28 21:07:14.437891 ping-pong
+2017-02-28 21:11:46.848393 ping-pong
+2017-02-28 21:16:43.207605 ping-pong
+2017-02-28 21:21:28.904065 ping-pong
+2017-02-28 21:26:13.893352 ping-pong
+2017-02-28 21:30:32.708829 ping-pong
+2017-02-28 21:34:42.517430 ping-pong
+2017-02-28 21:39:16.748825 ping-pong
+2017-02-28 21:43:59.884458 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :дарова
+2017-02-28 21:44:06.451305 ping-pong
+2017-02-28 21:44:08.191358 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-28 21:44:08.191734 bot: PRIVMSG #zerxam :/me _bot Hello! I'm here
+2017-02-28 21:45:56.902005 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-02-28 21:48:10.794422 ping-pong
+2017-02-28 21:49:35.449498 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :а че у тебя вместо вебки черный прямоугольник
+2017-02-28 21:50:29.865332 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :свет включи
+2017-02-28 21:50:31.971973 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :лул
+2017-02-28 21:52:47.182633 ping-pong
+2017-02-28 21:57:32.220667 ping-pong
+2017-02-28 22:02:01.572531 ping-pong
+2017-02-28 22:02:37.820053 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-02-28 22:06:08.407373 ping-pong
+2017-02-28 22:10:23.923925 ping-pong
+2017-02-28 22:15:17.735507 ping-pong
+2017-02-28 22:19:18.729560 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-02-28 22:20:05.085340 ping-pong
+2017-02-28 22:24:13.035374 ping-pong
+2017-02-28 22:28:13.717709 ping-pong
+2017-02-28 22:32:38.329673 ping-pong
+2017-02-28 22:35:59.640217 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-02-28 22:37:00.815619 ping-pong
+2017-02-28 22:41:22.113932 ping-pong
+2017-02-28 22:45:46.729215 ping-pong
+2017-02-28 22:46:34.809867 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :джобс сначала банит не того
+2017-02-28 22:46:44.116929 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :а потом сливает катку дисконектами
+2017-02-28 22:46:48.219308 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :4Head
+2017-02-28 22:47:04.280846 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :nice troll
+2017-02-28 22:50:15.107690 ping-pong
+2017-02-28 22:52:40.560690 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-02-28 22:54:38.503580 ping-pong
+2017-02-28 22:58:41.688805 ping-pong
+2017-02-28 23:03:13.341168 ping-pong
+2017-02-28 23:07:55.935054 ping-pong
+2017-02-28 23:09:21.471279 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-02-28 23:11:26.085428 :loadernumberone!loadernumberone@loadernumberone.tmi.twitch.tv PRIVMSG #zerxam :Стример долбоеб
+2017-02-28 23:11:28.843417 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LOL
+2017-02-28 23:12:46.027652 ping-pong
+2017-02-28 23:15:00.748092 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@zerxam не забудь по этому стриму хайлайты сделать Kappa
+2017-02-28 23:16:47.213050 ping-pong
+2017-02-28 23:20:58.069756 ping-pong
+2017-02-28 23:25:34.188251 ping-pong
+2017-02-28 23:26:02.390674 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-02-28 23:28:17.798004 :loadernumberone!loadernumberone@loadernumberone.tmi.twitch.tv PRIVMSG #zerxam :!songrequest https://www.youtube.com/watch?v=NZeK_GAGuy0
+2017-02-28 23:28:17.799432 bot: PRIVMSG #zerxam :/me _bot song https://www.youtube.com/watch?v=NZeK_GAGuy0 requested by loadernumberone was successfully added, songs in the queue: 1
+2017-02-28 23:29:49.089430 ping-pong
+2017-02-28 23:32:13.640275 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-28 23:32:13.645868 bot: PRIVMSG #zerxam :/me _bot now playing https://www.youtube.com/watch?v=NZeK_GAGuy0 requested by loadernumberone, songs left: 0
+2017-02-28 23:34:42.935442 ping-pong
+2017-02-28 23:39:07.114738 ping-pong
+2017-02-28 23:40:57.445180 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!request https://clips.twitch.tv/EndearingNeighborlyReindeerFrankerZ
+2017-02-28 23:40:57.446222 bot: PRIVMSG #zerxam :/me _bot song https://clips.twitch.tv/EndearingNeighborlyReindeerFrankerZ requested by olderor was successfully added, songs in the queue: 1
+2017-02-28 23:41:12.631860 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!songs
+2017-02-28 23:41:15.915326 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!size
+2017-02-28 23:41:15.916254 bot: PRIVMSG #zerxam :/me _bot songs in the queue: 1
+2017-02-28 23:42:43.294481 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-02-28 23:43:29.919331 ping-pong
+2017-02-28 23:43:42.653044 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!size
+2017-02-28 23:43:42.653930 bot: PRIVMSG #zerxam :/me _bot songs in the queue: 1
+2017-02-28 23:47:35.393477 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!get
+2017-02-28 23:47:35.394715 bot: PRIVMSG #zerxam :/me _bot now playing https://clips.twitch.tv/EndearingNeighborlyReindeerFrankerZ requested by olderor, songs left: 0
+2017-02-28 23:48:02.819265 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :остальное мне было лень искать лул
+2017-02-28 23:48:02.973332 ping-pong
+2017-02-28 23:52:06.713089 ping-pong
+2017-02-28 23:56:26.843016 ping-pong
+2017-02-28 23:59:24.232146 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-03-01 00:00:42.573027 ping-pong
+2017-03-01 00:05:22.346897 ping-pong
+2017-03-01 00:09:29.406527 ping-pong
+2017-03-01 00:14:05.868354 ping-pong
+2017-03-01 00:16:05.183376 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-03-01 00:19:00.320166 ping-pong
+2017-03-01 00:23:47.083909 ping-pong
+2017-03-01 00:28:22.847105 ping-pong
+2017-03-01 00:32:46.126678 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-03-01 00:32:50.508672 ping-pong
+2017-03-01 00:37:18.632048 ping-pong
+2017-03-01 00:41:42.630456 ping-pong
+2017-03-01 00:45:59.783702 ping-pong
+2017-03-01 00:49:27.060236 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-03-01 00:50:13.149531 ping-pong
+2017-03-01 00:54:56.161919 ping-pong
+2017-03-01 00:59:22.576099 ping-pong
+2017-03-01 01:03:28.984322 ping-pong
+2017-03-01 01:06:07.996300 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 01:08:13.693025 ping-pong
+2017-03-01 01:12:53.003025 ping-pong
+2017-03-01 01:17:04.743487 ping-pong
+2017-03-01 01:21:32.493092 ping-pong
+2017-03-01 01:22:48.941004 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-03-01 01:26:01.706921 ping-pong
+2017-03-01 01:30:58.770058 ping-pong
+2017-03-01 01:35:34.244203 ping-pong
+2017-03-01 01:39:29.880287 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 01:40:32.436855 ping-pong
+2017-03-01 01:45:18.797935 ping-pong
+2017-03-01 01:49:27.233533 ping-pong
+2017-03-01 01:54:18.310011 ping-pong
+2017-03-01 01:56:10.834440 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 01:58:59.470835 ping-pong
+2017-03-01 02:03:30.363544 ping-pong
+2017-03-01 02:07:31.892119 ping-pong
+2017-03-01 02:12:03.908844 ping-pong
+2017-03-01 02:12:51.746892 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-03-01 02:16:27.082012 ping-pong
+2017-03-01 02:21:15.753724 ping-pong
+2017-03-01 02:25:50.177022 ping-pong
+2017-03-01 02:29:32.653021 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 02:30:44.767062 ping-pong
+2017-03-01 02:34:53.183810 ping-pong
+2017-03-01 02:39:29.600948 ping-pong
+2017-03-01 02:44:08.134059 ping-pong
+2017-03-01 02:46:13.574152 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 02:48:20.606013 ping-pong
+2017-03-01 02:52:33.424237 ping-pong
+2017-03-01 02:57:10.020863 ping-pong
+2017-03-01 03:01:46.178042 ping-pong
+2017-03-01 03:02:54.490145 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-03-01 03:06:21.874934 ping-pong
+2017-03-01 03:10:52.709802 ping-pong
+2017-03-01 03:14:56.258400 ping-pong
+2017-03-01 03:19:29.937421 ping-pong
+2017-03-01 03:19:35.455174 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-03-01 03:23:40.545284 ping-pong
+2017-03-01 03:28:29.975239 ping-pong
+2017-03-01 03:32:55.809260 ping-pong
+2017-03-01 03:36:16.362080 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-03-01 03:37:52.486315 ping-pong
+2017-03-01 03:42:04.568354 ping-pong
+2017-03-01 03:46:59.562332 ping-pong
+2017-03-01 03:51:00.352972 ping-pong
+2017-03-01 03:52:57.271128 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-03-01 03:55:14.007896 ping-pong
+2017-03-01 03:59:47.968455 ping-pong
+2017-03-01 04:04:27.511417 ping-pong
+2017-03-01 04:09:08.212388 ping-pong
+2017-03-01 04:09:38.197015 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 04:13:24.579718 ping-pong
+2017-03-01 04:17:53.959630 ping-pong
+2017-03-01 04:22:45.943680 ping-pong
+2017-03-01 04:26:19.105499 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-03-01 04:27:03.875969 ping-pong
+2017-03-01 04:31:36.990978 ping-pong
+2017-03-01 04:36:10.722006 ping-pong
+2017-03-01 04:40:22.676637 ping-pong
+2017-03-01 04:43:00.053034 bot: PRIVMSG #zerxam :/me _bot zerxam в вк: https://vk.com/id228197148
+2017-03-01 04:44:38.907139 ping-pong
+2017-03-01 04:49:27.996150 ping-pong
+2017-03-01 04:53:33.150587 ping-pong
+2017-03-01 04:58:12.902563 ping-pong
+2017-03-01 04:59:40.953412 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-03-01 05:02:16.002100 ping-pong
+2017-03-01 05:06:51.781891 ping-pong
+2017-03-01 05:10:54.893695 ping-pong
+2017-03-01 05:15:01.682634 ping-pong
+2017-03-01 05:16:21.896264 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-03-01 05:19:58.390439 ping-pong
+2017-03-01 05:24:47.513078 ping-pong
+2017-03-01 05:29:15.687312 ping-pong
+2017-03-01 05:33:02.833029 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-03-01 05:34:09.309741 ping-pong
+2017-03-01 05:38:46.660863 ping-pong
+2017-03-01 05:42:48.973370 ping-pong
+2017-03-01 05:47:20.928499 ping-pong
+2017-03-01 05:49:43.773056 bot: PRIVMSG #zerxam :/me _bot Если Вам понравился стрим, не забудьте нажать кнопку follow под трансляцией
+2017-03-01 05:51:39.104376 ping-pong
+2017-03-01 05:55:45.342776 ping-pong
+2017-03-01 06:00:15.497041 ping-pong
+2017-03-01 06:04:57.759081 ping-pong
+2017-03-01 06:06:24.717392 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-03-01 06:09:24.781362 ping-pong
+2017-03-01 06:13:54.089435 ping-pong
+2017-03-01 06:18:12.886553 ping-pong
+2017-03-01 06:22:58.275357 ping-pong
+2017-03-01 06:23:05.641521 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-03-01 06:27:50.401901 ping-pong
+2017-03-01 06:31:54.635558 ping-pong
+2017-03-01 06:36:41.782495 ping-pong
+2017-03-01 06:39:46.628314 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-03-01 06:41:35.560652 ping-pong
+2017-03-01 06:45:41.466780 ping-pong
+2017-03-01 06:49:59.469272 ping-pong
+2017-03-01 06:54:53.095886 ping-pong
+2017-03-01 06:56:27.575220 bot: PRIVMSG #zerxam :/me _bot !request <url> - закажи песню на стриме бесплатно!
+2017-03-01 06:58:55.324050 ping-pong
+2017-03-01 07:03:32.891741 ping-pong
+2017-03-01 07:07:35.205837 ping-pong
+2017-03-01 07:12:17.068566 ping-pong
+2017-03-01 07:13:08.534786 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-03-01 07:16:48.642983 ping-pong
+2017-03-01 07:21:17.033309 ping-pong
+2017-03-01 07:25:21.324133 ping-pong
+2017-03-01 07:29:49.569482 bot: PRIVMSG #zerxam :/me _bot PogChamp у нас появилась группа в вк PogChamp https://vk.com/zerxamtv PogChamp
+2017-03-01 07:30:16.094571 ping-pong
+2017-03-01 07:34:19.670072 ping-pong
+2017-03-01 07:38:46.930210 ping-pong
+2017-03-01 07:43:16.084840 ping-pong
+2017-03-01 07:46:30.530066 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-03-01 07:47:55.735651 ping-pong
+2017-03-01 07:52:28.490904 ping-pong
+2017-03-01 07:56:56.409233 ping-pong
+2017-03-01 08:01:15.427356 ping-pong
+2017-03-01 08:03:11.609456 bot: PRIVMSG #zerxam :/me _bot напиши !help чтобы просмотреть список доступных команд
+2017-03-01 08:06:05.798704 ping-pong
+2017-03-01 08:10:32.596992 ping-pong
+2017-03-01 08:14:34.753758 ping-pong
+2017-03-01 08:18:52.778001 ping-pong
+2017-03-01 08:19:52.668302 bot: PRIVMSG #zerxam :/me _bot подпишись на группу в вк https://vk.com/zerxamtv - будь в курсе
+2017-03-01 08:23:08.809042 ping-pong
+2017-03-01 08:27:27.623615 ping-pong
+2017-03-01 08:32:22.006561 ping-pong
+2017-03-01 08:36:33.785037 bot: PRIVMSG #zerxam :/me _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-03-01 08:37:17.025686 ping-pong
+2017-03-01 08:42:05.238214 ping-pong
+2017-03-01 08:46:07.602594 ping-pong
+2017-03-01 08:46:45.690101 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-03-01 08:46:45.700185 bot: PRIVMSG #zerxam :/me _bot Bye!

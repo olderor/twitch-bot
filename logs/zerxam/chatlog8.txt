@@ -1,0 +1,10 @@
+2017-02-13 22:21:07.376321 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :ResidentSleeper
+2017-02-13 22:21:07.376579 zerxam: ResidentSleeper
+2017-02-13 22:21:08.548299 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :start
+2017-02-13 22:21:08.548528 olderor: start
+2017-02-13 22:21:08.548651 bot: PRIVMSG #zerxam :_bot Hello! I'm here{N}
+2017-02-13 22:21:12.485840 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!uptime
+2017-02-13 22:21:12.486168 olderor: !uptime
+2017-02-13 22:21:18.882959 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :exit
+2017-02-13 22:21:18.883292 olderor: exit
+2017-02-13 22:21:18.883529 bot: PRIVMSG #zerxam :_bot Bye!{N}
