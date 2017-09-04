@@ -21,14 +21,14 @@ MODT = False
 NICK = "olderor" # Bot nickname.
 CHANNEL = "zerxam" # Channel name.
 BOT_INDEX = 0 # Bot lobby index.
-ENABLED = True # Flag if bot should work (answer to the commands).
+ENABLED = False # Flag if bot should work (answer to the commands).
 
 
 
 
 # Method for sending a message with /me tag
 def SendMessage(message):
-	res = "PRIVMSG #" + CHANNEL + " :/me _bot " + message + "\r\n"
+	res = "PRIVMSG #" + CHANNEL + " : _bot " + message + "\r\n"
 	Print("bot: " + res)
 	s.send(res.encode('utf-8'))
 
@@ -43,9 +43,10 @@ def Print(output):
 	strm = str(output)
 	toPrint = str(datetime.utcnow()) + " " + strm[:-1]
 	print(toPrint)
-	toPrint = toPrint
+	toPrint = toPrint + "\n"
+	toPrint = toPrint.replace("\r\n", "\n").replace("\n\n", "\n")
 	f = open('logs/' + CHANNEL + '/chatlog' + str(BOT_INDEX) + '.txt', 'a')
-	f.write(toPrint+ "\n")
+	f.write(toPrint)
 	f.close()
 	
 
@@ -67,7 +68,7 @@ def GetIndex():
 
 # Force bot to stop writing in the chat (bot still works and doing chat logs).
 def Exit():
-	SendMessage("Bye!")
+	SendMessage("Пока!")
 	global ENABLED
 	ENABLED = False
 	global BOT_INDEX 
@@ -76,6 +77,21 @@ def Exit():
 	f.write(str(BOT_INDEX))
 	f.close()
 
+def CheckOnline():
+	global ENABLED
+	while True:
+		contents = requests.get("https://decapi.me/twitch/uptime?channel=" + CHANNEL).text
+		if not contents or "<div>" in contents:
+			sleep(60)
+			continue
+		if contents == CHANNEL + " is offline":
+			if ENABLED:
+				Exit()
+		else:
+			if not ENABLED:
+				SendMessage("Привет! Я тут.")
+				ENABLED = True
+		sleep(60)
 
 # Parse message from the user and do commands if need.
 def ParseMessage(username, messageParts):
@@ -135,7 +151,7 @@ s.send(("PASS " + PASS + "\r\n").encode('utf-8'))
 s.send(("NICK " + NICK + "\r\n").encode('utf-8'))
 s.send(("JOIN #" + CHANNEL + " \r\n").encode('utf-8'))
 
-SendMessage("Bot is connected DatSheffy 7")
+SendMessage("Бот подключен DatSheffy 7")
 
 
 
@@ -152,15 +168,16 @@ SendMessage("Bot is connected DatSheffy 7")
 
 # Send info about the channel into chat with some delay.
 def PrintInfo():
-	f = open(CHANNEL + '/info.txt', 'r')
-	info = f.readlines()
 	i = 450
 	while True:
 		if ENABLED:
 			i += 1
 			if i == 1000:
 				i = 0
+				f = open(CHANNEL + '/info.txt', 'r')
+				info = f.readlines()
 				SendMessage(info[random.randint(0, len(info) - 1)][:-1])
+				f.close()
 		sleep(1)
 
 thread = Thread(target = PrintInfo, args = ())
@@ -168,6 +185,8 @@ thread.start()
 
 
 
+threadChecking = Thread(target = CheckOnline, args = ())
+threadChecking.start()
 
 start = 0
 
@@ -206,7 +225,7 @@ while True:
 						messageParts = message.split(" ")
 						if not ENABLED:
 							if (messageParts[0] == "_botstart" or messageParts[0] == "start") and CheckUser(username):
-								SendMessage("Hello! I'm here")
+								SendMessage("Привет! Я тут.")
 								ENABLED = True
 						else:
 							if end - start >= 1 or CheckUser(username):

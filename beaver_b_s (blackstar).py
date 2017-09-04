@@ -21,7 +21,7 @@ MODT = False
 NICK = "olderor" # Bot nickname.
 CHANNEL = "beaver_b_s" # Channel name.
 BOT_INDEX = 0 # Bot lobby index.
-ENABLED = True # Flag if bot should work (answer to the commands).
+ENABLED = False # Flag if bot should work (answer to the commands).
 
 
 
@@ -77,6 +77,21 @@ def Exit():
 	f.write(str(BOT_INDEX))
 	f.close()
 
+def CheckOnline():
+	global ENABLED
+	while True:
+		contents = requests.get("https://decapi.me/twitch/uptime?channel=" + CHANNEL).text
+		if not contents or "<div>" in contents:
+			sleep(60)
+			continue
+		if contents == CHANNEL + " is offline":
+			if ENABLED:
+				Exit()
+		else:
+			if not ENABLED:
+				SendMessage("Привет! Я тут.")
+				ENABLED = True
+		sleep(60)
 
 # Parse message from the user and do commands if need.
 def ParseMessage(username, messageParts):
@@ -170,6 +185,8 @@ thread.start()
 
 
 
+threadChecking = Thread(target = CheckOnline, args = ())
+threadChecking.start()
 
 start = 0
 

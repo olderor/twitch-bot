@@ -131,3 +131,195 @@
 2017-08-25 07:01:57.849786 ping-pong
 2017-08-25 07:06:16.126541 ping-pong
 2017-08-25 07:10:52.892900 ping-pong
+2017-08-28 16:36:51.523475 
+2017-08-28 16:36:51.524680 
+2017-08-28 16:36:51.524755 
+2017-08-28 16:36:51.524817 Starting bot
+2017-08-28 16:36:51.524887 
+2017-08-28 16:36:51.524945 
+2017-08-28 16:36:51.685011 bot: PRIVMSG #zerxam : _bot Бот подключен DatSheffy 7
+2017-08-28 16:37:40.219806 
+2017-08-28 16:37:40.219924 
+2017-08-28 16:37:40.219985 
+2017-08-28 16:37:40.220036 Starting bot
+2017-08-28 16:37:40.220092 
+2017-08-28 16:37:40.220148 
+2017-08-28 16:37:40.368028 bot: PRIVMSG #zerxam : _bot Бот подключен DatSheffy 7
+2017-08-28 16:38:12.854255 
+2017-08-28 16:38:12.854360 
+2017-08-28 16:38:12.854423 
+2017-08-28 16:38:12.854471 Starting bot
+2017-08-28 16:38:12.854531 
+2017-08-28 16:38:12.854577 
+2017-08-28 16:38:13.023599 bot: PRIVMSG #zerxam : _bot Бот подключен DatSheffy 7
+2017-08-28 16:38:29.094901 
+2017-08-28 16:38:29.095040 
+2017-08-28 16:38:29.095125 
+2017-08-28 16:38:29.095205 Starting bot
+2017-08-28 16:38:29.095283 
+2017-08-28 16:38:29.095375 
+2017-08-28 16:38:29.249231 bot: PRIVMSG #zerxam : _bot Бот подключен DatSheffy 7
+2017-08-28 16:38:29.561595 :tmi.twitch.tv 001 olderor :Welcome, GLHF!
+2017-08-28 16:38:29.561883 :tmi.twitch.tv 002 olderor :Your host is tmi.twitch.tv
+2017-08-28 16:38:29.561983 :tmi.twitch.tv 003 olderor :This server is rather new
+2017-08-28 16:38:29.562078 :tmi.twitch.tv 004 olderor :-
+2017-08-28 16:38:29.562159 :tmi.twitch.tv 375 olderor :-
+2017-08-28 16:38:29.562245 :tmi.twitch.tv 372 olderor :You are in a maze of twisty passages, all alike.
+2017-08-28 16:38:29.562340 :tmi.twitch.tv 376 olderor :>
+2017-08-28 16:38:29.577956 :olderor!olderor@olderor.tmi.twitch.tv JOIN #zerxam
+2017-08-28 16:38:29.578262 :olderor.tmi.twitch.tv 353 olderor = #zerxam :olderor
+2017-08-28 16:38:29.578380 :olderor.tmi.twitch.tv 366 olderor #zerxam :End of /NAMES list
+2017-08-28 16:38:45.509079 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Kappa
+2017-08-28 16:38:45.510152 bot: PRIVMSG #zerxam : _bot Kappa
+2017-08-28 16:40:03.076595 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Да, норм
+2017-08-28 16:40:16.375313 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Чёт ты какой-то уставший
+2017-08-28 16:41:36.607171 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Он байтит
+2017-08-28 16:42:45.620658 ping-pong
+2017-08-28 16:43:05.705482 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-08-28 16:44:35.955068 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Покажи ему как играть за шамана Jebaited
+2017-08-28 16:47:25.641439 ping-pong
+2017-08-28 16:47:38.729102 bot: PRIVMSG #zerxam : _bot подпишись на группу в вк https://vk.com/zerxamtv - держи себя в курсе
+2017-08-28 16:47:45.330886 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :PogChamp
+2017-08-28 16:49:04.677372 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :аллын
+2017-08-28 16:50:06.827942 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Следующий слайд, пожалуйста
+2017-08-28 16:51:53.368864 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Ща норм
+2017-08-28 16:52:20.336375 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Когда киевлянина показывал, картинка лагала (а вебка нет лул)
+2017-08-28 16:52:22.820211 ping-pong
+2017-08-28 16:55:01.139862 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Поставь шаман кинг
+2017-08-28 16:55:26.491661 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Лиардин LUL бомж LUL
+2017-08-28 16:57:21.030734 ping-pong
+2017-08-28 17:01:56.486951 ping-pong
+2017-08-28 17:02:24.441614 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :скажи ему, что ты с пи, он все равно не узнает meleeSmart
+2017-08-28 17:02:35.182995 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :VI VON ZULUL он ему понравился VI VON ZULUL
+2017-08-28 17:04:14.396878 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :А чё такое хорошее качество чата на стриме? Ты в 4к решил подрубить?
+2017-08-28 17:04:19.628141 bot: PRIVMSG #zerxam : _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-08-28 17:05:18.357463 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :Це перемога!
+2017-08-28 17:05:51.128714 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :мама, я в телеке HeyGuys
+2017-08-28 17:06:52.353384 ping-pong
+2017-08-28 17:07:22.111174 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :Та нахуй чат! Там одни долбоёбы пишут.
+2017-08-28 17:09:09.603101 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Где лицо? SMOrc
+2017-08-28 17:10:28.922563 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :Пацаны, чем заменить букву "н" в нике "форсен"? Пока что без неё играю. До легенды дошел.
+2017-08-28 17:11:09.997933 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :It's a trap
+2017-08-28 17:11:26.494177 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Он хочет, чтобы ты думал, что он вылетел
+2017-08-28 17:11:41.425571 ping-pong
+2017-08-28 17:13:01.768693 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :БУДЬ ШАМАНОМ
+2017-08-28 17:13:04.160547 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :КОРОЛЁМ
+2017-08-28 17:14:15.133579 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :немного стрэч насал лагать. или это только у меня?
+2017-08-28 17:14:16.476507 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Зритель так и не пришёл
+2017-08-28 17:14:20.298366 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :ЗАКРОЙ ХРОМ!
+2017-08-28 17:14:45.881760 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Стрем лагает и звук тихий
+2017-08-28 17:14:50.150048 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Отписка
+2017-08-28 17:14:58.008105 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :А погодите, я ещё не подписывался
+2017-08-28 17:15:02.739678 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Следующий слайд, пожалуйста
+2017-08-28 17:15:22.348407 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :НА МОМЕНТЕ С ПИСТОЛЕТОВЫМ 7 ЗРИТЕЛЕЙ! Я ЗАСКРИНИЛ!
+2017-08-28 17:15:47.073584 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :МНЕ КАЖЕТСЯ, МЫ НАШЛИ ЗОЛОТУЮ ЖИЛУ!
+2017-08-28 17:16:32.937795 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Уже не лагает EleGiggle
+2017-08-28 17:16:35.039753 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Звук не лагает а картинка лагает
+2017-08-28 17:16:40.627292 ping-pong
+2017-08-28 17:16:40.973154 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :+
+2017-08-28 17:16:41.272323 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Слайды
+2017-08-28 17:16:49.390106 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :Звук не лагает а картинка лагает
+2017-08-28 17:17:11.073096 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :@inhix повторюшка DansGame
+2017-08-28 17:17:31.908973 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Закрой хром meleeRage
+2017-08-28 17:17:50.949388 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :РЕБЯТА, ОПЯТЬ ТРИ ЗРИТЕЛЯ - МЫ ПРОЕБАЛИ ХАЙП! МОЖЕМ ЛИ МЫ УТВЕРЖДАТЬ, ЧТО МЫ АНТИХАЙП?
+2017-08-28 17:18:21.576409 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :В смысле проебали? Ты ж заскринил
+2017-08-28 17:18:40.381268 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Ща бы хайп скринить
+2017-08-28 17:18:44.309619 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :в 2177
+2017-08-28 17:19:21.437493 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :LUL
+2017-08-28 17:19:32.374116 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Найс фокусы
+2017-08-28 17:19:45.804967 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Больше не читай чат, это вызывает голдфиши
+2017-08-28 17:21:00.513946 bot: PRIVMSG #zerxam : _bot подпишись на группу в вк https://vk.com/zerxamtv - держи себя в курсе
+2017-08-28 17:21:13.307764 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Лагает
+2017-08-28 17:21:29.634726 ping-pong
+2017-08-28 17:22:08.858934 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :ЯВЛЯЕТСЯ ЛИ ПРАВИЛЬНЫМ УТВЕРЖДЕНИЕ О ТОМ, ЧТО Я ЗНАВАЛ ЧЕСТЬ ПЛОТСКИХ УТЕХ С МАТЕРЬЮ ИГРОКА В HEARTHSTONE ПО ИМЕНИ FORSE? ДАВАЙТЕ РАЗБЕРЁМСЯ!
+2017-08-28 17:22:36.312111 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Ща бы знавать честь плотских утех
+2017-08-28 17:22:37.502664 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!мамка Forse
+2017-08-28 17:22:42.890025 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :У них вообще есть честь?
+2017-08-28 17:24:24.772900 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Ты чуть не умер
+2017-08-28 17:24:29.878583 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :ПОЧЕМУ ЧЕЛОВЕК В ЧАТЕ С НИКОМ inhix ПОСТОЯННО ПИШЕТ С КАПСОМ? ОН ЧТО ПОСТОЯННО ОРЁТ?
+2017-08-28 17:25:02.175446 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Надо у него спросить
+2017-08-28 17:25:14.151967 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :@inhix Вы орёти?
+2017-08-28 17:25:29.988617 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!мамка Forse
+2017-08-28 17:25:29.989717 bot: PRIVMSG #zerxam : _bot здоровье мамки Forse равно 5%
+2017-08-28 17:25:30.832276 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Экстраординарно
+2017-08-28 17:25:38.215328 ping-pong
+2017-08-28 17:27:02.763944 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@inhix я могу забанить его за капс, если тебе мешает
+2017-08-28 17:27:37.891519 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :НЕ ЗНАЮ КАК inhix-а, НО МЕНЯ УЖЕ ПОРЯДКОМ ТАК ЗАЕБАЛО ЧТО ЭТА, ТРЕБУЮЩАЯ К СЕБЕ ВНИМАНИЯ, ОСОБЬ ПОСТОЯННО ПИШЕТ КАПСОМ. ГДЕ МОДЕРЫ, АЛЛО?
+2017-08-28 17:29:42.947307 ping-pong
+2017-08-28 17:33:35.462803 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :надо было второй раз не девольвить
+2017-08-28 17:34:01.392445 ping-pong
+2017-08-28 17:34:12.983185 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :всё нормально. меня взломали и поэтому я писал капсом.
+2017-08-28 17:35:26.836709 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :@inhix если тебе не нравится, что он пишет не капсом, я могу ему снова таймаут кинуть
+2017-08-28 17:35:38.082386 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :Keepo
+2017-08-28 17:36:01.516743 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :МЕЧ
+2017-08-28 17:36:03.855606 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :ВЛАСТЬ
+2017-08-28 17:36:19.204854 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :та всё ок. я уже отпиздил того чела и выебал его мамку. (это был Forse, кстати)
+2017-08-28 17:37:41.421746 bot: PRIVMSG #zerxam : _bot zerxam в вк: https://vk.com/id228197148
+2017-08-28 17:38:08.598121 ping-pong
+2017-08-28 17:40:37.296489 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :снайпер
+2017-08-28 17:42:55.676064 ping-pong
+2017-08-28 17:43:21.603667 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :форсе, кроме того, что аккаунты взламывает, ещё и петух.
+2017-08-28 17:44:27.220032 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :Не все норм
+2017-08-28 17:44:34.769514 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :ну да
+2017-08-28 17:45:31.067685 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :-модер
+2017-08-28 17:46:23.162169 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :Смогу проверить только на октоберфесте
+2017-08-28 17:46:28.443134 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :!help
+2017-08-28 17:46:28.444103 bot: PRIVMSG #zerxam : _bot Список доступных команд: !ask <вопрос> - спроси магический шар, !deck - текущая дека, !followage - узнай, сколько времени подписан на канал, !vk - связаться с zerxam'ом, !group - группа в вк, !uptime - узнай, сколько времени идет стрим, !мамка - узнай, сколько здоровья у матери любимого тебе человека, !topdeck - зафиксируй топдек, !songrequest - запрос на музыку на стриме, !song - текущая песня
+2017-08-28 17:47:03.187239 ping-pong
+2017-08-28 17:47:37.086468 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :ну типа он немец, а октоберфест в германии проходит
+2017-08-28 17:48:40.230845 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :близзард никогда не починит обсервер мод, смирись.
+2017-08-28 17:50:55.712314 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :выбирай - либо Слава КПСС, либо гачи
+2017-08-28 17:51:16.064081 ping-pong
+2017-08-28 17:53:40.881464 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :gachiBASS gachiBASS gachiBASS gachiBASS
+2017-08-28 17:54:22.310837 bot: PRIVMSG #zerxam : _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-08-28 17:54:51.244609 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :gachiBASS
+2017-08-28 17:55:03.623637 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :включи бттв на канале
+2017-08-28 17:56:09.449819 ping-pong
+2017-08-28 17:56:16.226264 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :гугли bttv
+2017-08-28 17:56:22.791818 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :мб в хроме плагин поставить
+2017-08-28 17:56:24.737358 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :и заходи там через твич
+2017-08-28 17:58:34.087713 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/
+2017-08-28 17:58:59.666924 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 17:59:12.436029 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :да я зачсвшился
+2017-08-28 17:59:27.331592 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :собрал контроль ханта на арене без вторых дропов и с келсетом
+2017-08-28 17:59:39.221118 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :в ожидании 0-3 ResidentSleeper
+2017-08-28 18:00:10.723191 ping-pong
+2017-08-28 18:00:24.753808 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :расстановочка от бога (таунт справа нужно было)
+2017-08-28 18:00:42.847416 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:43.273750 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:43.826743 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:44.431765 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:44.968654 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:45.669741 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :https://manage.betterttv.net/emotes/share
+2017-08-28 18:00:54.389244 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :SwiftRage
+2017-08-28 18:01:37.769463 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :!pyramid https://manage.betterttv.net/emotes/share
+2017-08-28 18:01:37.774341 bot: PRIVMSG #zerxam : _bot https://manage.betterttv.net/emotes/share
+2017-08-28 18:01:37.774517 bot: PRIVMSG #zerxam : _bot https://manage.betterttv.net/emotes/share https://manage.betterttv.net/emotes/share
+2017-08-28 18:01:37.774743 bot: PRIVMSG #zerxam : _bot https://manage.betterttv.net/emotes/share https://manage.betterttv.net/emotes/share https://manage.betterttv.net/emotes/share
+2017-08-28 18:01:37.774848 bot: PRIVMSG #zerxam : _bot https://manage.betterttv.net/emotes/share https://manage.betterttv.net/emotes/share
+2017-08-28 18:01:37.774928 bot: PRIVMSG #zerxam : _bot https://manage.betterttv.net/emotes/share
+2017-08-28 18:04:15.240995 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :скинь ссылку на плейлист gachiBASS
+2017-08-28 18:04:54.412259 ping-pong
+2017-08-28 18:05:03.359106 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :и тут в комнату заходит мама стримера, который слушает гачи, начинаются разборки. это попадает в топ моментов твича и максим просыпается известным стримером завтра.
+2017-08-28 18:05:19.825089 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :(он в наушниках)
+2017-08-28 18:06:11.369659 :zerxam!zerxam@zerxam.tmi.twitch.tv PRIVMSG #zerxam :https://www.youtube.com/watch?v=v_T8QSIUIeU
+2017-08-28 18:07:48.702787 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :когда-нибудь основы гачимучи будут преподавать в консерваториях, а пока что иы наслаждаемся великими творениями в этом жанре.
+2017-08-28 18:09:05.224663 ping-pong
+2017-08-28 18:11:03.185748 bot: PRIVMSG #zerxam : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-28 18:11:51.247605 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :new class PogChamp
+2017-08-28 18:13:18.060392 ping-pong
+2017-08-28 18:17:58.027214 ping-pong
+2017-08-28 18:20:04.284752 :perekormili!perekormili@perekormili.tmi.twitch.tv PRIVMSG #zerxam :я пригорел держу в курсе
+2017-08-28 18:20:44.435819 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :А это правда, что те, кто сидят в 30к легенды автоматом переходят в легу в вольном?
+2017-08-28 18:22:41.181529 ping-pong
+2017-08-28 18:22:45.673570 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :+
+2017-08-28 18:23:10.120417 :inhix!inhix@inhix.tmi.twitch.tv PRIVMSG #zerxam :без проблем. сделаем конфетку
+2017-08-28 18:27:06.570222 ping-pong
+2017-08-28 18:27:44.078455 bot: PRIVMSG #zerxam : _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-08-28 18:32:05.217101 ping-pong
+2017-08-28 18:36:15.225226 ping-pong
+2017-08-28 18:41:11.870155 ping-pong
+2017-08-28 18:44:24.981846 bot: PRIVMSG #zerxam : _bot закинуть бабла сюда: https://twitch.streamlabs.com/zerxam или http://www.donationalerts.ru/r/zerxam
+2017-08-28 18:46:10.328373 ping-pong
+2017-08-28 18:48:27.679619 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #zerxam :stop
+2017-08-28 18:48:27.680692 bot: PRIVMSG #zerxam : _bot Пока!

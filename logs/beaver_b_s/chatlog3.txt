@@ -396,3 +396,168 @@
 2017-08-27 11:25:18.537737 :pewpewomgrailgun!pewpewomgrailgun@pewpewomgrailgun.tmi.twitch.tv PRIVMSG #beaver_b_s :дк дали на 2м выборе я разогнался блять
 2017-08-27 11:28:21.768544 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
 2017-08-27 11:29:03.779117 ping-pong
+2017-08-27 11:33:55.512341 ping-pong
+2017-08-27 11:38:02.367840 ping-pong
+2017-08-27 11:39:41.655921 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-27 11:39:42.609970 bot: PRIVMSG #beaver_b_s : _bot beaver_b_s is live for 3 hours, 28 minutes, 36 seconds
+2017-08-27 11:42:14.041482 ping-pong
+2017-08-27 11:42:45.893722 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :SMOrc
+2017-08-27 11:45:02.718830 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 11:47:11.158345 ping-pong
+2017-08-27 11:51:47.995569 ping-pong
+2017-08-27 11:55:56.109838 ping-pong
+2017-08-27 11:59:28.920420 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Салам
+2017-08-27 12:00:13.833747 ping-pong
+2017-08-27 12:00:46.908446 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Он тупой, мог по тебе попасть 1 огненным шаром, а потом ударить.
+2017-08-27 12:01:43.644762 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 12:03:35.921378 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну, у тебя был божественный щит, мог по тебе ударить фаерболом, а потом Гидрой
+2017-08-27 12:03:43.382131 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :А он просто ударил Гидрой
+2017-08-27 12:04:23.155830 ping-pong
+2017-08-27 12:04:48.751135 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :А, понятно
+2017-08-27 12:05:23.044882 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Долго играешь в хс?
+2017-08-27 12:06:50.291572 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Начинающий стример?
+2017-08-27 12:07:36.985387 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :А чё аватарки нет? :D
+2017-08-27 12:08:35.617721 ping-pong
+2017-08-27 12:08:50.721291 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Я вот неделю назад где-то начал играть.
+2017-08-27 12:09:24.355878 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Да.
+2017-08-27 12:09:45.794792 :pewpewomgrailgun!pewpewomgrailgun@pewpewomgrailgun.tmi.twitch.tv PRIVMSG #beaver_b_s :ладно, я спать пошел. хостить тебя поидее мой канал по умолчанию. Спокойной ночи и хороших арен
+2017-08-27 12:10:36.907821 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :А для новичка, вроде меня 19 ранг - это нормально?
+2017-08-27 12:11:53.398958 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :19 же, нет?
+2017-08-27 12:12:02.118788 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Рубашку вроде с 19 дают
+2017-08-27 12:12:09.280975 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Или с 20?
+2017-08-27 12:12:12.254305 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну, за большой ранг дают лучше сундук
+2017-08-27 12:12:14.727961 :raysmenz!raysmenz@raysmenz.tmi.twitch.tv PRIVMSG #beaver_b_s :За 20
+2017-08-27 12:12:49.923629 ping-pong
+2017-08-27 12:14:53.293178 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :вообще не понимаю почему близзы зажмотились на голд легу за легенду
+2017-08-27 12:15:55.857733 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ну сколько. Ну тысяч 5
+2017-08-27 12:16:20.881680 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Как будто у тех, кто в леге нет нормальной коллекции
+2017-08-27 12:17:12.600275 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!топдек
+2017-08-27 12:17:12.603636 bot: PRIVMSG #beaver_b_s : _bot топдекаю уже 4 раз(а)
+2017-08-27 12:17:25.763446 ping-pong
+2017-08-27 12:18:24.528230 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 12:18:38.786211 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Они выпускают кучу аддонов в год с кучей карт, неужели 1 лега в месяц - это так много
+2017-08-27 12:19:15.934582 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Тем более, что если хочешь норм играть, то будешь открывать паки и крафтить карты почти сразу после аддона
+2017-08-27 12:21:51.478865 ping-pong
+2017-08-27 12:23:01.258776 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Раньше было плавнее
+2017-08-27 12:26:07.062023 ping-pong
+2017-08-27 12:26:26.480255 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :норм
+2017-08-27 12:26:45.863352 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А что за комп у тебя? Говоришь новый
+2017-08-27 12:27:10.927332 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да сейчас лучше, как было раньше
+2017-08-27 12:27:52.688898 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :SeemsGood
+2017-08-27 12:28:17.464966 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Как раз для хса 4Head
+2017-08-27 12:31:01.209519 ping-pong
+2017-08-27 12:35:05.424084 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 12:35:58.624849 ping-pong
+2017-08-27 12:40:54.883278 ping-pong
+2017-08-27 12:41:37.087945 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!топдек
+2017-08-27 12:41:37.089372 bot: PRIVMSG #beaver_b_s : _bot топдекаю уже 5 раз(а)
+2017-08-27 12:42:43.917883 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Там алакир ещё в деке
+2017-08-27 12:43:57.411775 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-27 12:43:58.960562 bot: PRIVMSG #beaver_b_s : _bot beaver_b_s is live for 4 hours, 32 minutes, 52 seconds
+2017-08-27 12:45:00.465236 ping-pong
+2017-08-27 12:49:54.303858 ping-pong
+2017-08-27 12:51:46.355182 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-27 12:54:27.411945 ping-pong
+2017-08-27 12:58:31.445325 ping-pong
+2017-08-27 13:03:28.946110 ping-pong
+2017-08-27 13:08:27.265830 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 13:08:27.575435 ping-pong
+2017-08-27 13:13:05.485845 ping-pong
+2017-08-27 13:17:12.106064 ping-pong
+2017-08-27 13:21:48.324350 ping-pong
+2017-08-27 13:25:08.187847 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-27 13:25:50.651619 ping-pong
+2017-08-27 13:30:31.752503 ping-pong
+2017-08-27 13:35:14.608830 ping-pong
+2017-08-27 13:39:20.029955 ping-pong
+2017-08-27 13:41:49.098099 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-27 13:43:27.028457 ping-pong
+2017-08-27 13:47:32.507888 ping-pong
+2017-08-27 13:52:20.566237 ping-pong
+2017-08-27 13:57:14.886460 ping-pong
+2017-08-27 13:58:30.010803 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-27 14:01:28.131200 ping-pong
+2017-08-27 14:05:49.083406 ping-pong
+2017-08-27 14:10:07.730897 ping-pong
+2017-08-27 14:13:33.578911 :ned_srak!ned_srak@ned_srak.tmi.twitch.tv PRIVMSG #beaver_b_s :консид или пидор PogChamp
+2017-08-27 14:14:42.786966 ping-pong
+2017-08-27 14:15:10.934405 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 14:19:07.011053 ping-pong
+2017-08-27 14:23:21.620687 ping-pong
+2017-08-27 14:27:59.954196 :nickvitebsk!nickvitebsk@nickvitebsk.tmi.twitch.tv PRIVMSG #beaver_b_s :Когда будет поход в топ 100?
+2017-08-27 14:28:14.453247 ping-pong
+2017-08-27 14:28:42.864664 :nickvitebsk!nickvitebsk@nickvitebsk.tmi.twitch.tv PRIVMSG #beaver_b_s :А как же пират вар?)))
+2017-08-27 14:31:51.846118 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 14:32:26.970861 ping-pong
+2017-08-27 14:37:26.952937 ping-pong
+2017-08-27 14:41:41.135369 ping-pong
+2017-08-27 14:46:24.088958 ping-pong
+2017-08-27 14:48:32.759880 bot: PRIVMSG #beaver_b_s : _bot !request <url> - закажи песню на стриме бесплатно!
+2017-08-27 14:50:36.302870 ping-pong
+2017-08-27 14:54:58.277287 ping-pong
+2017-08-27 14:59:43.235424 ping-pong
+2017-08-27 15:04:25.146114 ping-pong
+2017-08-27 15:05:13.665394 bot: PRIVMSG #beaver_b_s : _bot напиши !help чтобы просмотреть список доступных команд
+2017-08-27 15:08:54.265110 ping-pong
+2017-08-27 15:12:32.548856 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-27 15:12:33.177379 bot: PRIVMSG #beaver_b_s : _bot beaver_b_s is live for 7 hours, 1 minute, 27 seconds
+2017-08-27 15:12:48.110396 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :7 часов капец ты монстр
+2017-08-27 15:12:58.540597 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А ещё начинающий стример...
+2017-08-27 15:13:00.111438 ping-pong
+2017-08-27 15:13:40.704924 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :У тебя кстати опять картинка не очень плавная
+2017-08-27 15:15:51.769552 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Деку обнови
+2017-08-27 15:16:00.723359 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И заголовок
+2017-08-27 15:17:23.163998 ping-pong
+2017-08-27 15:21:30.467205 ping-pong
+2017-08-27 15:21:54.571929 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 15:25:50.848950 ping-pong
+2017-08-27 15:30:15.306768 ping-pong
+2017-08-27 15:34:22.850329 ping-pong
+2017-08-27 15:38:35.459249 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 15:38:44.303277 ping-pong
+2017-08-27 15:41:40.575144 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Тут
+2017-08-27 15:41:48.612720 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :?
+2017-08-27 15:42:54.263913 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Добавь меня на твиче
+2017-08-27 15:43:37.042006 ping-pong
+2017-08-27 15:44:42.458225 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Как ты меня добавил
+2017-08-27 15:44:44.589826 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Я не вижу
+2017-08-27 15:47:08.304932 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ща я с компа зайду
+2017-08-27 15:47:18.596980 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А то с планшета не видит тебя
+2017-08-27 15:47:58.742718 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Подтверди мой запрос
+2017-08-27 15:48:03.237918 ping-pong
+2017-08-27 15:48:38.240759 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Во
+2017-08-27 15:49:16.630118 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Я скинул скайп
+2017-08-27 15:49:22.269272 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Но ты вроде у меня есть
+2017-08-27 15:49:32.717880 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :В скайпе
+2017-08-27 15:49:40.975344 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :По идее и я у тебя должен быть
+2017-08-27 15:50:01.653681 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Только давай с перерывом в пару часиков
+2017-08-27 15:51:35.631757 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ок? А то мне ещё кое-что сделать надо
+2017-08-27 15:51:55.583632 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да и ты как раз отдохнёшь
+2017-08-27 15:52:12.867831 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :А то для начинающего стримера
+2017-08-27 15:52:16.720038 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :!uptime
+2017-08-27 15:52:17.436781 bot: PRIVMSG #beaver_b_s : _bot beaver_b_s is live for 7 hours, 41 minutes, 11 seconds
+2017-08-27 15:52:28.866881 ping-pong
+2017-08-27 15:52:29.047436 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :8 часов жесть
+2017-08-27 15:53:39.612562 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Ща я тебе ещё зрителя приведу
+2017-08-27 15:55:16.368907 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 15:56:29.303276 ping-pong
+2017-08-27 16:00:39.159737 ping-pong
+2017-08-27 16:04:04.376092 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :HeyGuys @olderor
+2017-08-27 16:04:15.154849 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :лол
+2017-08-27 16:04:23.552552 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :я вроде и был тут
+2017-08-27 16:04:50.204814 ping-pong
+2017-08-27 16:09:29.316196 ping-pong
+2017-08-27 16:11:34.548861 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :LUL
+2017-08-27 16:11:57.281852 bot: PRIVMSG #beaver_b_s : _bot Если понравился стрим, не забудь нажать кнопку follow
+2017-08-27 16:13:33.622351 ping-pong
+2017-08-27 16:15:55.410300 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Хештег host
+2017-08-27 16:15:58.698130 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :И ник
+2017-08-27 16:16:34.041733 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :#host SwateHS
+2017-08-27 16:16:52.510784 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Блин
+2017-08-27 16:17:07.423265 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Да
+2017-08-27 16:17:11.951255 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :Слеш
+2017-08-27 16:17:16.779662 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :То я перепутал
+2017-08-27 16:17:37.918027 ping-pong
+2017-08-27 16:18:02.434735 :beaver_b_s!beaver_b_s@beaver_b_s.tmi.twitch.tv PRIVMSG #beaver_b_s :оно хостится там?
+2017-08-27 16:18:05.488097 :olderor!olderor@olderor.tmi.twitch.tv PRIVMSG #beaver_b_s :exit
+2017-08-27 16:18:05.491916 bot: PRIVMSG #beaver_b_s : _bot Пока!
